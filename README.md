@@ -7,3 +7,4 @@
 ### August 18, 2016
 - [bottkars/vmxtoolkit: vmxtoolkit is the Powershell extension to VMware Workstation](https://github.com/bottkars/vmxtoolkit/) 
 - [Concourse CI - Introduction](https://concourse.ci/introduction.html) 
+- [Home · jenkinsci/job-dsl-plugin Wiki](https://github.com/jenkinsci/job-dsl-plugin/wiki) 

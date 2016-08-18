@@ -8,3 +8,4 @@
 - [bottkars/vmxtoolkit: vmxtoolkit is the Powershell extension to VMware Workstation](https://github.com/bottkars/vmxtoolkit/) 
 - [Concourse CI - Introduction](https://concourse.ci/introduction.html) - Concourse CI seems to have a binary installer now!!!
 - [Home · jenkinsci/job-dsl-plugin Wiki](https://github.com/jenkinsci/job-dsl-plugin/wiki) - good examples on Jenkins Job DSL.
+- [mchav/with: Command prefixing for continuous workflow using a single tool.](https://github.com/mchav/with) 

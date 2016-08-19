@@ -9,3 +9,6 @@
 - [Concourse CI - Introduction](https://concourse.ci/introduction.html) - Concourse CI seems to have a binary installer now!!!
 - [Home · jenkinsci/job-dsl-plugin Wiki](https://github.com/jenkinsci/job-dsl-plugin/wiki) - good examples on Jenkins Job DSL.
 - [mchav/with: Command prefixing for continuous workflow using a single tool.](https://github.com/mchav/with) 
+
+### August 19, 2016
+- [Automated Image Builds with Jenkins, Packer, and Kubernetes  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes) 

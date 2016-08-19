@@ -12,3 +12,4 @@
 
 ### August 19, 2016
 - [Automated Image Builds with Jenkins, Packer, and Kubernetes  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes) 
+- [GoogleCloudPlatform/kube-jenkins-imager](https://github.com/GoogleCloudPlatform/kube-jenkins-imager) 

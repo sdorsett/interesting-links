@@ -16,3 +16,6 @@
 
 ### September 3, 2016
 - [San Antonio Zoo - Visitor tips](https://sazoo.org/general-information/visitor-tips/) 
+
+### September 9, 2016
+- [How to Set Up PostgreSQL for High Availability and Replication with Hot Standby  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/setup-postgres-hot-standby) 

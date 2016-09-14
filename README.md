@@ -19,3 +19,6 @@
 
 ### September 9, 2016
 - [How to Set Up PostgreSQL for High Availability and Replication with Hot Standby  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/setup-postgres-hot-standby) 
+
+### September 14, 2016
+- [blueboxgroup/giftwrap: A tool for creating bespoke system-native OpenStack artifacts.](https://github.com/blueboxgroup/giftwrap) 

@@ -22,3 +22,6 @@
 
 ### September 14, 2016
 - [blueboxgroup/giftwrap: A tool for creating bespoke system-native OpenStack artifacts.](https://github.com/blueboxgroup/giftwrap) 
+
+### October 10, 2016
+- [LinuxCommand.org: Learn the Linux command line. Write shell scripts.](http://www.linuxcommand.org/index.php) 

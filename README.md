@@ -26,3 +26,6 @@
 ### October 10, 2016
 - [LinuxCommand.org: Learn the Linux command line. Write shell scripts.](http://www.linuxcommand.org/index.php) 
 - [Containers From Scratch Pt. 1](http://tejom.github.io/c/linux/containers/docker/2016/10/04/containers-from-scratch-pt1.html) 
+
+### October 11, 2016
+- [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/) 

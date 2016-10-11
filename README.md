@@ -29,3 +29,4 @@
 
 ### October 11, 2016
 - [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/) 
+- [A simple Jenkis 2.0 and Docker workflow – Medium](https://medium.com/@laszlocph/a-simple-jenkis-2-0-and-docker-workflow-9cd2a7232037#.jwvqhfzd5) 

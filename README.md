@@ -37,3 +37,4 @@
 ### November 5, 2016
 - [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) 
 - [kvexpress - transporting configuration through Consul · Darron Froese](https://blog.froese.org/2016/01/25/kvexpress-transporting-config-through-consul/) 
+- [Introducing vagrant-env plugin](http://www.gregosuri.com/2014/08/31/introducing-vagrant-env-plugin/) 

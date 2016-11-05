@@ -33,3 +33,6 @@
 
 ### October 12, 2016
 - [Hacking Photon OS to Do Your Bidding – timcarr.net](http://www.timcarr.net/?p=471) 
+
+### November 5, 2016
+- [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) 

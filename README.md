@@ -38,3 +38,6 @@
 - [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) 
 - [kvexpress - transporting configuration through Consul · Darron Froese](https://blog.froese.org/2016/01/25/kvexpress-transporting-config-through-consul/) 
 - [An Improved Way to use YAML with Vagrant · Scott's Weblog · The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing](http://blog.scottlowe.org/2016/01/14/improved-way-yaml-vagrant/) 
+
+### November 15, 2016
+- [hashicorp/vault-ruby: The official Ruby client for HashiCorp's Vault](https://github.com/hashicorp/vault-ruby) 

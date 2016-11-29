@@ -41,3 +41,6 @@
 
 ### November 15, 2016
 - [hashicorp/vault-ruby: The official Ruby client for HashiCorp's Vault](https://github.com/hashicorp/vault-ruby) 
+
+### November 29, 2016
+- [RealCodez Pilot](http://realcodez.com/2016/11/23/realcodez-pilot.html) 

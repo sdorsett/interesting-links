@@ -44,3 +44,6 @@
 
 ### November 29, 2016
 - [RealCodez Pilot](http://realcodez.com/2016/11/23/realcodez-pilot.html) 
+
+### December 7, 2016
+- [Running a secure DDNS service with BIND | Julien Valroff](https://www.kirya.net/articles/running-a-secure-ddns-service-with-bind/) 

@@ -50,3 +50,6 @@
 
 ### December 14, 2016
 - [rancher/convoy: A Docker volume plugin, managing persistent container volumes.](https://github.com/rancher/convoy) 
+
+### December 15, 2016
+- [Dataplicity: Remotely control your Raspberry Pi](https://www.dataplicity.com/) 

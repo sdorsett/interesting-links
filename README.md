@@ -56,3 +56,6 @@
 
 ### December 16, 2016
 - [Exporting Reveal.js Slides to PDF using Decktape | Steve Grunwell](https://stevegrunwell.com/blog/export-reveal-slides-decktape/) 
+
+### December 17, 2016
+- [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted) 

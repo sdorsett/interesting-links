@@ -53,3 +53,6 @@
 
 ### December 15, 2016
 - [Dataplicity: Remotely control your Raspberry Pi](https://www.dataplicity.com/) 
+
+### December 16, 2016
+- [Exporting Reveal.js Slides to PDF using Decktape | Steve Grunwell](https://stevegrunwell.com/blog/export-reveal-slides-decktape/) 

@@ -63,3 +63,6 @@
 ### December 18, 2016
 - [damnever/pigar: A fantastic tool to generate requirements file for your Python project, and more than that.](https://github.com/damnever/pigar) 
 - [cloudson/gitql: A git query language](https://github.com/cloudson/gitql) 
+
+### December 21, 2016
+- [Virtuous Code | "The three virtues of a programmer: laziness, impatience, and hubris" — Larry Wall](http://www.virtuouscode.com/) 

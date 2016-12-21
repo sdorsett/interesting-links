@@ -66,3 +66,4 @@
 
 ### December 21, 2016
 - [Virtuous Code | "The three virtues of a programmer: laziness, impatience, and hubris" — Larry Wall](http://www.virtuouscode.com/) 
+- [resque/resque: Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.](https://github.com/resque/resque) 

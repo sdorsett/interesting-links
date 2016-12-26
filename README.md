@@ -68,3 +68,6 @@
 - [Virtuous Code | "The three virtues of a programmer: laziness, impatience, and hubris" — Larry Wall](http://www.virtuouscode.com/) 
 - [resque/resque: Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.](https://github.com/resque/resque) 
 - [bkeepers/dotenv: Loads environment variables from `.env`.](https://github.com/bkeepers/dotenv) 
+
+### December 26, 2016
+- [vCloud Director 8.10.1, best way to learn cloud AND… – Part 1 | What's Next...?](http://billho.website/?p=845) 

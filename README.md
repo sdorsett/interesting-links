@@ -71,3 +71,6 @@
 
 ### December 26, 2016
 - [vCloud Director 8.10.1, best way to learn cloud AND… – Part 1 | What's Next...?](http://billho.website/?p=845) 
+
+### December 29, 2016
+- [use consul as DNS for local services, fronted by Bind for the rest](https://gist.github.com/wfaler/30b7d2ab5d97ae25416c) 

@@ -75,3 +75,6 @@
 ### December 29, 2016
 - [use consul as DNS for local services, fronted by Bind for the rest](https://gist.github.com/wfaler/30b7d2ab5d97ae25416c) 
 - [Consul, DNS and Dnsmasq · More than seven](http://www.morethanseven.net/2014/04/25/consul/) 
+
+### December 30, 2016
+- [AcalephStorage/awesome-devops: A curated list of resources for Devops](https://github.com/AcalephStorage/awesome-devops) 

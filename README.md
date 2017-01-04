@@ -81,3 +81,4 @@
 
 ### January 4, 2017
 - [jippi/hashi-ui: A user interface for the @hashicorp Consul & Nomad](https://github.com/jippi/hashi-ui) 
+- [Events - Code @ VMware](https://code.vmware.com/events/) 

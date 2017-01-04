@@ -78,3 +78,6 @@
 
 ### December 30, 2016
 - [AcalephStorage/awesome-devops: A curated list of resources for Devops](https://github.com/AcalephStorage/awesome-devops) 
+
+### January 4, 2017
+- [jippi/hashi-ui: A user interface for the @hashicorp Consul & Nomad](https://github.com/jippi/hashi-ui) 

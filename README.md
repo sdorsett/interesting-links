@@ -86,3 +86,6 @@
 
 ### January 5, 2017
 - [jenkinsci/simple-travis-runner-plugin](https://github.com/jenkinsci/simple-travis-runner-plugin) 
+
+### January 6, 2017
+- [GalliumOS – A fast and lightweight Linux distro for ChromeOS devices](https://galliumos.org/) 

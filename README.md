@@ -92,3 +92,6 @@
 
 ### January 7, 2017
 - [davegoopot/minecraft-button-lights: Real world to Minecraft interactions between buttons and lights](https://github.com/davegoopot/minecraft-button-lights) 
+
+### January 8, 2017
+- [KidsHackDay/minecraft: Framework to create mini-games inside Minecraft](https://github.com/KidsHackDay/minecraft) 

@@ -89,3 +89,6 @@
 
 ### January 6, 2017
 - [GalliumOS – A fast and lightweight Linux distro for ChromeOS devices](https://galliumos.org/) 
+
+### January 7, 2017
+- [davegoopot/minecraft-button-lights: Real world to Minecraft interactions between buttons and lights](https://github.com/davegoopot/minecraft-button-lights) 

@@ -101,3 +101,4 @@
 
 ### January 9, 2017
 - [Unbound](http://www.unbound.net/) 
+- [mreferre/harbor-setupwrapper: An experimental mechanism to deploy VMware Harbor](https://github.com/mreferre/harbor-setupwrapper) 

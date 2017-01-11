@@ -102,3 +102,6 @@
 ### January 9, 2017
 - [Unbound](http://www.unbound.net/) 
 - [mreferre/harbor-setupwrapper: An experimental mechanism to deploy VMware Harbor](https://github.com/mreferre/harbor-setupwrapper) 
+
+### January 11, 2017
+- [digitalocean/netbox: IP address management (IPAM) and data center infrastructure management (DCIM) tool.](https://github.com/digitalocean/netbox/) 

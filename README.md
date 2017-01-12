@@ -106,3 +106,4 @@
 ### January 11, 2017
 - [digitalocean/netbox: IP address management (IPAM) and data center infrastructure management (DCIM) tool.](https://github.com/digitalocean/netbox/) 
 - [drbig/fx-tftp: Hackable and ACTUALLY WORKING pure-Ruby TFTP server](https://github.com/drbig/fx-tftp) 
+- [theforeman/smart-proxy: RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet](https://github.com/theforeman/smart-proxy) 

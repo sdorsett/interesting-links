@@ -107,3 +107,6 @@
 - [digitalocean/netbox: IP address management (IPAM) and data center infrastructure management (DCIM) tool.](https://github.com/digitalocean/netbox/) 
 - [drbig/fx-tftp: Hackable and ACTUALLY WORKING pure-Ruby TFTP server](https://github.com/drbig/fx-tftp) 
 - [theforeman/smart-proxy: RESTful proxies for DNS, DHCP, TFTP, BMC and Puppet](https://github.com/theforeman/smart-proxy) 
+
+### January 13, 2017
+- [keepcosmos/terjira: Terjira is a very interactive and easy to use CLI tool for Jira.](https://github.com/keepcosmos/terjira?utm_source=rubyweekly&utm_medium=email) 

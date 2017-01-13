@@ -110,6 +110,4 @@
 
 ### January 13, 2017
 - [keepcosmos/terjira: Terjira is a very interactive and easy to use CLI tool for Jira.](https://github.com/keepcosmos/terjira?utm_source=rubyweekly&utm_medium=email) 
-- [keepcosmos/terjira: Terjira is a very interactive and easy to use CLI tool for Jira.](https://github.com/keepcosmos/terjira?utm_source=rubyweekly&utm_medium=email) 
-- [Squib | A Ruby DSL for prototyping card games](http://squib.rocks/) 
 - [Squib | A Ruby DSL for prototyping card games](http://squib.rocks/) 

@@ -120,3 +120,4 @@
 
 ### January 29, 2017
 - [Google - Site Reliability Engineering](https://landing.google.com/sre/book/index.html) 
+- [Commandline Challenge](https://cmdchallenge.com/) 

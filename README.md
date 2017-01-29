@@ -117,3 +117,6 @@
 
 ### January 26, 2017
 - [RubyFlow](http://www.rubyflow.com/) 
+
+### January 29, 2017
+- [Google - Site Reliability Engineering](https://landing.google.com/sre/book/index.html) 

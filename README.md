@@ -124,3 +124,4 @@
 
 ### January 30, 2017
 - [VividCortex/pm: Processlist manager with TCP listener](https://github.com/VividCortex/pm) 
+- [Instrumentation: Instrumenting HTTP Services | Honeycomb.io](https://honeycomb.io/blog/2017/01/instrumentation-instrumenting-http-services/) 

@@ -131,3 +131,4 @@
 
 ### February 9, 2017
 - [The pairing test for naming things - The Pug Automatic](https://thepugautomatic.com/2017/01/the-pairing-test/) 
+- [Event Sourcing - a practical example using Ruby](http://oierud.net/bliki/EventSourcingInRuby.html) 

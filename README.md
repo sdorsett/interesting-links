@@ -128,3 +128,6 @@
 
 ### February 8, 2017
 - [jwt-sinatra-example/app.rb at master · nickdufresne/jwt-sinatra-example](https://github.com/nickdufresne/jwt-sinatra-example/blob/master/app.rb) 
+
+### February 9, 2017
+- [The pairing test for naming things - The Pug Automatic](https://thepugautomatic.com/2017/01/the-pairing-test/) 

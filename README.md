@@ -132,3 +132,6 @@
 ### February 9, 2017
 - [The pairing test for naming things - The Pug Automatic](https://thepugautomatic.com/2017/01/the-pairing-test/) 
 - [Event Sourcing - a practical example using Ruby](http://oierud.net/bliki/EventSourcingInRuby.html) 
+
+### February 10, 2017
+- [Deploying Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/07/deploying-jenkins-with-kubernetes.html) 

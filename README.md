@@ -137,3 +137,4 @@
 - [Deploying Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/07/deploying-jenkins-with-kubernetes.html) 
 - [Adding Persistent Volumes to Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/08/adding-persistent-volumes-to-jenkins-with-kubernetes-volumes.html) 
 - [Auto-Scaling Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/09/autoscaling-jenkins-with-kubernetes.html) 
+- [White Noise Sounds of Frozen Arctic Ocean with Polar Icebreaker Idling - Creating Delta Waves - YouTube](https://www.youtube.com/watch?v=gpW7iYfuGDU) 

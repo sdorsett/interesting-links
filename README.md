@@ -135,3 +135,4 @@
 
 ### February 10, 2017
 - [Deploying Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/07/deploying-jenkins-with-kubernetes.html) 
+- [Adding Persistent Volumes to Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/08/adding-persistent-volumes-to-jenkins-with-kubernetes-volumes.html) 

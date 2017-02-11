@@ -139,3 +139,4 @@
 - [Auto-Scaling Jenkins with Kubernetes](http://www.monkeylittle.com/blog/2017/02/09/autoscaling-jenkins-with-kubernetes.html) 
 - [White Noise Sounds of Frozen Arctic Ocean with Polar Icebreaker Idling - Creating Delta Waves - YouTube](https://www.youtube.com/watch?v=gpW7iYfuGDU) 
 - [Awesome Ruby](https://ruby.libhunt.com/) 
+- [davidgf/design-patterns-in-ruby: GoF design patterns in Ruby](https://github.com/davidgf/design-patterns-in-ruby?utm_medium=email&utm_source=flipboard) 

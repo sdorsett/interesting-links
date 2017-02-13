@@ -140,3 +140,6 @@
 - [White Noise Sounds of Frozen Arctic Ocean with Polar Icebreaker Idling - Creating Delta Waves - YouTube](https://www.youtube.com/watch?v=gpW7iYfuGDU) 
 - [Awesome Ruby](https://ruby.libhunt.com/) 
 - [davidgf/design-patterns-in-ruby: GoF design patterns in Ruby](https://github.com/davidgf/design-patterns-in-ruby?utm_medium=email&utm_source=flipboard) 
+
+### February 12, 2017
+- [Talking to FreeIPA JSON web API via curl | Adam Young’s Web Log](https://adam.younglogic.com/2010/07/talking-to-freeipa-json-web-api-via-curl/) 

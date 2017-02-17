@@ -143,3 +143,6 @@
 
 ### February 12, 2017
 - [Talking to FreeIPA JSON web API via curl | Adam Young’s Web Log](https://adam.younglogic.com/2010/07/talking-to-freeipa-json-web-api-via-curl/) 
+
+### February 17, 2017
+- [Helpers/self-hosted-vagrant-boxes-with-versioning.md at master · hollodotme/Helpers](https://github.com/hollodotme/Helpers/blob/master/Tutorials/vagrant/self-hosted-vagrant-boxes-with-versioning.md) 

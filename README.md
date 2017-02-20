@@ -146,3 +146,6 @@
 
 ### February 17, 2017
 - [Helpers/self-hosted-vagrant-boxes-with-versioning.md at master · hollodotme/Helpers](https://github.com/hollodotme/Helpers/blob/master/Tutorials/vagrant/self-hosted-vagrant-boxes-with-versioning.md) 
+
+### February 19, 2017
+- [Habits that Pay Off for Programmers - DaedTech](http://www.daedtech.com/habits-pay-off-programmers) 

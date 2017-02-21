@@ -152,3 +152,4 @@
 
 ### February 20, 2017
 - [Building a Custom Jenkins Docker Image - Part 1](http://www.monkeylittle.com/blog/2017/02/14/building-a-custom-jenkins-docker-image-part-1.html) 
+- [Building a Custom Jenkins Docker Image - Part 2](http://www.monkeylittle.com/blog/2017/02/15/building-a-custom-jenkins-docker-image-part-2.html) 

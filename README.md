@@ -149,3 +149,6 @@
 
 ### February 19, 2017
 - [Habits that Pay Off for Programmers - DaedTech](http://www.daedtech.com/habits-pay-off-programmers) 
+
+### February 20, 2017
+- [Building a Custom Jenkins Docker Image - Part 1](http://www.monkeylittle.com/blog/2017/02/14/building-a-custom-jenkins-docker-image-part-1.html) 

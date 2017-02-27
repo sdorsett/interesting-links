@@ -159,3 +159,6 @@
 - [Prometheus - Monitoring system & time series database](https://prometheus.io/) 
 - [Prometheus and Kubernetes: A Perfect Match - Weaveworks](https://www.weave.works/prometheus-kubernetes-perfect-match/) 
 - [Grafana - Beautiful Metrics Dashboards, Data Visualization and Monitoring](http://grafana.org/) 
+
+### February 27, 2017
+- [nimmis/spigot - Docker Hub](https://hub.docker.com/r/nimmis/spigot/) 

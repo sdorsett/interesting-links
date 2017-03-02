@@ -162,3 +162,6 @@
 
 ### February 27, 2017
 - [nimmis/spigot - Docker Hub](https://hub.docker.com/r/nimmis/spigot/) 
+
+### March 1, 2017
+- [kubernetes-anywhere/README.md at master · kubernetes/kubernetes-anywhere](https://github.com/kubernetes/kubernetes-anywhere/blob/master/phase1/vsphere/README.md) 

@@ -168,3 +168,6 @@
 
 ### March 4, 2017
 - [codebender : edu](https://edu.codebender.cc/) 
+
+### March 5, 2017
+- [puppet-ipa/examples at master · purpleidea/puppet-ipa](https://github.com/purpleidea/puppet-ipa/tree/master/examples) 

@@ -171,3 +171,6 @@
 
 ### March 5, 2017
 - [puppet-ipa/examples at master · purpleidea/puppet-ipa](https://github.com/purpleidea/puppet-ipa/tree/master/examples) 
+
+### March 6, 2017
+- [Practical Natural Language Processing with Ruby](http://rubynlp.org/) 

@@ -174,3 +174,6 @@
 
 ### March 6, 2017
 - [Practical Natural Language Processing with Ruby](http://rubynlp.org/) 
+
+### March 7, 2017
+- [ctrlp.vim ÷ home](http://kien.github.io/ctrlp.vim/) 

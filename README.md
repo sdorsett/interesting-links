@@ -177,3 +177,6 @@
 
 ### March 7, 2017
 - [ctrlp.vim ÷ home](http://kien.github.io/ctrlp.vim/) 
+
+### March 12, 2017
+- [bcicen/ctop: Top-like interface for container metrics](https://github.com/bcicen/ctop) 

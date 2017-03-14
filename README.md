@@ -184,3 +184,4 @@
 ### March 14, 2017
 - [Interview Practice | CodeFights](https://codefights.com/interview-practice) 
 - [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/) 
+- [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/) 

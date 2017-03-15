@@ -184,3 +184,6 @@
 ### March 14, 2017
 - [Interview Practice | CodeFights](https://codefights.com/interview-practice) 
 - [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/) 
+
+### March 15, 2017
+- [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 

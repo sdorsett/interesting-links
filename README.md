@@ -187,3 +187,6 @@
 
 ### March 15, 2017
 - [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 
+
+### March 19, 2017
+- [aelsabbahy/goss: Quick and Easy server testing/validation](https://github.com/aelsabbahy/goss) 

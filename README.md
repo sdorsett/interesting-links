@@ -190,3 +190,4 @@
 
 ### March 19, 2017
 - [aelsabbahy/goss: Quick and Easy server testing/validation](https://github.com/aelsabbahy/goss) 
+- [lxdock/lxdock: Build and orchestrate your development environments with LXD - a.k.a. Vagrant is Too Heavy™](https://github.com/lxdock/lxdock) 

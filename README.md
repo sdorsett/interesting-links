@@ -195,3 +195,4 @@
 
 ### March 21, 2017
 - [| software repository management](http://pulpproject.org/) 
+- [motemen/gore: Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.](https://github.com/motemen/gore) 

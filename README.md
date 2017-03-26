@@ -196,3 +196,6 @@
 
 ### March 23, 2017
 - [Ruby 2D](http://www.ruby2d.com/) 
+
+### March 26, 2017
+- [example42/psick: Puppet Systems Infrastructure Construction Kit](https://github.com/example42/psick?utm_source=cronweekly.com) 

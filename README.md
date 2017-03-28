@@ -202,3 +202,4 @@
 
 ### March 28, 2017
 - [Job Scheduler and Runbook Automation - Rundeck.org](http://rundeck.org/) 
+- [benhaines/open-source-management-systems: A collection of open-source management systems solutions.](https://github.com/benhaines/open-source-management-systems) 

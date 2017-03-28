@@ -199,3 +199,6 @@
 
 ### March 26, 2017
 - [example42/psick: Puppet Systems Infrastructure Construction Kit](https://github.com/example42/psick?utm_source=cronweekly.com) 
+
+### March 28, 2017
+- [Job Scheduler and Runbook Automation - Rundeck.org](http://rundeck.org/) 

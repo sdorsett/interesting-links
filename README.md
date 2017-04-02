@@ -207,3 +207,6 @@
 
 ### March 31, 2017
 - [ContainerSolutions/docker-cobbler: Cobbler in a Docker container](https://github.com/ContainerSolutions/docker-cobbler) 
+
+### April 2, 2017
+- [sibson/vncdotool: A command line VNC client and python library](https://github.com/sibson/vncdotool) 

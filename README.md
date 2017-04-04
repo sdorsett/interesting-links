@@ -210,3 +210,6 @@
 
 ### April 2, 2017
 - [sibson/vncdotool: A command line VNC client and python library](https://github.com/sibson/vncdotool) 
+
+### April 4, 2017
+- [Miserlou/Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa) 

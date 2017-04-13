@@ -217,7 +217,7 @@
 ### April 13, 2017
 - [VMware Front Experience: Building a self-configuring nested ESXi host vApp](https://www.v-front.de/2014/01/building-self-configuring-nested-esxi.html) 
 - [nickelser/zhong: Reliable, distributed cron.](https://github.com/nickelser/zhong/?utm_source=rubyweekly&utm_medium=email) 
-- [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable) 
-- [There is No Now - ACM Queue](http://queue.acm.org/detail.cfm?id=2745385) 
-- [You Cannot Have Exactly-Once Delivery – Brave New Geek](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) 
-- [You Can’t Sacrifice Partition Tolerance | codahale.com](https://codahale.com/you-cant-sacrifice-partition-tolerance/) 
+- [The network is reliable (from dist-sys slack)](https://aphyr.com/posts/288-the-network-is-reliable) 
+- [There is No Now - ACM Queue (from dist-sys slack)](http://queue.acm.org/detail.cfm?id=2745385) 
+- [You Cannot Have Exactly-Once Delivery – Brave New Geek (from dist-sys slack)](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) 
+- [You Can’t Sacrifice Partition Tolerance | codahale.com (from dist-sys slack)](https://codahale.com/you-cant-sacrifice-partition-tolerance/) 

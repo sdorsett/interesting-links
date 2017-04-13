@@ -217,3 +217,4 @@
 ### April 13, 2017
 - [VMware Front Experience: Building a self-configuring nested ESXi host vApp](https://www.v-front.de/2014/01/building-self-configuring-nested-esxi.html) 
 - [nickelser/zhong: Reliable, distributed cron.](https://github.com/nickelser/zhong/?utm_source=rubyweekly&utm_medium=email) 
+- [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable) 

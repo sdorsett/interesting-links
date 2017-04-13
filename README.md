@@ -213,3 +213,6 @@
 
 ### April 4, 2017
 - [Miserlou/Zappa: Serverless Python Web Services](https://github.com/Miserlou/Zappa) 
+
+### April 13, 2017
+- [VMware Front Experience: Building a self-configuring nested ESXi host vApp](https://www.v-front.de/2014/01/building-self-configuring-nested-esxi.html) 

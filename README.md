@@ -220,3 +220,4 @@
 - [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable) 
 - [There is No Now - ACM Queue](http://queue.acm.org/detail.cfm?id=2745385) 
 - [You Cannot Have Exactly-Once Delivery – Brave New Geek](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) 
+- [You Can’t Sacrifice Partition Tolerance | codahale.com](https://codahale.com/you-cant-sacrifice-partition-tolerance/) 

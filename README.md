@@ -219,3 +219,4 @@
 - [nickelser/zhong: Reliable, distributed cron.](https://github.com/nickelser/zhong/?utm_source=rubyweekly&utm_medium=email) 
 - [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable) 
 - [There is No Now - ACM Queue](http://queue.acm.org/detail.cfm?id=2745385) 
+- [You Cannot Have Exactly-Once Delivery – Brave New Geek](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) 

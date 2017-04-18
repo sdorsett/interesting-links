@@ -221,3 +221,6 @@
 - [There is No Now - ACM Queue (from dist-sys slack)](http://queue.acm.org/detail.cfm?id=2745385) 
 - [You Cannot Have Exactly-Once Delivery – Brave New Geek (from dist-sys slack)](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) 
 - [You Can’t Sacrifice Partition Tolerance | codahale.com (from dist-sys slack)](https://codahale.com/you-cant-sacrifice-partition-tolerance/) 
+
+### April 18, 2017
+- [voyages-sncf-technologies/cerebro: Open alerting platform over Graphite (timeseries) and Seyren (scheduling).](https://github.com/voyages-sncf-technologies/cerebro) 

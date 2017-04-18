@@ -227,3 +227,4 @@
 - [jcsalterego/historian: Command-line utility for managing shell history in a SQLite database.](https://github.com/jcsalterego/historian) 
 - [backup/backup: Easy full stack backup operations on UNIX-like systems.](https://github.com/backup/backup?utm_source=cronweekly.com) 
 - [gravitational/teleport: Modern SSH server for clusters and teams.](https://github.com/gravitational/teleport) 
+- [Command-line-text-processing/gnu_grep.md at master · learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_grep.md?utm_source=cronweekly.com) 

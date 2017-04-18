@@ -225,3 +225,4 @@
 ### April 18, 2017
 - [voyages-sncf-technologies/cerebro: Open alerting platform over Graphite (timeseries) and Seyren (scheduling).](https://github.com/voyages-sncf-technologies/cerebro) 
 - [jcsalterego/historian: Command-line utility for managing shell history in a SQLite database.](https://github.com/jcsalterego/historian) 
+- [backup/backup: Easy full stack backup operations on UNIX-like systems.](https://github.com/backup/backup?utm_source=cronweekly.com) 

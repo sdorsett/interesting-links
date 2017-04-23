@@ -229,3 +229,6 @@
 - [gravitational/teleport: Modern SSH server for clusters and teams.](https://github.com/gravitational/teleport) 
 - [Command-line-text-processing/gnu_grep.md at master · learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_grep.md?utm_source=cronweekly.com) 
 - [sepulworld/deadman-check: Monitoring companion for Nomad periodic jobs](https://github.com/sepulworld/deadman-check?__s=xgpg8tnnysjtcumufxey) 
+
+### April 23, 2017
+- [Resilience in Ruby: Handling Failure // John Nunemaker](https://johnnunemaker.com/resilience-in-ruby/?utm_campaign=weekly&utm_medium=email&utm_source=newsletter_mailer) 

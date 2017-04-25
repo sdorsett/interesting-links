@@ -232,3 +232,6 @@
 
 ### April 23, 2017
 - [Resilience in Ruby: Handling Failure // John Nunemaker](https://johnnunemaker.com/resilience-in-ruby/?utm_campaign=weekly&utm_medium=email&utm_source=newsletter_mailer) 
+
+### April 24, 2017
+- [djenriquez/vault-ui: Vault-UI — A beautiful UI to manage your Vault, written in React](https://github.com/djenriquez/vault-ui) 

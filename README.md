@@ -232,3 +232,6 @@
 
 ### April 23, 2017
 - [Resilience in Ruby: Handling Failure // John Nunemaker](https://johnnunemaker.com/resilience-in-ruby/?utm_campaign=weekly&utm_medium=email&utm_source=newsletter_mailer) 
+
+### April 24, 2017
+- [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) 

@@ -236,3 +236,4 @@
 ### April 24, 2017
 - [djenriquez/vault-ui: Vault-UI — A beautiful UI to manage your Vault, written in React](https://github.com/djenriquez/vault-ui) 
 - [adnanh/webhook: webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.](https://github.com/adnanh/webhook?utm_source=cronweekly.com) 
+- [nwops/puppet-debugger: A interactive live debugger for the puppet language](https://github.com/nwops/puppet-debugger?utm_source=cronweekly.com) 

@@ -238,3 +238,6 @@
 - [adnanh/webhook: webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.](https://github.com/adnanh/webhook?utm_source=cronweekly.com) 
 - [nwops/puppet-debugger: A interactive live debugger for the puppet language](https://github.com/nwops/puppet-debugger?utm_source=cronweekly.com) 
 - [Jenkins - Servers for Hackers](https://serversforhackers.com/series/jenkins) 
+
+### April 26, 2017
+- [List yum groups (installed, available or available environment) on yum-based systems (RHEL Redhat Fedora CentOS etc.)](https://gist.github.com/steakknife/ed397f893a9c861b902f) 

@@ -252,3 +252,4 @@
 - [Kryptonite - The new way to protect your private key on your phone.](https://krypt.co/?utm_source=cronweekly.com) 
 - [jenkinsci/pipeline-examples: A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin](https://github.com/jenkinsci/pipeline-examples) 
 - [dalalv/jenkinsfiles: Examples collected for Jenkins files from www](https://github.com/dalalv/jenkinsfiles) 
+- [OmniOS](https://omnios.omniti.com/) 

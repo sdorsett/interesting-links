@@ -247,3 +247,6 @@
 
 ### May 10, 2017
 - [Event Store](https://geteventstore.com/) 
+
+### May 11, 2017
+- [Kryptonite - The new way to protect your private key on your phone.](https://krypt.co/?utm_source=cronweekly.com) 

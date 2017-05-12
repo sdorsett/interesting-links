@@ -253,3 +253,6 @@
 - [jenkinsci/pipeline-examples: A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin](https://github.com/jenkinsci/pipeline-examples) 
 - [dalalv/jenkinsfiles: Examples collected for Jenkins files from www](https://github.com/dalalv/jenkinsfiles) 
 - [OmniOS](https://omnios.omniti.com/) 
+
+### May 12, 2017
+- [yandex/gixy: Nginx configuration static analyzer](https://github.com/yandex/gixy) 

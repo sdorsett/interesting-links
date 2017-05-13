@@ -256,3 +256,6 @@
 
 ### May 12, 2017
 - [yandex/gixy: Nginx configuration static analyzer](https://github.com/yandex/gixy) 
+
+### May 13, 2017
+- [vmware/vmw-guestinfo](https://github.com/vmware/vmw-guestinfo) 

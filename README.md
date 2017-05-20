@@ -259,3 +259,6 @@
 
 ### May 13, 2017
 - [vmware/vmw-guestinfo](https://github.com/vmware/vmw-guestinfo) 
+
+### May 20, 2017
+- [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 

@@ -262,3 +262,6 @@
 
 ### May 20, 2017
 - [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/) 
+
+### May 23, 2017
+- [Caiyeon/goldfish: A HashiCorp Vault UI panel written with VueJS and Vault native Go API](https://github.com/Caiyeon/goldfish) 

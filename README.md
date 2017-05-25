@@ -270,3 +270,4 @@
 - [Don’t Read Your Logs – Aditya Mukerjee – Medium](https://medium.com/@chimeracoder/dont-read-your-logs-13586c790202) 
 - [Introduction · Hipstore Workshop - Jumpstarting your Elm Skills](https://hipstore.sploding.rocks/) 
 - [VMware Tools Client | Pierrelx's LAB](http://pierrelx.com/vmware-tools-client/) 
+- [Using Lumogon to inspect your containers | Puppet](https://puppet.com/blog/using-lumogon-inspect-your-containers?ls=Outbound&lsd=Social&cid=7010f000001eUz3&utm_medium=social-media&utm_campaign=Q2FY18_WW_All_PUPPT_OUTBOUND_TW_Lumogon-Inspect-Containers&utm_source=twitter&utm_content=blog-post-cloud) 

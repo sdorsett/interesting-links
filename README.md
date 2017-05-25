@@ -265,3 +265,6 @@
 
 ### May 23, 2017
 - [Caiyeon/goldfish: A HashiCorp Vault UI panel written with VueJS and Vault native Go API](https://github.com/Caiyeon/goldfish) 
+
+### May 25, 2017
+- [Don’t Read Your Logs – Aditya Mukerjee – Medium](https://medium.com/@chimeracoder/dont-read-your-logs-13586c790202) 

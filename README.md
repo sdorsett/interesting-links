@@ -268,3 +268,4 @@
 
 ### May 25, 2017
 - [Don’t Read Your Logs – Aditya Mukerjee – Medium](https://medium.com/@chimeracoder/dont-read-your-logs-13586c790202) 
+- [Introduction · Hipstore Workshop - Jumpstarting your Elm Skills](https://hipstore.sploding.rocks/) 

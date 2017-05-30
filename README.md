@@ -274,3 +274,6 @@
 
 ### May 26, 2017
 - [Documentation - ROS Wiki](http://wiki.ros.org/) 
+
+### May 30, 2017
+- [sirupsen/logrus: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus) 

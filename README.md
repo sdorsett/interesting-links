@@ -277,3 +277,4 @@
 
 ### May 30, 2017
 - [sirupsen/logrus: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus) 
+- [spf13/viper: Go configuration with fangs](https://github.com/spf13/viper) 

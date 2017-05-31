@@ -278,3 +278,6 @@
 ### May 30, 2017
 - [sirupsen/logrus: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus) 
 - [spf13/viper: Go configuration with fangs](https://github.com/spf13/viper) 
+
+### May 31, 2017
+- [ovh/tat: Tat Engine - Text And Tags](https://github.com/ovh/tat) 

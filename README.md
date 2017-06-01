@@ -283,3 +283,6 @@
 - [ovh/tat: Tat Engine - Text And Tags](https://github.com/ovh/tat) 
 - [About | Flow](https://flowdash.co/app/about?__s=xgpg8tnnysjtcumufxey) 
 - [bobrik/collectd-docker: Collect docker container resource usage](https://github.com/bobrik/collectd-docker) 
+
+### June 1, 2017
+- [bobrik/collectd-docker: Collect docker container resource usage](https://github.com/bobrik/collectd-docker) 

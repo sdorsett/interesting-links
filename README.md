@@ -289,3 +289,4 @@
 
 ### June 5, 2017
 - [prometheus/collectd_exporter: A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption](https://github.com/prometheus/collectd_exporter) 
+- [25 Graphite, Grafana and statsd gotchas · Dieter's blog](http://dieter.plaetinck.be/post/25-graphite-grafana-statsd-gotchas/) 

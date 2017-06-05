@@ -286,3 +286,6 @@
 
 ### June 1, 2017
 - [bobrik/collectd-docker: Collect docker container resource usage](https://github.com/bobrik/collectd-docker) 
+
+### June 5, 2017
+- [prometheus/collectd_exporter: A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption](https://github.com/prometheus/collectd_exporter) 

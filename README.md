@@ -294,3 +294,4 @@
 
 ### June 12, 2017
 - [Kioptrix » A few nice ESXi 5.5 binaries](http://www.kioptrix.com/blog/a-few-nice-esxi-5-5-binaries/) 
+- [restic · Backups done right!](https://restic.github.io/) 

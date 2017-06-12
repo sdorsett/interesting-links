@@ -291,3 +291,6 @@
 - [prometheus/collectd_exporter: A server that accepts collectd stats via HTTP POST and exports them via HTTP for Prometheus consumption](https://github.com/prometheus/collectd_exporter) 
 - [25 Graphite, Grafana and statsd gotchas · Dieter's blog](http://dieter.plaetinck.be/post/25-graphite-grafana-statsd-gotchas/) 
 - [Go: command with custom environment](http://craigwickesser.com/2015/02/golang-cmd-with-custom-environment/) 
+
+### June 12, 2017
+- [Kioptrix » A few nice ESXi 5.5 binaries](http://www.kioptrix.com/blog/a-few-nice-esxi-5-5-binaries/) 

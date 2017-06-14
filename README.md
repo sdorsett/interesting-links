@@ -295,3 +295,6 @@
 ### June 12, 2017
 - [Kioptrix » A few nice ESXi 5.5 binaries](http://www.kioptrix.com/blog/a-few-nice-esxi-5-5-binaries/) 
 - [restic · Backups done right!](https://restic.github.io/) 
+
+### June 14, 2017
+- [Docker based continuous integration (Part 1) | Rancher Labs](http://rancher.com/docker-based-build-pipelines-part-1-continuous-integration-and-testing/#3_Using_Docker_Compose_for_creating_build_environments) 

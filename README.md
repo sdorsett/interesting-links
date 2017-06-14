@@ -298,3 +298,4 @@
 
 ### June 14, 2017
 - [Docker based continuous integration (Part 1) | Rancher Labs](http://rancher.com/docker-based-build-pipelines-part-1-continuous-integration-and-testing/#3_Using_Docker_Compose_for_creating_build_environments) 
+- [Ruby on Rails Continuous Integration with Jenkins and Docker Compose](https://medium.com/wolox-driving-innovation/ruby-on-rails-continuous-integration-with-jenkins-and-docker-compose-8dfd24c3df57) 

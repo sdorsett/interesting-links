@@ -300,3 +300,6 @@
 - [Docker based continuous integration (Part 1) | Rancher Labs](http://rancher.com/docker-based-build-pipelines-part-1-continuous-integration-and-testing/#3_Using_Docker_Compose_for_creating_build_environments) 
 - [Ruby on Rails Continuous Integration with Jenkins and Docker Compose](https://medium.com/wolox-driving-innovation/ruby-on-rails-continuous-integration-with-jenkins-and-docker-compose-8dfd24c3df57) 
 - [Monitoring Consul with statsd exporter and Prometheus – werner-dijkerman.nl](https://werner-dijkerman.nl/2017/05/27/monitoring-consul-with-statsd-exporter-and-prometheus/?__s=xgpg8tnnysjtcumufxey) 
+
+### June 21, 2017
+- [jetbrains-infra/packer-builder-vsphere](https://github.com/jetbrains-infra/packer-builder-vsphere) 

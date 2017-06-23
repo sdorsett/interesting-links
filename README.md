@@ -306,3 +306,6 @@
 
 ### June 22, 2017
 - [Istio](https://istio.io/) 
+
+### June 23, 2017
+- [jjasghar/jenkinsfile_cookbook_pipeline: Example Jenkinsfile and Explaination for Chef Cookbook Development](https://github.com/jjasghar/jenkinsfile_cookbook_pipeline) 

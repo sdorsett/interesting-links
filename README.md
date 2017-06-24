@@ -310,3 +310,6 @@
 ### June 23, 2017
 - [jjasghar/jenkinsfile_cookbook_pipeline: Example Jenkinsfile and Explaination for Chef Cookbook Development](https://github.com/jjasghar/jenkinsfile_cookbook_pipeline) 
 - [Self-paced Training - Puppet Training](http://learn.puppet.com/category/self-paced-training) 
+
+### June 24, 2017
+- [Using envconsul with docker to configure your app using environmental variables](http://www.aabed.me/2017/05/01/using-envconsul-with-docker-to-config-your-app-using-environmental-variables) 

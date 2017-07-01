@@ -313,3 +313,6 @@
 
 ### June 24, 2017
 - [Using envconsul with docker to configure your app using environmental variables](http://www.aabed.me/2017/05/01/using-envconsul-with-docker-to-config-your-app-using-environmental-variables) 
+
+### July 1, 2017
+- [VMware NSX 6.2 Beginners Guide – From Zero to Full Deployment for Labs | Virten.net](http://www.virten.net/2016/04/vmware-nsx-6-2-beginners-guide-from-zero-to-full-deployment-for-labs/) 

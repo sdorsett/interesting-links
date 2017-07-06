@@ -317,3 +317,6 @@
 ### July 1, 2017
 - [VMware NSX 6.2 Beginners Guide – From Zero to Full Deployment for Labs | Virten.net](http://www.virten.net/2016/04/vmware-nsx-6-2-beginners-guide-from-zero-to-full-deployment-for-labs/) 
 - [Managing VMware vSphere environment with Go and Lua by using Gru orchestration framework – Marin Atanasov Nikolov – A place about Open Source Software, Operating Systems and some random thoughts](http://dnaeon.github.io/gru-vmware-vsphere-mgmt/) 
+
+### July 6, 2017
+- [VMware Front Experience: ESXi Community Packaging Tools](https://www.v-front.de/p/esxi-community-packaging-tools.html) 

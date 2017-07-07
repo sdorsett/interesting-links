@@ -321,3 +321,4 @@
 ### July 6, 2017
 - [VMware Front Experience: ESXi Community Packaging Tools](https://www.v-front.de/p/esxi-community-packaging-tools.html) 
 - [VMware Front Experience: Building a self-configuring nested ESXi host vApp](https://www.v-front.de/2014/01/building-self-configuring-nested-esxi.html) 
+- [The Odd Angry Shot: ESXi kickstart with Python](http://www.theoddangryshot.com/2016/09/esxi-kickstart-with-python.html) 

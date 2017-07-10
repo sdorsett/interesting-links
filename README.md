@@ -325,3 +325,6 @@
 
 ### July 7, 2017
 - [mapstructure - GoDoc](http://godoc.org/github.com/mitchellh/mapstructure) 
+
+### July 10, 2017
+- [campoy/go-tooling-workshop: A workshop covering all the tools gophers use in their day to day life](https://github.com/campoy/go-tooling-workshop) 

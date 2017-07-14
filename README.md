@@ -328,3 +328,6 @@
 
 ### July 10, 2017
 - [campoy/go-tooling-workshop: A workshop covering all the tools gophers use in their day to day life](https://github.com/campoy/go-tooling-workshop) 
+
+### July 14, 2017
+- [kubernetes/kops: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) 

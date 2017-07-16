@@ -331,3 +331,6 @@
 
 ### July 14, 2017
 - [kubernetes/kops: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops) 
+
+### July 16, 2017
+- [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets) 

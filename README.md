@@ -335,3 +335,4 @@
 ### July 16, 2017
 - [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets) 
 - [strizhechenko/netutils-linux: A suite of utilities simplilfying linux networking stack performance troubleshooting and tuning.](https://github.com/strizhechenko/netutils-linux?utm_source=cronweekly.com) 
+- [arpruss/raspberryjammod: Raspberry Jam Mod - a Mod Forge Minecraft mod implementing most of Raspberry Juice/Pi API](https://github.com/arpruss/raspberryjammod) 

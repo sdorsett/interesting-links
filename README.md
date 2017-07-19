@@ -339,3 +339,6 @@
 
 ### July 18, 2017
 - [Cluster Schedulers – Cindy Sridharan – Medium](https://medium.com/@cindysridharan/schedulers-kubernetes-and-nomad-b0f2e14a896) 
+
+### July 19, 2017 
+- [Install Docker CE on CentOS | VoyaLab](https://www.voyalab.com/2017/07/18/install-docker-ce-on-centos/?mkt_tok=eyJpIjoiWlRJM05qZzNaak01WXpJeSIsInQiOiJCRkR4ak9GZjVoaXZyS1dRZGFaY0kyNTZrVjRQTUtEOE9HVUhZdlBBRmtBcEpGUThNajRFazZac1wvODZuZ1FNNHNmUlp6T1BVTHhVb2dLWDNlYXpaVzNHR2N2RHYxcGlGbVIwSnR5QXlEUGg5S3UzWExzelBNdWJYTHRmaUF4WGUifQ%3D%3D) 

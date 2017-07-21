@@ -352,3 +352,4 @@
 - [cablehead/python-consul: Python client for Consul (http://www.consul.io/)](https://github.com/cablehead/python-consul) 
 - [daniellawrence/graphitesend: Easy python bindings to write to Carbon ( Re-write of carbonclient)](https://github.com/daniellawrence/graphitesend) 
 - [govmomi/vcsim at master · vmware/govmomi](https://github.com/vmware/govmomi/tree/master/vcsim) 
+- [mmoore0011/CoreCloner: A simple ruby image to build customized CoreOS VMs from template](https://github.com/mmoore0011/CoreCloner) 

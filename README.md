@@ -345,3 +345,6 @@
 - [Boot an OpenSSH server in 10 mins with LinuxKit](https://blog.alexellis.io/boot-linuxkit-in-10-mins/) 
 - [Building and Running Go Apps in Docker - Nathan's Notepad](https://blog.quickmediasolutions.com/2017/07/18/building-and-running-go-apps-in-docker.html?mkt_tok=eyJpIjoiWlRJM05qZzNaak01WXpJeSIsInQiOiJCRkR4ak9GZjVoaXZyS1dRZGFaY0kyNTZrVjRQTUtEOE9HVUhZdlBBRmtBcEpGUThNajRFazZac1wvODZuZ1FNNHNmUlp6T1BVTHhVb2dLWDNlYXpaVzNHR2N2RHYxcGlGbVIwSnR5QXlEUGg5S3UzWExzelBNdWJYTHRmaUF4WGUifQ%3D%3D) 
 - [Get started with SQL Server 2017 on Docker | Microsoft Docs](https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker?mkt_tok=eyJpIjoiWlRJM05qZzNaak01WXpJeSIsInQiOiJCRkR4ak9GZjVoaXZyS1dRZGFaY0kyNTZrVjRQTUtEOE9HVUhZdlBBRmtBcEpGUThNajRFazZac1wvODZuZ1FNNHNmUlp6T1BVTHhVb2dLWDNlYXpaVzNHR2N2RHYxcGlGbVIwSnR5QXlEUGg5S3UzWExzelBNdWJYTHRmaUF4WGUifQ%3D%3D) 
+
+### July 21, 2017 
+- [ESX agent prototype · vmware/vic Wiki](https://github.com/vmware/vic/wiki/ESX-agent-prototype) 

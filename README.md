@@ -350,3 +350,4 @@
 - [ESX agent prototype · vmware/vic Wiki](https://github.com/vmware/vic/wiki/ESX-agent-prototype) 
 - [docker-volume-vsphere/esx_service at master · vmware/docker-volume-vsphere](https://github.com/vmware/docker-volume-vsphere/tree/master/esx_service) 
 - [cablehead/python-consul: Python client for Consul (http://www.consul.io/)](https://github.com/cablehead/python-consul) 
+- [daniellawrence/graphitesend: Easy python bindings to write to Carbon ( Re-write of carbonclient)](https://github.com/daniellawrence/graphitesend) 

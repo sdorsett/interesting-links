@@ -356,3 +356,4 @@
 
 ### July 24, 2017 
 - [kris-nova/kubicorn: Simple. Kubernetes. Infrastructure.](https://github.com/kris-nova/kubicorn?utm_source=cronweekly.com) 
+- [lclarkmichalek/etcdhcp: A DHCP server backed by etcd](https://github.com/lclarkmichalek/etcdhcp?utm_source=cronweekly.com) 

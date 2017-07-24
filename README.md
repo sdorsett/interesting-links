@@ -360,3 +360,4 @@
 - [Safely Creating And Using Temporary Files](https://www.netmeister.org/blog/mktemp.html?utm_source=cronweekly.com) 
 - [Containing System Services in Red Hat Enterprise Linux – Part 1 – Red Hat Enterprise Linux Blog](http://rhelblog.redhat.com/2017/07/19/containing-system-services-in-red-hat-enterprise-linux-part-1/?utm_source=cronweekly.com) 
 - [Resources for new Go programmers | Dave Cheney](https://dave.cheney.net/resources-for-new-go-programmers) 
+- [groupon/ansible-silo: Ansible in a self-contained environment via Docker.](https://github.com/groupon/ansible-silo) 

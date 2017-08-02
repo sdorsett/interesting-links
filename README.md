@@ -364,3 +364,6 @@
 
 ### July 27, 2017 
 - [a8m/go-lang-cheat-sheet: An overview of Go syntax and features.](https://github.com/a8m/go-lang-cheat-sheet) 
+
+### August 2, 2017 
+- [robcowart/elastiflow: Netflow Monitoring with Elastic Stack](https://github.com/robcowart/elastiflow/?__s=xgpg8tnnysjtcumufxey) 

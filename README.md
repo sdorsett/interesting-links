@@ -370,3 +370,4 @@
 
 ### August 9, 2017 
 - [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless) 
+- [Fission: Serverless functions for Kubernetes](http://fission.io/) 

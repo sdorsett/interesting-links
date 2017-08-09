@@ -367,3 +367,6 @@
 
 ### August 2, 2017 
 - [robcowart/elastiflow: Netflow Monitoring with Elastic Stack](https://github.com/robcowart/elastiflow/?__s=xgpg8tnnysjtcumufxey) 
+
+### August 9, 2017 
+- [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless) 

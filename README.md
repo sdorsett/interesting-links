@@ -372,3 +372,4 @@
 - [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless) 
 - [Fission: Serverless functions for Kubernetes](http://fission.io/) 
 - [Galactic Fog](http://www.galacticfog.com/product.html) 
+- [alexellis/faas: Functions as a Service - a serverless framework for Docker & Kubernetes](https://github.com/alexellis/faas) 

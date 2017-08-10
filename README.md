@@ -373,3 +373,4 @@
 - [Fission: Serverless functions for Kubernetes](http://fission.io/) 
 - [Galactic Fog](http://www.galacticfog.com/product.html) 
 - [alexellis/faas: Functions as a Service - a serverless framework for Docker & Kubernetes](https://github.com/alexellis/faas) 
+- [Modern Jenkins Unit 3 / Part 2: Configure Jenkins URL – CI/CD Life](http://cicd.life/u3-p2-configure-jenkins-url-with-groovy/?mkt_tok=eyJpIjoiWTJGbU9USTBNakJqT0dGaSIsInQiOiJNWmNHd3UxSTY0cWorWlNlQnF4YnM5SXNkdDVVVXBVNGIxVDByUnBpV1NXTHJRQXJ4THdDblVUQlwveExVTWtHcVhPRHB1QXlVbDlLXC9JNHRFeXRSdEFGdU1icGI5R0RIdjNXaU1xM09kZ09GeklDenB2bGh3MXNxK1lsdmJXRGVkIn0%3D) 

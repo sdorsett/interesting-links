@@ -377,3 +377,4 @@
 
 ### August 10, 2017 
 - [Orchestrating Puppet with Serf](http://www.admintome.com/blog/orchestrating-puppet-with-serf/) 
+- [A Simple Terraform on vSphere Build · Cody Bunch](http://blog.codybunch.com/2017/03/08/A-Simple-Terraform-on-vSphere-Build/) 

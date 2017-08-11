@@ -379,3 +379,6 @@
 - [Orchestrating Puppet with Serf](http://www.admintome.com/blog/orchestrating-puppet-with-serf/) 
 - [A Simple Terraform on vSphere Build · Cody Bunch](http://blog.codybunch.com/2017/03/08/A-Simple-Terraform-on-vSphere-Build/) 
 - [admintome/puppet-serf: ORCHESTRATING PUPPET WITH SERF](https://github.com/admintome/puppet-serf) 
+
+### August 11, 2017 
+- [StackExchange/dnscontrol: Synchronize your DNS to multiple providers from a simple DSL](https://github.com/StackExchange/dnscontrol) 

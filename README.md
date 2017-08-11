@@ -382,3 +382,4 @@
 
 ### August 11, 2017 
 - [StackExchange/dnscontrol: Synchronize your DNS to multiple providers from a simple DSL](https://github.com/StackExchange/dnscontrol) 
+- [Join Brave and change the web together | Brave. Changing the world, one browser at a time.](https://brave.com/) 

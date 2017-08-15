@@ -386,3 +386,6 @@
 
 ### August 14, 2017 
 - [crayfishx/jerakia: A pluggable and extendable data lookup system](https://github.com/crayfishx/jerakia) 
+
+### August 15, 2017 
+- [The AI Hierarchy of Needs – Hacker Noon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) 

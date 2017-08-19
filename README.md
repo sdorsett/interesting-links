@@ -389,3 +389,6 @@
 
 ### August 15, 2017 
 - [The AI Hierarchy of Needs – Hacker Noon](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) 
+
+### August 19, 2017 
+- [TeachCraft](https://teachcraft.net/) 

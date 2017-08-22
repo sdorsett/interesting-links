@@ -397,3 +397,4 @@
 - [Puppet Test Driven Development: Part 0](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-0-setup-environment/) 
 - [Puppet Test Driven Development: Part I - Create a simple class](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-create-simple-class/) 
 - [Puppet Test Driven Development: part II - Create a more complex class and refactor it](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-ii-create-complex-class-refactor/) 
+- [Puppet Test Driven Development part III: create a custom type and provider - Camptocamp](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-iii-create-custom-type-provider/) 

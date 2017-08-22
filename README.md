@@ -392,3 +392,6 @@
 
 ### August 19, 2017 
 - [TeachCraft](https://teachcraft.net/) 
+
+### August 22, 2017 
+- [Puppet Test Driven Development: Part 0](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-0-setup-environment/) 

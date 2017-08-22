@@ -395,3 +395,4 @@
 
 ### August 22, 2017 
 - [Puppet Test Driven Development: Part 0](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-0-setup-environment/) 
+- [Puppet Test Driven Development: Part I - Create a simple class](http://www.camptocamp.com/en/actualite/puppet-test-driven-development-part-create-simple-class/) 

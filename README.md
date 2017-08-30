@@ -403,3 +403,4 @@
 ### August 30, 2017 
 - [coreos/clair: Vulnerability Static Analysis for Containers](https://github.com/coreos/clair) 
 - [arminc/clair-local-scan: Run CoreOs Clair standalone](https://github.com/arminc/clair-local-scan) 
+- [arminc/clair-scanner: Docker containers vulnerability scan](https://github.com/arminc/clair-scanner) 

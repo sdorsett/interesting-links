@@ -404,3 +404,4 @@
 - [coreos/clair: Vulnerability Static Analysis for Containers](https://github.com/coreos/clair) 
 - [arminc/clair-local-scan: Run CoreOs Clair standalone](https://github.com/arminc/clair-local-scan) 
 - [arminc/clair-scanner: Docker containers vulnerability scan](https://github.com/arminc/clair-scanner) 
+- [jgsqware/clairctl: Tracking container vulnerabilities with Clair Control for CoreOS Clair](https://github.com/jgsqware/clairctl) 

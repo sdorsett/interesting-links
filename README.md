@@ -408,3 +408,4 @@
 
 ### August 31, 2017 
 - [edx/jenkins-configuration: A collection of utilities for configuring a Jenkins instance and plugins](https://github.com/edx/jenkins-configuration) 
+- [Reflecting Reality | Liz Keogh, lunivore](https://lizkeogh.com/2017/08/31/reflecting-reality/) 

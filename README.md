@@ -409,3 +409,6 @@
 ### August 31, 2017 
 - [edx/jenkins-configuration: A collection of utilities for configuring a Jenkins instance and plugins](https://github.com/edx/jenkins-configuration) 
 - [Reflecting Reality | Liz Keogh, lunivore](https://lizkeogh.com/2017/08/31/reflecting-reality/) 
+
+### September 1, 2017 
+- [How To Use X-Arcade Raspberry PI : Xgaming](https://support.xgaming.com/support/solutions/articles/5000554993) 

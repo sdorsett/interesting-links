@@ -412,3 +412,6 @@
 
 ### September 1, 2017 
 - [How To Use X-Arcade Raspberry PI : Xgaming](https://support.xgaming.com/support/solutions/articles/5000554993) 
+
+### September 16, 2017 
+- [guysoft/OctoPi: Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web](https://github.com/guysoft/OctoPi) 

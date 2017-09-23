@@ -420,3 +420,4 @@
 ### September 23, 2017 
 - [Using the vCenter 6.5 API to Deploy Virtual Machines with PowerCLI](http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/) 
 - [Automating the build of your vSphere 6.5 home lab - Virtu-Al.Net](http://www.virtu-al.net/2016/12/06/automating-build-vsphere-6-5-home-lab/) 
+- [lamw/vghetto-vsphere-automated-lab-deployment: vGhetto vSphere Automated Lab Deployment (VVLD) for vSphere 6.0u2 & 6.5](https://github.com/lamw/vghetto-vsphere-automated-lab-deployment) 

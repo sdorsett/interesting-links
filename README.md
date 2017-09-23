@@ -416,3 +416,6 @@
 ### September 16, 2017 
 - [guysoft/OctoPi: Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web](https://github.com/guysoft/OctoPi) 
 - [OctoPrint.org](http://octoprint.org/) 
+
+### September 23, 2017 
+- [Using the vCenter 6.5 API to Deploy Virtual Machines with PowerCLI](http://vmkdaily.ghost.io/using-the-vcenter-6-5-api-to-deploy-virtual-machines-with-powercli/) 

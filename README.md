@@ -427,3 +427,4 @@
 
 ### October 10, 2017 
 - [JSON-to-Go: Convert JSON to Go instantly](https://mholt.github.io/json-to-go/) 
+- [GitHub - coredns/coredns: CoreDNS is a DNS server that chains plugins](https://github.com/coredns/coredns) 

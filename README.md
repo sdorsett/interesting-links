@@ -432,3 +432,4 @@
 ### October 15, 2017 
 - [jetstack/tarmak: Tarmak is a toolkit for Kubernetes cluster provisioning and management](https://github.com/jetstack/tarmak) 
 - [Prometheus –](https://kartar.net/2017/10/prometheus/) 
+- [PuppetConf 2017: Beyond rspec - Innovative Strategies for Confident CI // Speaker Deck](https://speakerdeck.com/kpaulisse/puppetconf-2017-beyond-rspec-innovative-strategies-for-confident-ci) 

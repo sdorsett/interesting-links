@@ -437,3 +437,4 @@
 - [doitlive — doitlive 3.0.0 documentation](https://doitlive.readthedocs.io/en/latest/) 
 - [Cockpit: Workspace in Tmux](http://cockpit.27ae60.com/) 
 - [ericfreese/rat: Compose shell commands to build interactive terminal applications](https://github.com/ericfreese/rat) 
+- [puppetlabs/bolt: Execute commands remotely over SSH and WinRM](https://github.com/puppetlabs/bolt) 

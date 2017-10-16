@@ -438,3 +438,4 @@
 - [Cockpit: Workspace in Tmux](http://cockpit.27ae60.com/) 
 - [ericfreese/rat: Compose shell commands to build interactive terminal applications](https://github.com/ericfreese/rat) 
 - [puppetlabs/bolt: Execute commands remotely over SSH and WinRM](https://github.com/puppetlabs/bolt) 
+- [Open Source Game Clones](http://osgameclones.com/) 

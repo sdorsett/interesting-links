@@ -434,3 +434,4 @@
 - [Prometheus –](https://kartar.net/2017/10/prometheus/) 
 - [PuppetConf 2017: Beyond rspec - Innovative Strategies for Confident CI // Speaker Deck](https://speakerdeck.com/kpaulisse/puppetconf-2017-beyond-rspec-innovative-strategies-for-confident-ci) 
 - [kz26/mailproxy: mailproxy is a simple SMTP proxy. It receives emails through an unencrypted, unauthenticated SMTP interface and retransmits them through a remote SMTP server that requires modern features such as encryption and/or authentication. mailproxy is primarily useful for enabling email functionality in legacy software that only supports plain SMTP.](https://github.com/kz26/mailproxy) 
+- [doitlive — doitlive 3.0.0 documentation](https://doitlive.readthedocs.io/en/latest/) 

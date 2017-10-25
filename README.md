@@ -443,3 +443,4 @@
 
 ### October 25, 2017 
 - [jasonbrooks/byo-atomic](https://github.com/jasonbrooks/byo-atomic) 
+- [imsweb/centos7-atomic-custom: Steps for creating a customized CentOS 7 Atomic Host image](https://github.com/imsweb/centos7-atomic-custom) 

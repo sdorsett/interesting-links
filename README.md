@@ -440,3 +440,6 @@
 - [puppetlabs/bolt: Execute commands remotely over SSH and WinRM](https://github.com/puppetlabs/bolt) 
 - [Open Source Game Clones](http://osgameclones.com/) 
 - [resin-io/etcher: Flash OS images to SD cards & USB drives, safely and easily.](https://github.com/resin-io/etcher) 
+
+### October 25, 2017 
+- [jasonbrooks/byo-atomic](https://github.com/jasonbrooks/byo-atomic) 

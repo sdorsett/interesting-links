@@ -444,3 +444,6 @@
 ### October 25, 2017 
 - [jasonbrooks/byo-atomic](https://github.com/jasonbrooks/byo-atomic) 
 - [imsweb/centos7-atomic-custom: Steps for creating a customized CentOS 7 Atomic Host image](https://github.com/imsweb/centos7-atomic-custom) 
+
+### October 29, 2017 
+- [PowerRestCLI/readme.md at master · jpsider/PowerRestCLI](https://github.com/jpsider/PowerRestCLI/blob/master/readme.md) 

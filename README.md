@@ -447,3 +447,6 @@
 
 ### October 29, 2017 
 - [PowerRestCLI/readme.md at master · jpsider/PowerRestCLI](https://github.com/jpsider/PowerRestCLI/blob/master/readme.md) 
+
+### October 31, 2017 
+- [GitHub - ceph/ceph-container: Docker files and images to run Ceph in containers](https://github.com/ceph/ceph-container) 

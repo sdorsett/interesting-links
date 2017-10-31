@@ -450,3 +450,4 @@
 
 ### October 31, 2017 
 - [GitHub - ceph/ceph-container: Docker files and images to run Ceph in containers](https://github.com/ceph/ceph-container) 
+- [Creating a Docker Jenkins Slave Running on a VMware Photon VM - bl.ocks.org](https://bl.ocks.org/jrrickard/114b8c35b1d5306ff3e0) 

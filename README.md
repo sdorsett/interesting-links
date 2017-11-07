@@ -454,3 +454,4 @@
 
 ### November 7, 2017 
 - [GitHub - gogits/gogs: Gogs is a painless self-hosted Git service.](https://github.com/gogits/gogs) 
+- [GitHub - go-gitea/gitea: Gitea: Git with a cup of tea](https://github.com/go-gitea/gitea) 

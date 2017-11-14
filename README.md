@@ -459,3 +459,4 @@
 ### November 14, 2017 
 - [GitHub - openfaas/faas: OpenFaaS - the serverless framework for Docker & Kubernetes](https://github.com/openfaas/faas) 
 - [Learning Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/) 
+- [Profiling Go ⋆ Mark McDonnell](http://www.integralist.co.uk/posts/profiling-go/) 

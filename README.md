@@ -461,3 +461,4 @@
 - [Learning Go by porting a medium-sized web backend from Python](http://benhoyt.com/writings/learning-go/) 
 - [Profiling Go ⋆ Mark McDonnell](http://www.integralist.co.uk/posts/profiling-go/) 
 - [GitHub - adnanh/webhook: webhook is a lightweight configurable incoming webhook server which can execute shell commands](https://github.com/adnanh/webhook) 
+- [GitHub - zuazo/dockerspec: A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.](https://github.com/zuazo/dockerspec) 

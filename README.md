@@ -464,7 +464,6 @@
 - [GitHub - zuazo/dockerspec: A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.](https://github.com/zuazo/dockerspec) 
 - [GitHub - appscode/voyager: ✈️️ Secure Ingress Controller for Kubernetes](https://github.com/appscode/voyager) 
 - [gokrazy - a pure-Go userland for your Raspberry Pi 3 appliances](https://gokrazy.org/) 
-- [gokrazy - a pure-Go userland for your Raspberry Pi 3 appliances](https://gokrazy.org/) 
 - [Overview | 7” Portable Multitouch Raspberry Pi Tablet | Adafruit Learning System](https://learn.adafruit.com/7-portable-raspberry-pi-multitouch-tablet) 
 
 ### November 15, 2017 

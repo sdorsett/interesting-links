@@ -472,3 +472,4 @@
 ### November 16, 2017 
 - [Learn to Code - Golang - GreaterCommons](https://greatercommons.com/cwg) 
 - [Using chef, terraform and vCenter](http://jjasghar.github.io/blog/2017/10/22/chef-terraform-and-vcenter/) 
+- [Error handling in Go - Tit Petric](https://scene-si.org/2017/11/13/error-handling-in-go/) 

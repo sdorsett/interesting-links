@@ -471,3 +471,4 @@
 
 ### November 16, 2017 
 - [Learn to Code - Golang - GreaterCommons](https://greatercommons.com/cwg) 
+- [Using chef, terraform and vCenter](http://jjasghar.github.io/blog/2017/10/22/chef-terraform-and-vcenter/) 

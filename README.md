@@ -468,3 +468,6 @@
 
 ### November 15, 2017 
 - [vCenter (VCSA) and using Let's Encrypt for SSL Certificates](http://jjasghar.github.io/blog/2017/11/14/vcenter-vcsa-and-using-lets-encrypt/) 
+
+### November 16, 2017 
+- [Learn to Code - Golang - GreaterCommons](https://greatercommons.com/cwg) 

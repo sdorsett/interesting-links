@@ -479,3 +479,4 @@
 - [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/) 
 - [mitmproxy - home](https://mitmproxy.org/) 
 - [SSLH – A SSL/SSH MULTIPLEXER](http://www.rutschle.net/tech/sslh/README.html) 
+- [Transitioning Logging and Monitoring Systems at The Economist](https://medium.com/@kathrynjonas/transitioning-logging-and-monitoring-systems-at-the-economist-3c6116ba30a8) 

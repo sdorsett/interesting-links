@@ -474,3 +474,6 @@
 - [Using chef, terraform and vCenter](http://jjasghar.github.io/blog/2017/10/22/chef-terraform-and-vcenter/) 
 - [Error handling in Go - Tit Petric](https://scene-si.org/2017/11/13/error-handling-in-go/) 
 - [Home — OSSEC - Open Source HIDS SECurity](https://ossec.github.io/) 
+
+### November 26, 2017 
+- [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/) 

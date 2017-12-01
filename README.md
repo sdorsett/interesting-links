@@ -480,3 +480,6 @@
 - [mitmproxy - home](https://mitmproxy.org/) 
 - [SSLH – A SSL/SSH MULTIPLEXER](http://www.rutschle.net/tech/sslh/README.html) 
 - [Transitioning Logging and Monitoring Systems at The Economist](https://medium.com/@kathrynjonas/transitioning-logging-and-monitoring-systems-at-the-economist-3c6116ba30a8) 
+
+### December 1, 2017 
+- [GitHub - contribsys/faktory: "Takin' care of business, workin' overtime"](https://github.com/contribsys/faktory) 

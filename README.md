@@ -484,3 +484,4 @@
 ### December 1, 2017 
 - [GitHub - contribsys/faktory: "Takin' care of business, workin' overtime"](https://github.com/contribsys/faktory) 
 - [GitHub - hybridgroup/gobot: Golang framework for robotics, drones, and the Internet of Things (IoT)](https://github.com/hybridgroup/gobot) 
+- [GitHub - yudai/gotty: Share your terminal as a web application](https://github.com/yudai/gotty) 

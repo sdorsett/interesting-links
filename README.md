@@ -486,3 +486,6 @@
 - [GitHub - hybridgroup/gobot: Golang framework for robotics, drones, and the Internet of Things (IoT)](https://github.com/hybridgroup/gobot) 
 - [GitHub - yudai/gotty: Share your terminal as a web application](https://github.com/yudai/gotty) 
 - [GitHub - timest/goscan: goscan is a simple and efficient IPv4 network scanner that discovers all active devices on local subnet.](https://github.com/timest/goscan) 
+
+### December 5, 2017 
+- [Jenkins Wrangling for Fun & Profit – Noah Kantrowitz](https://coderanger.net/jenkins/) 

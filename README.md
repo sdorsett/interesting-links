@@ -492,3 +492,4 @@
 
 ### December 19, 2017 
 - [GitHub - breser/git2consul: Mirrors the contents of a git repository into Consul KVs.](https://github.com/breser/git2consul) 
+- [GitHub - seatgeek/hashi-helper: Disaster Recovery and Configuration Management for Consul and Vault](https://github.com/seatgeek/hashi-helper) 

@@ -489,3 +489,6 @@
 
 ### December 5, 2017 
 - [Jenkins Wrangling for Fun & Profit – Noah Kantrowitz](https://coderanger.net/jenkins/) 
+
+### December 19, 2017 
+- [GitHub - breser/git2consul: Mirrors the contents of a git repository into Consul KVs.](https://github.com/breser/git2consul) 

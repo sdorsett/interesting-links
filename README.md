@@ -502,3 +502,4 @@
 - [fireworq/fireworq: Fireworq is a lightweight, high-performance, language-independent job queue system.](https://github.com/fireworq/fireworq) 
 - [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back?utm_source=DevOps%27ish&utm_campaign=7560005add-EMAIL_CAMPAIGN_2017_12_24&utm_medium=email&utm_term=0_eab566bc9f-7560005add-45838997) 
 - [My Webserver Setup - Using Caddy](https://blog.ls42.de/post/my-webserver-setup/) 
+- [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9) 

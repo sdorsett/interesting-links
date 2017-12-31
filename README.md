@@ -500,3 +500,4 @@
 - [sysadvent: Day 24 - On-premise Kubernetes with dynamic load balancing using rke, Helm and NGINX](https://sysadvent.blogspot.co.uk/2017/12/day-24-on-premise-kubernetes-with.html) 
 - [Homepage - Puppet Cookbook](https://www.puppetcookbook.com/) 
 - [fireworq/fireworq: Fireworq is a lightweight, high-performance, language-independent job queue system.](https://github.com/fireworq/fireworq) 
+- [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back?utm_source=DevOps%27ish&utm_campaign=7560005add-EMAIL_CAMPAIGN_2017_12_24&utm_medium=email&utm_term=0_eab566bc9f-7560005add-45838997) 

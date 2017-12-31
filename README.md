@@ -493,3 +493,6 @@
 ### December 19, 2017 
 - [GitHub - breser/git2consul: Mirrors the contents of a git repository into Consul KVs.](https://github.com/breser/git2consul) 
 - [GitHub - seatgeek/hashi-helper: Disaster Recovery and Configuration Management for Consul and Vault](https://github.com/seatgeek/hashi-helper) 
+
+### December 31, 2017 
+- [briandowns/sky-island: FaaS platform for running raw Go functions.](https://github.com/briandowns/sky-island?utm_source=DevOps%27ish&utm_campaign=42401c0b6b-EMAIL_CAMPAIGN_2017_12_30&utm_medium=email&utm_term=0_eab566bc9f-42401c0b6b-45838997) 

@@ -499,3 +499,4 @@
 - [Vim Macro Trickz • Hillel Wayne](https://hillelwayne.com/post/vim-macro-trickz/) 
 - [sysadvent: Day 24 - On-premise Kubernetes with dynamic load balancing using rke, Helm and NGINX](https://sysadvent.blogspot.co.uk/2017/12/day-24-on-premise-kubernetes-with.html) 
 - [Homepage - Puppet Cookbook](https://www.puppetcookbook.com/) 
+- [fireworq/fireworq: Fireworq is a lightweight, high-performance, language-independent job queue system.](https://github.com/fireworq/fireworq) 

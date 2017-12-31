@@ -497,3 +497,4 @@
 ### December 31, 2017 
 - [briandowns/sky-island: FaaS platform for running raw Go functions.](https://github.com/briandowns/sky-island?utm_source=DevOps%27ish&utm_campaign=42401c0b6b-EMAIL_CAMPAIGN_2017_12_30&utm_medium=email&utm_term=0_eab566bc9f-42401c0b6b-45838997) 
 - [Vim Macro Trickz • Hillel Wayne](https://hillelwayne.com/post/vim-macro-trickz/) 
+- [sysadvent: Day 24 - On-premise Kubernetes with dynamic load balancing using rke, Helm and NGINX](https://sysadvent.blogspot.co.uk/2017/12/day-24-on-premise-kubernetes-with.html) 

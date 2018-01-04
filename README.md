@@ -504,3 +504,6 @@
 - [My Webserver Setup - Using Caddy](https://blog.ls42.de/post/my-webserver-setup/) 
 - [Golang Guide: A List of Top Golang Frameworks, IDEs & Tools](https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9) 
 - [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo) 
+
+### January 3, 2018 
+- [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/?utm_source=monitoringweekly&__s=xgpg8tnnysjtcumufxey) 

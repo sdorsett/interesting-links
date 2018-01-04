@@ -507,3 +507,4 @@
 
 ### January 3, 2018 
 - [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/?utm_source=monitoringweekly&__s=xgpg8tnnysjtcumufxey) 
+- [Prometheus Blog Series (Part 2): Metric types](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) 

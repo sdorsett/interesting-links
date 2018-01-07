@@ -508,3 +508,6 @@
 ### January 3, 2018 
 - [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/?utm_source=monitoringweekly&__s=xgpg8tnnysjtcumufxey) 
 - [Prometheus Blog Series (Part 2): Metric types](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) 
+
+### January 7, 2018 
+- [samoshkin/docker-letsencrypt-certgen: Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion](https://github.com/samoshkin/docker-letsencrypt-certgen?utm_source=DevOps%27ish&utm_campaign=994c467b07-EMAIL_CAMPAIGN_2018_01_07&utm_medium=email&utm_term=0_eab566bc9f-994c467b07-45838997) 

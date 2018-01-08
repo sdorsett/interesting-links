@@ -514,3 +514,4 @@
 - [crmejia/kubeadm-centos7-bare-metal: Guide covering how to create a bare metal Kubernetes cluster using kubeadm and Centos 7](https://github.com/crmejia/kubeadm-centos7-bare-metal) 
 - [lukas2511/dehydrated: letsencrypt/acme client implemented as a shell-script – just add water](https://github.com/lukas2511/dehydrated) 
 - [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way) 
+- [Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes) 

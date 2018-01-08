@@ -512,3 +512,4 @@
 ### January 7, 2018 
 - [samoshkin/docker-letsencrypt-certgen: Docker image to generate, renew, revoke RSA and/or ECDSA SSL certificates from LetsEncrypt CA using certbot and acme.sh clients in automated fashion](https://github.com/samoshkin/docker-letsencrypt-certgen?utm_source=DevOps%27ish&utm_campaign=994c467b07-EMAIL_CAMPAIGN_2018_01_07&utm_medium=email&utm_term=0_eab566bc9f-994c467b07-45838997) 
 - [crmejia/kubeadm-centos7-bare-metal: Guide covering how to create a bare metal Kubernetes cluster using kubeadm and Centos 7](https://github.com/crmejia/kubeadm-centos7-bare-metal) 
+- [lukas2511/dehydrated: letsencrypt/acme client implemented as a shell-script – just add water](https://github.com/lukas2511/dehydrated) 

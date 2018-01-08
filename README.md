@@ -515,3 +515,6 @@
 - [lukas2511/dehydrated: letsencrypt/acme client implemented as a shell-script – just add water](https://github.com/lukas2511/dehydrated) 
 - [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way) 
 - [Learning to operate Kubernetes reliably](https://stripe.com/blog/operating-kubernetes) 
+
+### January 8, 2018 
+- [spectre-meltdown-checker/README.md at master · speed47/spectre-meltdown-checker · GitHub](https://github.com/speed47/spectre-meltdown-checker/blob/master/README.md) 

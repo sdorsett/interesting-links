@@ -518,3 +518,4 @@
 
 ### January 8, 2018 
 - [spectre-meltdown-checker/README.md at master · speed47/spectre-meltdown-checker · GitHub](https://github.com/speed47/spectre-meltdown-checker/blob/master/README.md) 
+- [GitHub - munnerz/kube-plex: Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!](https://github.com/munnerz/kube-plex) 

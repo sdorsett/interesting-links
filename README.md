@@ -526,3 +526,6 @@
 ### January 11, 2018 
 - [• Audiophile Music Player | DAP | Volumio](https://volumio.org/) 
 - [Top 5 Reasons for Ruby-ists to Use Crystal - The Crystal Programming Language](https://crystal-lang.org/2018/01/08/top-5-reasons-for-ruby-ists-to-use-crystal.html?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly) 
+
+### January 13, 2018 
+- [New supported Puppet modules make Kubernetes deployments easier | Puppet](https://puppet.com/blog/new-supported-puppet-modules-make-kubernetes-deployments-easier) 

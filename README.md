@@ -529,3 +529,6 @@
 
 ### January 13, 2018 
 - [New supported Puppet modules make Kubernetes deployments easier | Puppet](https://puppet.com/blog/new-supported-puppet-modules-make-kubernetes-deployments-easier) 
+
+### January 18, 2018 
+- [Vault as a CA for ECS containers using Terraform (Part 1) - Marcus Young](http://marcyoung.us/post/docker-vault-ca-part1/) 

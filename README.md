@@ -537,3 +537,4 @@
 - [browserless/README.md at master · joelgriffith/browserless](https://github.com/joelgriffith/browserless/blob/master/README.md) 
 - [1backend/README.md at master · 1backend/1backend](https://github.com/1backend/1backend/blob/master/README.md) 
 - [lirantal/dockly: Docker console UI and Dashboard for quick managing and inspecting of Containers and Images](https://github.com/lirantal/dockly) 
+- [Managing Vsphere From The Linux Command Line -- Prefetch Technologies](https://prefetch.net/blog/index.php/2017/12/19/managing-vsphere-from-the-linux-command-line/) 

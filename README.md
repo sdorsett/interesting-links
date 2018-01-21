@@ -541,3 +541,4 @@
 
 ### January 20, 2018 
 - [Datasette: instantly create and publish an API for your SQLite databases](https://simonwillison.net/2017/Nov/13/datasette/) 
+- [Maxence's technical corner: Monitoring traceroute through Prometheus and Grafana](https://m-button.blogspot.fr/2017/11/monitoring-traceroute-through.html?utm_source=monitoringweekly&utm_campaign=2017_q4_best_of&__s=xgpg8tnnysjtcumufxey) 

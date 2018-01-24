@@ -546,3 +546,6 @@
 ### January 21, 2018 
 - [Twirp: a sweet new RPC framework for Go – Twitch Blog](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f) 
 - [netboot/pixiecore at master · google/netboot](https://github.com/google/netboot/tree/master/pixiecore?utm_source=DevOps%27ish&utm_campaign=256206ef1a-EMAIL_CAMPAIGN_2018_01_21&utm_medium=email&utm_term=0_eab566bc9f-256206ef1a-45838997) 
+
+### January 24, 2018 
+- [GitHub - Dynflow/dynflow: DYNamic workFLOW orchestration engine](https://github.com/Dynflow/dynflow) 

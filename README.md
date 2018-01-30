@@ -549,3 +549,6 @@
 
 ### January 24, 2018 
 - [GitHub - Dynflow/dynflow: DYNamic workFLOW orchestration engine](https://github.com/Dynflow/dynflow) 
+
+### January 30, 2018 
+- [GitHub - coinbase/terraform-landscape: Improve Terraform's plan output to be easier to read and understand](https://github.com/coinbase/terraform-landscape) 

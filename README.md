@@ -552,3 +552,6 @@
 
 ### January 30, 2018 
 - [GitHub - coinbase/terraform-landscape: Improve Terraform's plan output to be easier to read and understand](https://github.com/coinbase/terraform-landscape) 
+
+### January 31, 2018 
+- [Let’s Rethink Jenkins - Marcus Young](http://marcyoung.us/post/lets-rethink-jenkins/) 

@@ -555,3 +555,6 @@
 
 ### January 31, 2018 
 - [Let’s Rethink Jenkins - Marcus Young](http://marcyoung.us/post/lets-rethink-jenkins/) 
+
+### February 11, 2018 
+- [Getting started with Puppet on Windows](http://wragg.io/getting-started-with-puppet-on-windows/) 

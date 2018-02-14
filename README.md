@@ -561,3 +561,4 @@
 
 ### February 14, 2018 
 - [jiangwenyuan/nuster: A web caching proxy server based on HAProxy](https://github.com/jiangwenyuan/nuster) 
+- [How to use Vagrant for Ansible role testing and development](https://blog.keyboardinterrupt.com/testing-ansible-with-vagrant/) 

@@ -565,3 +565,6 @@
 
 ### February 22, 2018 
 - [How to Install OpenStack in Less Than an Hour | Linux.com | The source for Linux information](https://www.linux.com/blog/learn/chapter/OpenStack/2017/7/how-install-openstack-less-hour) 
+
+### February 23, 2018 
+- [GitHub - openstack/packstack: Install utility to deploy OpenStack on multiple hosts.](https://github.com/openstack/packstack) 

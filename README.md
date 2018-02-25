@@ -568,3 +568,6 @@
 
 ### February 23, 2018 
 - [GitHub - openstack/packstack: Install utility to deploy OpenStack on multiple hosts.](https://github.com/openstack/packstack) 
+
+### February 25, 2018 
+- [Monitoring with Prometheus - Janshair Khan](https://kjanshair.github.io/2018/02/20/prometheus-monitoring/) 

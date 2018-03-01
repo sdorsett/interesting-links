@@ -574,3 +574,4 @@
 
 ### March 1, 2018 
 - [How to use Terraform with VMware Cloud on AWS | | VMtoCloud.com](http://www.vmtocloud.com/how-to-use-terraform-with-vmware-cloud-on-aws/) 
+- [Build a Serverless API in Azure](http://www.brianbunke.com/blog/2018/02/26/serverless-api-in-azure/) 

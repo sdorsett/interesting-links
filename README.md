@@ -571,3 +571,6 @@
 
 ### February 25, 2018 
 - [Monitoring with Prometheus - Janshair Khan](https://kjanshair.github.io/2018/02/20/prometheus-monitoring/) 
+
+### March 1, 2018 
+- [How to use Terraform with VMware Cloud on AWS | | VMtoCloud.com](http://www.vmtocloud.com/how-to-use-terraform-with-vmware-cloud-on-aws/) 

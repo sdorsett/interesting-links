@@ -581,3 +581,4 @@
 
 ### March 7, 2018 
 - [What is my IP address? — ifconfig.co](https://ifconfig.co/) 
+- [Connecting to embedded PostgreSQL on vCSA 6.5 to unlock NSX Controller settings | blog.bertello.org](http://blog.bertello.org/2017/12/connecting-to-embedded-postgresql-on-vcsa-6-5-to-unlock-nsx-controller-settings/) 

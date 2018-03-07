@@ -578,3 +578,6 @@
 
 ### March 3, 2018 
 - [A Better Puppetmaster Healthcheck](http://leebriggs.co.uk/puppet/2016/02/17/a-better-puppetmaster-healthcheck.html) 
+
+### March 7, 2018 
+- [What is my IP address? — ifconfig.co](https://ifconfig.co/) 

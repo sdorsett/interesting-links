@@ -587,3 +587,6 @@
 - [A Kubernetes quick start for people who know just enough about Docker to get by](https://blog.sourcerer.io/a-kubernetes-quick-start-for-people-who-know-just-enough-about-docker-to-get-by-71c5933b4633) 
 - [Deep Ecology - Take five minutes to simplify your life with Make](http://blog.byronjsmith.com/makefile-shortcuts.html) 
 - [Ebiten - A dead simple 2D game library in Go](https://hajimehoshi.github.io/ebiten/) 
+
+### March 11, 2018 
+- [tpope/vim-db: Modern database interface for Vim](https://github.com/tpope/vim-db?utm_source=DevOps%27ish&utm_campaign=d0d7741551-EMAIL_CAMPAIGN_2018_03_11&utm_medium=email&utm_term=0_eab566bc9f-d0d7741551-45838997) 

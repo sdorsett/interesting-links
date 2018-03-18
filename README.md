@@ -598,3 +598,4 @@
 - [How to use Ansible to set up a Git server over SSH | Opensource.com](https://opensource.com/article/17/8/ansible-environment-management) 
 - [How to use Ansible to set up system monitoring with Prometheus | Opensource.com](https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-prometheus?utm_source=DevOps%27ish&utm_campaign=c090c4d9b4-EMAIL_CAMPAIGN_2018_03_18&utm_medium=email&utm_term=0_eab566bc9f-c090c4d9b4-45838997) 
 - [Ansible Extension — Mitogen master documentation](http://mitogen.readthedocs.io/en/latest/ansible.html?utm_source=DevOps%27ish&utm_campaign=c090c4d9b4-EMAIL_CAMPAIGN_2018_03_18&utm_medium=email&utm_term=0_eab566bc9f-c090c4d9b4-45838997) 
+- [Guest Post: Fission - Serverless Functions and Workflows with Kubernetes and NATS](https://nats.io/blog/serverless-functions-and-workflows-with-kubernetes-and-nats/) 

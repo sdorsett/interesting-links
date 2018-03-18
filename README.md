@@ -591,3 +591,6 @@
 ### March 11, 2018 
 - [tpope/vim-db: Modern database interface for Vim](https://github.com/tpope/vim-db?utm_source=DevOps%27ish&utm_campaign=d0d7741551-EMAIL_CAMPAIGN_2018_03_11&utm_medium=email&utm_term=0_eab566bc9f-d0d7741551-45838997) 
 - [enocom/gopher-reading-list: A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list?utm_source=DevOps%27ish&utm_campaign=d0d7741551-EMAIL_CAMPAIGN_2018_03_11&utm_medium=email&utm_term=0_eab566bc9f-d0d7741551-45838997) 
+
+### March 18, 2018 
+- [GoogleCloudPlatform/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleCloudPlatform/skaffold) 

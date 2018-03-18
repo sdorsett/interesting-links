@@ -594,3 +594,4 @@
 
 ### March 18, 2018 
 - [GoogleCloudPlatform/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleCloudPlatform/skaffold) 
+- [How to automate your system administration tasks with Ansible | Opensource.com](https://opensource.com/article/17/7/automate-sysadmin-ansible) 

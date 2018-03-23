@@ -602,3 +602,4 @@
 
 ### March 22, 2018 
 - [ierror/ssh-permit-a38: Central management and deployment for SSH keys](https://github.com/ierror/ssh-permit-a38) 
+- [4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python](https://realpython.com/python-cli-testing/) 

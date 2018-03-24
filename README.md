@@ -606,3 +606,6 @@
 
 ### March 23, 2018 
 - [GitHub - Alexis-benoist/eralchemy: Entity Relation Diagrams generation tool](https://github.com/Alexis-benoist/eralchemy) 
+
+### March 24, 2018 
+- [iridakos/duckrails: A development tool to quickly & dynamically mock API endpoints](https://github.com/iridakos/duckrails) 

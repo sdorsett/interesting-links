@@ -609,3 +609,6 @@
 
 ### March 24, 2018 
 - [iridakos/duckrails: A development tool to quickly & dynamically mock API endpoints](https://github.com/iridakos/duckrails) 
+
+### March 26, 2018 
+- [Building Simple Command Line Interfaces in Python](https://stormpath.com/blog/building-simple-cli-interfaces-in-python) 

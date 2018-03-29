@@ -612,3 +612,6 @@
 
 ### March 26, 2018 
 - [Building Simple Command Line Interfaces in Python](https://stormpath.com/blog/building-simple-cli-interfaces-in-python) 
+
+### March 29, 2018 
+- [Create a Wi-Fi hotspot in less than 10 minutes with Pi Raspberry!](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/) 

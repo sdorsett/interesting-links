@@ -615,3 +615,6 @@
 
 ### March 29, 2018 
 - [Create a Wi-Fi hotspot in less than 10 minutes with Pi Raspberry!](https://howtoraspberrypi.com/create-a-wi-fi-hotspot-in-less-than-10-minutes-with-pi-raspberry/) 
+
+### April 1, 2018 
+- [How to use Vault with Hiera 5 for secret management with Puppet](https://petersouter.xyz/how-to-use-vault-with-hiera-5-for-secret-management-with-puppet/) 

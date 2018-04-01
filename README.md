@@ -618,3 +618,4 @@
 
 ### April 1, 2018 
 - [How to use Vault with Hiera 5 for secret management with Puppet](https://petersouter.xyz/how-to-use-vault-with-hiera-5-for-secret-management-with-puppet/) 
+- [Monitor your applications with Prometheus](https://blog.alexellis.io/prometheus-monitoring/) 

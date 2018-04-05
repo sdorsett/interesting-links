@@ -626,3 +626,4 @@
 
 ### April 5, 2018 
 - [Go on very small hardware (Part 1) | Michał Derkacz](https://ziutek.github.io/2018/03/30/go_on_very_small_hardware.html) 
+- [How to Establish a Session and Authenticate with the vSphere 6.5 API – Technical Rambling – Lessons from a sys admin.](https://dkalaluhi.github.io/ConnectingToVcsaApi/) 

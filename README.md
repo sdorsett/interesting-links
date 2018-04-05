@@ -623,3 +623,6 @@
 
 ### April 4, 2018 
 - [ovh/venom: Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions](https://github.com/ovh/venom) 
+
+### April 5, 2018 
+- [Go on very small hardware (Part 1) | Michał Derkacz](https://ziutek.github.io/2018/03/30/go_on_very_small_hardware.html) 

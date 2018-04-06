@@ -632,3 +632,4 @@
 - [Web Scraping for Fun | oeQuacki](http://www.oequacki.com/programming/2018/04/02/web-scraping.html) 
 - [Writing a Web Crawler with Golang and Colly – Edmund Martin](http://edmundmartin.com/writing-a-web-crawler-with-golang-and-colly/) 
 - [GitHub - vterdunov/vmware-ova-uploader: Deploy VMs from OVA using rbvmomi](https://github.com/vterdunov/vmware-ova-uploader) 
+- [Developing a Ruby on Rails app with Docker Compose – blindside.io](https://blog.blindside.io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634) 

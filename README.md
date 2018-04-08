@@ -639,3 +639,4 @@
 - [thedevsaddam/govalidator: Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.](https://github.com/thedevsaddam/govalidator) 
 - [Draft vs Gitkube vs Helm vs Ksonnet vs Metaparticle vs Skaffold](https://blog.hasura.io/draft-vs-gitkube-vs-helm-vs-ksonnet-vs-metaparticle-vs-skaffold-f5aa9561f948) 
 - [Monitoring PostgreSQL VACUUM processes](https://www.datadoghq.com/blog/postgresql-vacuum-monitoring/) 
+- [Automated rollback of Helm releases based on logs or metrics - Container Solutions](https://container-solutions.com/automated-rollback-helm-releases-based-logs-metrics/) 

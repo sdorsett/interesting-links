@@ -644,3 +644,4 @@
 - [floyernick/Data-Structures-and-Algorithms: Data Structures and Algorithms implementation in Go](https://github.com/floyernick/Data-Structures-and-Algorithms) 
 - [nanopack/shaman: Small, lightweight, api-driven dns server.](https://github.com/nanopack/shaman) 
 - [tomnomnom/gron: Make JSON greppable!](https://github.com/tomnomnom/gron) 
+- [ritiek/spotify-downloader: Download Spotify playlists with albumart and meta-tags](https://github.com/ritiek/spotify-downloader) 

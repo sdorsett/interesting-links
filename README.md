@@ -636,3 +636,4 @@
 
 ### April 8, 2018 
 - [Kubernetes in Vagrant with kubeadm – Liz Rice – Medium](https://medium.com/@lizrice/kubernetes-in-vagrant-with-kubeadm-21979ded6c63) 
+- [thedevsaddam/govalidator: Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.](https://github.com/thedevsaddam/govalidator?utm_source=DevOps%27ish&utm_campaign=cf210937d5-EMAIL_CAMPAIGN_2018_04_08&utm_medium=email&utm_term=0_eab566bc9f-cf210937d5-45838997) 

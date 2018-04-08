@@ -642,3 +642,4 @@
 - [Automated rollback of Helm releases based on logs or metrics - Container Solutions](https://container-solutions.com/automated-rollback-helm-releases-based-logs-metrics/) 
 - [gitkube | Gitkube: Build and deploy docker images to Kubernetes using git push.](https://gitkube.sh/) 
 - [floyernick/Data-Structures-and-Algorithms: Data Structures and Algorithms implementation in Go](https://github.com/floyernick/Data-Structures-and-Algorithms) 
+- [nanopack/shaman: Small, lightweight, api-driven dns server.](https://github.com/nanopack/shaman) 

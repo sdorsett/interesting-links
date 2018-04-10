@@ -645,3 +645,6 @@
 - [nanopack/shaman: Small, lightweight, api-driven dns server.](https://github.com/nanopack/shaman) 
 - [tomnomnom/gron: Make JSON greppable!](https://github.com/tomnomnom/gron) 
 - [ritiek/spotify-downloader: Download Spotify playlists with albumart and meta-tags](https://github.com/ritiek/spotify-downloader) 
+
+### April 10, 2018 
+- [Using Terraform to deploy Nested ESXi hosts in your VMware Cloud on AWS SDDC (or home lab!) – Troy Lindsay's Blog](https://troylindsayblog.wordpress.com/2018/04/10/using-terraform-to-deploy-nested-esxi-hosts-in-your-vmware-cloud-on-aws-sddc-or-home-lab/) 

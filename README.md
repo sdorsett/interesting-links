@@ -648,3 +648,4 @@
 
 ### April 10, 2018 
 - [Using Terraform to deploy Nested ESXi hosts in your VMware Cloud on AWS SDDC (or home lab!) – Troy Lindsay's Blog](https://troylindsayblog.wordpress.com/2018/04/10/using-terraform-to-deploy-nested-esxi-hosts-in-your-vmware-cloud-on-aws-sddc-or-home-lab/) 
+- [Deploying vSphere VM with Terraform | Virtualizatio'n'automation](https://emilwypych.com/2017/02/26/deploying-vsphere-vm-with-terraform/) 

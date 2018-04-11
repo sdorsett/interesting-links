@@ -654,3 +654,4 @@
 - [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/) 
 - [GitHub - avwo/whistle: HTTP, HTTPS, WebSocket debugging proxy](https://github.com/avwo/whistle) 
 - [Introduction to automated provisioning and deployment with Ansible – Tratif Blog](https://blog.tratif.com/2018/03/27/introduction-to-ansible/) 
+- [Announcing Tower — A library for writing robust network services with Rust.](https://medium.com/@carllerche/announcing-tower-a-library-for-writing-robust-network-services-with-rust-67273f052c40) 

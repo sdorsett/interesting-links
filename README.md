@@ -652,3 +652,4 @@
 
 ### April 11, 2018 
 - [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/) 
+- [GitHub - avwo/whistle: HTTP, HTTPS, WebSocket debugging proxy](https://github.com/avwo/whistle) 

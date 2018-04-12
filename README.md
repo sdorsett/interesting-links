@@ -655,3 +655,6 @@
 - [GitHub - avwo/whistle: HTTP, HTTPS, WebSocket debugging proxy](https://github.com/avwo/whistle) 
 - [Introduction to automated provisioning and deployment with Ansible – Tratif Blog](https://blog.tratif.com/2018/03/27/introduction-to-ansible/) 
 - [Announcing Tower — A library for writing robust network services with Rust.](https://medium.com/@carllerche/announcing-tower-a-library-for-writing-robust-network-services-with-rust-67273f052c40) 
+
+### April 12, 2018 
+- [Slick way of deploying OVF/OVA directly to ESXi & vCenter Server using govc CLI | virtuallyGhetto](https://www.virtuallyghetto.com/2016/04/slick-way-of-deploying-ovfova-directly-to-esxi-vcenter-server-using-govc-cli.html) 

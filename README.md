@@ -658,3 +658,6 @@
 
 ### April 12, 2018 
 - [Slick way of deploying OVF/OVA directly to ESXi & vCenter Server using govc CLI | virtuallyGhetto](https://www.virtuallyghetto.com/2016/04/slick-way-of-deploying-ovfova-directly-to-esxi-vcenter-server-using-govc-cli.html) 
+
+### April 22, 2018 
+- [Fun with Terraform Template Rendering - The Particular Finest](https://blog.aurynn.com/2017/2/23-fun-with-terraform-template-rendering) 

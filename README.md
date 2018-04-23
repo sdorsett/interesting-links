@@ -662,3 +662,6 @@
 ### April 22, 2018 
 - [Fun with Terraform Template Rendering - The Particular Finest](https://blog.aurynn.com/2017/2/23-fun-with-terraform-template-rendering) 
 - [Terraform tips and tricks | Sevag H](http://sevag.xyz/post/terraform/) 
+
+### April 23, 2018 
+- [GitHub - influxdata/telegraf: The plugin-driven server agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf) 

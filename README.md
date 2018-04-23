@@ -661,3 +661,4 @@
 
 ### April 22, 2018 
 - [Fun with Terraform Template Rendering - The Particular Finest](https://blog.aurynn.com/2017/2/23-fun-with-terraform-template-rendering) 
+- [Terraform tips and tricks | Sevag H](http://sevag.xyz/post/terraform/) 

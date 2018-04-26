@@ -665,3 +665,6 @@
 
 ### April 23, 2018 
 - [GitHub - influxdata/telegraf: The plugin-driven server agent for collecting & reporting metrics.](https://github.com/influxdata/telegraf) 
+
+### April 26, 2018 
+- [rclone - rsync for cloud storage](https://rclone.org/) 

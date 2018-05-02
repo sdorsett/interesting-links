@@ -671,3 +671,4 @@
 
 ### May 2, 2018 
 - [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) 
+- [GitHub - gruntwork-io/terratest: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.](https://github.com/gruntwork-io/terratest) 

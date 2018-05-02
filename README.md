@@ -668,3 +668,6 @@
 
 ### April 26, 2018 
 - [rclone - rsync for cloud storage](https://rclone.org/) 
+
+### May 2, 2018 
+- [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) 

@@ -672,3 +672,6 @@
 ### May 2, 2018 
 - [Open sourcing Terratest: a swiss army knife for testing infrastructure code](https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5) 
 - [GitHub - gruntwork-io/terratest: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.](https://github.com/gruntwork-io/terratest) 
+
+### May 7, 2018 
+- [GitHub - gruntwork-io/terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.](https://github.com/gruntwork-io/terragrunt) 

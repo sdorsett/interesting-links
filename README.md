@@ -676,3 +676,4 @@
 ### May 7, 2018 
 - [GitHub - gruntwork-io/terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.](https://github.com/gruntwork-io/terragrunt) 
 - [Terraform @ Cars.com – Cars.Com Technology](https://tech.cars.com/terraform-cars-com-dd1291e46c88) 
+- [Minio: Private cloud storage](https://minio.io/) 

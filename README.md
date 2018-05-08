@@ -678,3 +678,4 @@
 - [Terraform @ Cars.com – Cars.Com Technology](https://tech.cars.com/terraform-cars-com-dd1291e46c88) 
 - [Minio: Private cloud storage](https://minio.io/) 
 - [Store Terraform states in Cloud Object Storage - IBM Cloud Blog](https://www.ibm.com/blogs/bluemix/2018/04/store-terraform-states-cloud-object-storage/) 
+- [Cobbler in a Docker Container - Container Solutions](http://container-solutions.com/cobbler-in-a-docker-container/) 

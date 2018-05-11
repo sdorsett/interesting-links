@@ -679,3 +679,6 @@
 - [Minio: Private cloud storage](https://minio.io/) 
 - [Store Terraform states in Cloud Object Storage - IBM Cloud Blog](https://www.ibm.com/blogs/bluemix/2018/04/store-terraform-states-cloud-object-storage/) 
 - [Cobbler in a Docker Container - Container Solutions](http://container-solutions.com/cobbler-in-a-docker-container/) 
+
+### May 11, 2018 
+- [Nord Projects - a design and technology consultancy | We work like a startup to create products that delight customers and solve real business problems.](http://nordprojects.co/projects/) 

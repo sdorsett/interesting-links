@@ -682,3 +682,6 @@
 
 ### May 11, 2018 
 - [Nord Projects - a design and technology consultancy | We work like a startup to create products that delight customers and solve real business problems.](http://nordprojects.co/projects/) 
+
+### May 12, 2018 
+- [Plex Media Server for armhf and arm64 using Debian or Ubuntu — Plex Forums](http://forums.plex.tv/discussion/309553/plex-media-server-for-armhf-and-arm64-using-debian-or-ubuntu) 

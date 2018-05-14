@@ -685,3 +685,6 @@
 
 ### May 12, 2018 
 - [Plex Media Server for armhf and arm64 using Debian or Ubuntu — Plex Forums](http://forums.plex.tv/discussion/309553/plex-media-server-for-armhf-and-arm64-using-debian-or-ubuntu) 
+
+### May 13, 2018 
+- [cappetta/SecDevOps-Toolkit: Build locally, deploy to any cloud, Automate all configurations...](https://github.com/cappetta/SecDevOps-Toolkit) 

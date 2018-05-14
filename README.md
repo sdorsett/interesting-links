@@ -688,3 +688,6 @@
 
 ### May 13, 2018 
 - [cappetta/SecDevOps-Toolkit: Build locally, deploy to any cloud, Automate all configurations...](https://github.com/cappetta/SecDevOps-Toolkit) 
+
+### May 14, 2018 
+- [Writing a Terraform provider (part 1)](http://blog.tintoy.io/2016/11/writing-a-terraform-provider/) 

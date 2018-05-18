@@ -691,3 +691,6 @@
 
 ### May 14, 2018 
 - [Writing a Terraform provider (part 1)](http://blog.tintoy.io/2016/11/writing-a-terraform-provider/) 
+
+### May 17, 2018 
+- [Best Practices with Packer and Windows](https://hodgkins.io/best-practices-with-packer-and-windows) 

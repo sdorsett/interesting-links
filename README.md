@@ -694,3 +694,6 @@
 
 ### May 17, 2018 
 - [Best Practices with Packer and Windows](https://hodgkins.io/best-practices-with-packer-and-windows) 
+
+### May 21, 2018 
+- [Fetching private GitHub repos from a Docker container](https://medium.com/paperchain/fetching-private-github-repos-from-a-docker-container-273f25ec5a74) 

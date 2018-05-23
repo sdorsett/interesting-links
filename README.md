@@ -699,3 +699,6 @@
 - [Fetching private GitHub repos from a Docker container](https://medium.com/paperchain/fetching-private-github-repos-from-a-docker-container-273f25ec5a74) 
 - [GitHub - alexandrst88/terraform-variables-generator: Simple Tool for Generate Variables file from Terraform Configuration](https://github.com/alexandrst88/terraform-variables-generator) 
 - [GitHub - segmentio/terraform-docs: Generate docs from terraform modules](https://github.com/segmentio/terraform-docs) 
+
+### May 23, 2018 
+- [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/) 

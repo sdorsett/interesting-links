@@ -702,3 +702,6 @@
 
 ### May 23, 2018 
 - [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/) 
+
+### May 26, 2018 
+- [Automatically Generating InSpec Controls from Terraform - Chef Blog](https://blog.chef.io/2018/05/23/automatically-generating-inspec-controls-from-terraform/) 

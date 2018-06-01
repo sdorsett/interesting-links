@@ -1,5 +1,8 @@
 # interesting-links
 
+
+### June 1, 2018 
+- [GitHub - dastergon/awesome-sre: A curated list of awesome Site Reliability and Production Engineering resources.](https://github.com/dastergon/awesome-sre) 
 ### August 16, 2016
 - [Idnan/like-on-git: Chrome extension - Link a repository with the extension and automatically save the links to content you like](https://github.com/Idnan/like-on-git) - This is where this repo all began.
 - [chef/bento: Packer templates for building minimal Vagrant baseboxes](https://github.com/chef/bento) - Need to re-examine for ideas on how to improve our packer pipeline.

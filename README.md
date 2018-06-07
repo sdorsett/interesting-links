@@ -5,6 +5,7 @@
 ### June 7, 2018 
 - [GitHub - sgreben/jp: dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.](https://github.com/sgreben/jp) 
 - [GitHub - maciejkula/sbr-go: Recommender systems for Go](https://github.com/maciejkula/sbr-go) 
+- [GitHub - anexia-it/consulacl: Go library for working with consul ACLs](https://github.com/anexia-it/consulacl) 
 ### June 1, 2018 
 - [GitHub - dastergon/awesome-sre: A curated list of awesome Site Reliability and Production Engineering resources.](https://github.com/dastergon/awesome-sre) 
 ### August 16, 2016

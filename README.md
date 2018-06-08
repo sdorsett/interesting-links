@@ -7,6 +7,7 @@
 - [GitHub - maciejkula/sbr-go: Recommender systems for Go](https://github.com/maciejkula/sbr-go) 
 - [GitHub - anexia-it/consulacl: Go library for working with consul ACLs](https://github.com/anexia-it/consulacl) 
 - [GitHub - hybridgroup/gobot: Golang framework for robotics, drones, and the Internet of Things (IoT)](https://github.com/hybridgroup/gobot) 
+- [Revisiting Docker and Jenkins | Riot Games Engineering](https://engineering.riotgames.com/news/revisiting-docker-and-jenkins?mkt_tok=eyJpIjoiTnpVM1l6a3dPRGxtTXpRMSIsInQiOiJwWWRHdEpFa2pTWUhrT1JRa0F4cVF6YStybEtLbmlpOXJWUW9lTDZ1Y3pjSXRVbTRRQzJzK3J6UlVJNGo0aVV6ZFNFYzNwVmR1NndTR01LSERUVThNWU1JclwvdFVcL2ZlY2p4RG1hYlNJem9taWtHNzBkeWl0WlB0UjF4VVJra1orIn0%3D) 
 ### June 1, 2018 
 - [GitHub - dastergon/awesome-sre: A curated list of awesome Site Reliability and Production Engineering resources.](https://github.com/dastergon/awesome-sre) 
 ### August 16, 2016

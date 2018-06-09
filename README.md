@@ -7,6 +7,7 @@
 - [Getting started with Buildah | Opensource.com](https://opensource.com/article/18/6/getting-started-buildah?utm_source=DevOps%27ish&utm_campaign=a8335e9445-079&utm_medium=email&utm_term=0_eab566bc9f-a8335e9445-45838997) 
 - [Iterative Terraform Development with Skaffold and Kubernetes](https://hackernoon.com/iterative-terraform-development-with-skaffold-and-kubernetes-42cb6d60f7dc) 
 - [How to install a Kubernetes cluster on CentOS 7 - TechRepublic](https://www.techrepublic.com/article/how-to-install-a-kubernetes-cluster-on-centos-7/?utm_source=DevOps%27ish&utm_campaign=a8335e9445-079&utm_medium=email&utm_term=0_eab566bc9f-a8335e9445-45838997) 
+- [Go Language CookBook With Examples - Ednsquare](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG?utm_source=DevOps%27ish&utm_campaign=a8335e9445-079&utm_medium=email&utm_term=0_eab566bc9f-a8335e9445-45838997) 
 ### June 7, 2018 
 - [GitHub - sgreben/jp: dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.](https://github.com/sgreben/jp) 
 - [GitHub - maciejkula/sbr-go: Recommender systems for Go](https://github.com/maciejkula/sbr-go) 

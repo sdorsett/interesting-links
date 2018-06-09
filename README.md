@@ -2,6 +2,9 @@
 
 
 
+
+### June 9, 2018 
+- [Getting started with Buildah | Opensource.com](https://opensource.com/article/18/6/getting-started-buildah?utm_source=DevOps%27ish&utm_campaign=a8335e9445-079&utm_medium=email&utm_term=0_eab566bc9f-a8335e9445-45838997) 
 ### June 7, 2018 
 - [GitHub - sgreben/jp: dead simple terminal plots from JSON data. single binary, no dependencies. linux, osx, windows.](https://github.com/sgreben/jp) 
 - [GitHub - maciejkula/sbr-go: Recommender systems for Go](https://github.com/maciejkula/sbr-go) 

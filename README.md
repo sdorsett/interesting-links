@@ -7,6 +7,7 @@
 ### June 11, 2018 
 - [Advanced multi-stage build patterns – Tõnis Tiigi – Medium](https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae) 
 - [How to Write Dockerfiles for Python Web Apps – Hasura](https://blog.hasura.io/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d) 
+- [Developing CoreDNS backends with gRPC](https://ahmet.im/blog/coredns-grpc-backends/) 
 ### June 9, 2018 
 - [Getting started with Buildah | Opensource.com](https://opensource.com/article/18/6/getting-started-buildah?utm_source=DevOps%27ish&utm_campaign=a8335e9445-079&utm_medium=email&utm_term=0_eab566bc9f-a8335e9445-45838997) 
 - [Iterative Terraform Development with Skaffold and Kubernetes](https://hackernoon.com/iterative-terraform-development-with-skaffold-and-kubernetes-42cb6d60f7dc) 

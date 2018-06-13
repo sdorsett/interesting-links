@@ -4,6 +4,9 @@
 
 
 
+
+### June 13, 2018 
+- [laurent22/joplin: Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/](https://github.com/laurent22/joplin) 
 ### June 11, 2018 
 - [Advanced multi-stage build patterns – Tõnis Tiigi – Medium](https://medium.com/@tonistiigi/advanced-multi-stage-build-patterns-6f741b852fae) 
 - [How to Write Dockerfiles for Python Web Apps – Hasura](https://blog.hasura.io/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d) 

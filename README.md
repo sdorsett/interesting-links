@@ -5,6 +5,9 @@
 
 
 
+
+### June 15, 2018 
+- [GitHub - mcuadros/go-syslog: Syslog server library for go.](https://github.com/mcuadros/go-syslog) 
 ### June 13, 2018 
 - [laurent22/joplin: Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplin.cozic.net/](https://github.com/laurent22/joplin) 
 - [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplin.cozic.net/) 

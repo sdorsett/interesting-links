@@ -10,6 +10,7 @@
 ### June 20, 2018 
 - [GitHub - josenk/vagrant-vmware-esxi: A Vagrant plugin that adds a vmware ESXi provider support.](https://github.com/josenk/vagrant-vmware-esxi) 
 - [LibreSprite/README.md at master · LibreSprite/LibreSprite · GitHub](https://github.com/LibreSprite/LibreSprite/blob/master/README.md) 
+- [GitHub - shuaibiyy/awesome-terraform: Curated list of resources on HashiCorp's Terraform](https://github.com/shuaibiyy/awesome-terraform) 
 ### June 15, 2018 
 - [GitHub - mcuadros/go-syslog: Syslog server library for go.](https://github.com/mcuadros/go-syslog) 
 - [GitHub - ziutek/syslog: With this package you can create your own syslog server with your own handlers for different kind of syslog messages](https://github.com/ziutek/syslog) 

@@ -7,6 +7,9 @@
 
 
 
+
+### June 21, 2018 
+- [Go in a scratch VM – Ravelin Tech](https://syslog.ravelin.com/go-in-a-scratch-vm-a28c14e82a51) 
 ### June 20, 2018 
 - [GitHub - josenk/vagrant-vmware-esxi: A Vagrant plugin that adds a vmware ESXi provider support.](https://github.com/josenk/vagrant-vmware-esxi) 
 - [LibreSprite/README.md at master · LibreSprite/LibreSprite · GitHub](https://github.com/LibreSprite/LibreSprite/blob/master/README.md) 

@@ -12,6 +12,7 @@
 - [LibreSprite/README.md at master · LibreSprite/LibreSprite · GitHub](https://github.com/LibreSprite/LibreSprite/blob/master/README.md) 
 - [GitHub - shuaibiyy/awesome-terraform: Curated list of resources on HashiCorp's Terraform](https://github.com/shuaibiyy/awesome-terraform) 
 - [Blast Radius](https://28mm.github.io/blast-radius-docs/) 
+- [lamw/vghetto-nsxt-automated-lab-deployment: vGhetto NSX-T Automated Lab Deployment (VNLD) for vSphere 6.5u1 & NSX-T 2.0](https://github.com/lamw/vghetto-nsxt-automated-lab-deployment) 
 ### June 15, 2018 
 - [GitHub - mcuadros/go-syslog: Syslog server library for go.](https://github.com/mcuadros/go-syslog) 
 - [GitHub - ziutek/syslog: With this package you can create your own syslog server with your own handlers for different kind of syslog messages](https://github.com/ziutek/syslog) 

@@ -8,6 +8,9 @@
 
 
 
+
+### June 22, 2018 
+- [GitHub - jjasghar/powercli_install: A cookbook to install PowerCLI on your non-Windows Systems](https://github.com/jjasghar/powercli_install) 
 ### June 21, 2018 
 - [Go in a scratch VM – Ravelin Tech](https://syslog.ravelin.com/go-in-a-scratch-vm-a28c14e82a51) 
 ### June 20, 2018 

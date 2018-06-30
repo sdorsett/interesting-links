@@ -9,6 +9,9 @@
 
 
 
+
+### June 30, 2018 
+- [Trinket](https://trinket.io/) 
 ### June 22, 2018 
 - [GitHub - jjasghar/powercli_install: A cookbook to install PowerCLI on your non-Windows Systems](https://github.com/jjasghar/powercli_install) 
 ### June 21, 2018 

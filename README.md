@@ -12,6 +12,9 @@
 
 
 
+
+### July 6, 2018 
+- [ESXi 6.5 Passthrough Video Card/GPU to Plex VM | Karim's Blog](https://elatov.github.io/2018/04/esxi-65-passthrough-video-card-to-plex-vm/) 
 ### July 5, 2018 
 - [GitHub - salihciftci/liman: Web application for monitoring docker. Monitor docker inside the docker.](https://github.com/salihciftci/liman) 
 ### July 3, 2018 

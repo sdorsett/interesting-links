@@ -16,6 +16,7 @@
 
 ### July 8, 2018 
 - [How to install Kubernetes using Let’s Kube script – Containerum – Medium](https://medium.com/containerum/how-to-install-kubernetes-using-lets-kube-script-61bcd0fb1aa3) 
+- [snibox/snibox: Self-hosted code snippets manager](https://github.com/snibox/snibox?utm_source=DevOps%27ish&utm_campaign=cc611f1d4a-083&utm_medium=email&utm_term=0_eab566bc9f-cc611f1d4a-45838997) 
 ### July 6, 2018 
 - [ESXi 6.5 Passthrough Video Card/GPU to Plex VM | Karim's Blog](https://elatov.github.io/2018/04/esxi-65-passthrough-video-card-to-plex-vm/) 
 ### July 5, 2018 

@@ -13,6 +13,9 @@
 
 
 
+
+### July 8, 2018 
+- [How to install Kubernetes using Let’s Kube script – Containerum – Medium](https://medium.com/containerum/how-to-install-kubernetes-using-lets-kube-script-61bcd0fb1aa3) 
 ### July 6, 2018 
 - [ESXi 6.5 Passthrough Video Card/GPU to Plex VM | Karim's Blog](https://elatov.github.io/2018/04/esxi-65-passthrough-video-card-to-plex-vm/) 
 ### July 5, 2018 

@@ -18,6 +18,7 @@
 
 ### July 14, 2018 
 - [Uptime Robot](https://uptimerobot.com/) 
+- [bitfield/uptimerobot: Client library for UptimeRobot v2 API](https://github.com/bitfield/uptimerobot) 
 ### July 10, 2018 
 - [CRUD REST API in Iris (a framework for golang) – Morifeoluwa Jebutu – Medium](https://medium.com/@jebzmos4/crud-rest-api-in-iris-a-framework-for-golang-a5d33652401e) 
 - [gokv: Go database interface – Pierre Prinetti – Medium](https://medium.com/@pierreprinetti/gokv-a-database-interface-4a5a08e4f0e7) 

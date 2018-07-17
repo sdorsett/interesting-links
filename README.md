@@ -19,6 +19,7 @@
 
 ### July 16, 2018 
 - [Use of Let's Encrypt wildcard certs in Kubernetes](https://rimusz.net/lets-encrypt-wildcard-certs-in-kubernetes/?utm_source=DevOps%27ish&utm_campaign=bca9bd6bb6-084&utm_medium=email&utm_term=0_eab566bc9f-bca9bd6bb6-45838997) 
+- [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh?utm_source=DevOps%27ish&utm_campaign=bca9bd6bb6-084&utm_medium=email&utm_term=0_eab566bc9f-bca9bd6bb6-45838997) 
 ### July 14, 2018 
 - [Uptime Robot](https://uptimerobot.com/) 
 - [bitfield/uptimerobot: Client library for UptimeRobot v2 API](https://github.com/bitfield/uptimerobot) 

@@ -23,6 +23,7 @@
 - [Building RESTful web API service using Golang, chi, and MySQL](https://itnext.io/building-restful-web-api-service-using-golang-chi-mysql-d85f427dee54) 
 - [Full Stack GoLang Tutorial with PostgreSQL - Ednsquare](https://ednsquare.com/publisher/view/Full-Stack-GoLang-Tutorial-with-PostgreSQL-------fn1h0zlYGm?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 
 - [Setup a Go web service as a system-level service on Ubuntu](https://medium.com/@stas.smirnov88/setup-a-go-web-service-as-a-system-level-service-on-ubuntu-a2eb6c878bbc) 
+- [You are going to need it — Using Interfaces and Dependency Injection to future proof your designs](https://medium.com/dm03514-tech-blog/you-are-going-to-need-it-using-interfaces-and-dependency-injection-to-future-proof-your-designs-2cf6f58db192) 
 ### July 14, 2018 
 - [Uptime Robot](https://uptimerobot.com/) 
 - [bitfield/uptimerobot: Client library for UptimeRobot v2 API](https://github.com/bitfield/uptimerobot) 

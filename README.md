@@ -22,6 +22,7 @@
 - [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh?utm_source=DevOps%27ish&utm_campaign=bca9bd6bb6-084&utm_medium=email&utm_term=0_eab566bc9f-bca9bd6bb6-45838997) 
 - [Building RESTful web API service using Golang, chi, and MySQL](https://itnext.io/building-restful-web-api-service-using-golang-chi-mysql-d85f427dee54) 
 - [Full Stack GoLang Tutorial with PostgreSQL - Ednsquare](https://ednsquare.com/publisher/view/Full-Stack-GoLang-Tutorial-with-PostgreSQL-------fn1h0zlYGm?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 
+- [Setup a Go web service as a system-level service on Ubuntu](https://medium.com/@stas.smirnov88/setup-a-go-web-service-as-a-system-level-service-on-ubuntu-a2eb6c878bbc) 
 ### July 14, 2018 
 - [Uptime Robot](https://uptimerobot.com/) 
 - [bitfield/uptimerobot: Client library for UptimeRobot v2 API](https://github.com/bitfield/uptimerobot) 

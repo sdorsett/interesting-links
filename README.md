@@ -18,6 +18,9 @@
 
 
 
+
+### July 18, 2018 
+- [Feature Preview: Output Processing and Data Passing](https://www.rundeck.com/blog/output-processing-data-passing-preview) 
 ### July 17, 2018 
 - [giordyb/rundeck-powershell-plugin](https://github.com/giordyb/rundeck-powershell-plugin) 
 - [Easy steps to create jobs in Rundeck](https://blog.e-zest.com/easy-steps-to-create-jobs-in-rundeck) 

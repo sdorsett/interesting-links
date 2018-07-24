@@ -19,6 +19,9 @@
 
 
 
+
+### July 24, 2018 
+- [Devhints — TL;DR for developer documentation](https://devhints.io/) 
 ### July 18, 2018 
 - [Feature Preview: Output Processing and Data Passing](https://www.rundeck.com/blog/output-processing-data-passing-preview) 
 - [docker/docker-container at master · rundeck-plugins/docker](https://github.com/rundeck-plugins/docker/tree/master/docker-container) 

@@ -23,6 +23,7 @@
 
 ### July 27, 2018 
 - [Wait for MongoDB, Postgres or MySql to start on Docker - DEV Community 👩‍💻👨‍💻](https://dev.to/hugodias/wait-for-mongodb-to-start-on-docker-3h8b) 
+- [Build a cryptocurrency alert app using Kotlin and Go: Part 2](https://pusher.com/tutorials/cryptocurrency-kotlin-go-part-2?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 
 ### July 24, 2018 
 - [Devhints — TL;DR for developer documentation](https://devhints.io/) 
 - [Creating and Deploying VM Templates with Packer and Powershell | Personal Blog](https://jwmoss.github.io/blog/automating-template-builds-with-packer.html) 

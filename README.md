@@ -20,6 +20,9 @@
 
 
 
+
+### July 27, 2018 
+- [Wait for MongoDB, Postgres or MySql to start on Docker - DEV Community 👩‍💻👨‍💻](https://dev.to/hugodias/wait-for-mongodb-to-start-on-docker-3h8b) 
 ### July 24, 2018 
 - [Devhints — TL;DR for developer documentation](https://devhints.io/) 
 - [Creating and Deploying VM Templates with Packer and Powershell | Personal Blog](https://jwmoss.github.io/blog/automating-template-builds-with-packer.html) 

@@ -21,6 +21,9 @@
 
 
 
+
+### July 29, 2018 
+- [A sysadmin's guide to Ansible: How to simplify tasks | Opensource.com](https://opensource.com/article/18/7/sysadmin-tasks-ansible?utm_source=DevOps%27ish&utm_campaign=4f068c2bf3-086&utm_medium=email&utm_term=0_eab566bc9f-4f068c2bf3-45838997) 
 ### July 27, 2018 
 - [Wait for MongoDB, Postgres or MySql to start on Docker - DEV Community 👩‍💻👨‍💻](https://dev.to/hugodias/wait-for-mongodb-to-start-on-docker-3h8b) 
 - [Build a cryptocurrency alert app using Kotlin and Go: Part 2](https://pusher.com/tutorials/cryptocurrency-kotlin-go-part-2?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 

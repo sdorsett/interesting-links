@@ -25,6 +25,7 @@
 
 ### August 6, 2018 
 - [Invoke-VMScriptPlus v2 - LucD notes](http://www.lucd.info/2018/08/05/invoke-vmscriptplus-v2/) 
+- [Message to all users, and their reply - LucD notes](http://www.lucd.info/2018/08/05/message-to-all-users-and-their-reply/) 
 ### July 29, 2018 
 - [A sysadmin's guide to Ansible: How to simplify tasks | Opensource.com](https://opensource.com/article/18/7/sysadmin-tasks-ansible?utm_source=DevOps%27ish&utm_campaign=4f068c2bf3-086&utm_medium=email&utm_term=0_eab566bc9f-4f068c2bf3-45838997) 
 ### July 27, 2018 

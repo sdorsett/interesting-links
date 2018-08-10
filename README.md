@@ -24,6 +24,9 @@
 
 
 
+
+### August 10, 2018 
+- [Debugging Go Code with Visual Studio Code ― Scotch](https://scotch.io/tutorials/debugging-go-code-with-visual-studio-code) 
 ### August 9, 2018 
 - [Clear defensive programming with Go using Verifier library](https://itnext.io/clear-defensive-programming-with-go-using-verifier-library-6f648810b453) 
 ### August 6, 2018 

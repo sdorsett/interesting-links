@@ -28,6 +28,7 @@
 
 ### August 14, 2018 
 - [Deploy Photon 2.0 - Part 1 - LucD notes](http://www.lucd.info/2018/08/14/deploy-photon-2-0-part-1/) 
+- [String Data Type in Go – Run Go – Medium](https://medium.com/rungo/string-data-type-in-go-8af2b639478) 
 ### August 10, 2018 
 - [Debugging Go Code with Visual Studio Code ― Scotch](https://scotch.io/tutorials/debugging-go-code-with-visual-studio-code) 
 - [A Good Makefile for Go - Azer Koçulu's Journal](http://azer.bike/journal/a-good-makefile-for-go/) 

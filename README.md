@@ -30,6 +30,7 @@
 ### August 15, 2018 
 - [Shell script to setup an LXD (Linux Containers) VM lab for testing purpose – nixCraft](https://bash.cyberciti.biz/virtualization/shell-script-to-setup-an-lxd-linux-containers-vm-lab-for-testing-purpose/) 
 - [GitHub - kholia/OSX-KVM: Run El Capitan, macOS Sierra, High Sierra and Mojave on QEMU/KVM. No support is provided at the moment.](https://github.com/kholia/OSX-KVM) 
+- [Introduction — Patroni 1.4.6 documentation](https://patroni.readthedocs.io/en/latest/#) 
 ### August 14, 2018 
 - [Deploy Photon 2.0 - Part 1 - LucD notes](http://www.lucd.info/2018/08/14/deploy-photon-2-0-part-1/) 
 - [String Data Type in Go – Run Go – Medium](https://medium.com/rungo/string-data-type-in-go-8af2b639478) 

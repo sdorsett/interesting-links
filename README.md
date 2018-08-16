@@ -27,6 +27,9 @@
 
 
 
+
+### August 16, 2018 
+- [GitHub - thisredone/rb: Turns Ruby into a versatile command line utility](https://github.com/thisredone/rb) 
 ### August 15, 2018 
 - [Shell script to setup an LXD (Linux Containers) VM lab for testing purpose – nixCraft](https://bash.cyberciti.biz/virtualization/shell-script-to-setup-an-lxd-linux-containers-vm-lab-for-testing-purpose/) 
 - [GitHub - kholia/OSX-KVM: Run El Capitan, macOS Sierra, High Sierra and Mojave on QEMU/KVM. No support is provided at the moment.](https://github.com/kholia/OSX-KVM) 

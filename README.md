@@ -32,6 +32,7 @@
 ### August 17, 2018 
 - [GitHub - bvinc/go-sqlite-lite: SQLite driver for the Go programming language](https://github.com/bvinc/go-sqlite-lite) 
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 
+- [crawshaw - 2018-07-30](https://crawshaw.io/blog/one-process-programming-notes) 
 ### August 16, 2018 
 - [GitHub - thisredone/rb: Turns Ruby into a versatile command line utility](https://github.com/thisredone/rb) 
 ### August 15, 2018 

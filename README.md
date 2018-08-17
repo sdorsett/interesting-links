@@ -33,6 +33,7 @@
 - [GitHub - bvinc/go-sqlite-lite: SQLite driver for the Go programming language](https://github.com/bvinc/go-sqlite-lite) 
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 
 - [crawshaw - 2018-07-30](https://crawshaw.io/blog/one-process-programming-notes) 
+- [GitHub - mb-14/gomarkov: Markov chains in golang](https://github.com/mb-14/gomarkov) 
 ### August 16, 2018 
 - [GitHub - thisredone/rb: Turns Ruby into a versatile command line utility](https://github.com/thisredone/rb) 
 ### August 15, 2018 

@@ -34,6 +34,7 @@
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 
 - [crawshaw - 2018-07-30](https://crawshaw.io/blog/one-process-programming-notes) 
 - [GitHub - mb-14/gomarkov: Markov chains in golang](https://github.com/mb-14/gomarkov) 
+- [GitHub - kahing/goofys: a high-performance, POSIX-ish Amazon S3 file system written in Go](https://github.com/kahing/goofys) 
 ### August 16, 2018 
 - [GitHub - thisredone/rb: Turns Ruby into a versatile command line utility](https://github.com/thisredone/rb) 
 ### August 15, 2018 

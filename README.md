@@ -37,6 +37,7 @@
 - [GitHub - kahing/goofys: a high-performance, POSIX-ish Amazon S3 file system written in Go](https://github.com/kahing/goofys) 
 - [Conditional statements and loops in GoLang – Run Go – Medium](https://medium.com/rungo/conditional-statements-and-loops-in-golang-49207dfb444a) 
 - [How I structure production grade REST API’s in Golang.](https://itnext.io/structuring-a-production-grade-rest-api-in-golang-c0229b3feedc) 
+- [GUI on Golang: GTK + 3](https://www.evernote.com/shard/s732/sh/4727a0d5-fb34-496b-849c-3b554026fd22/d4e6e797c31a1ea0) 
 ### August 16, 2018 
 - [GitHub - thisredone/rb: Turns Ruby into a versatile command line utility](https://github.com/thisredone/rb) 
 ### August 15, 2018 

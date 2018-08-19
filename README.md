@@ -37,6 +37,7 @@
 - [Kubernetes Networking: How to Write Your Own CNI Plug-in with Bash | Altoros](https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/) 
 - [ENHANCE.COMPUTER](https://www.enhance.computer/) 
 - [Markov Chains explained visually](http://setosa.io/ev/markov-chains/) 
+- [cattlepi/README.md at master · cattlepi/cattlepi](https://github.com/cattlepi/cattlepi/blob/master/README.md) 
 ### August 17, 2018 
 - [GitHub - bvinc/go-sqlite-lite: SQLite driver for the Go programming language](https://github.com/bvinc/go-sqlite-lite) 
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 

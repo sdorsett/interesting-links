@@ -33,6 +33,7 @@
 ### August 19, 2018 
 - [Core Python Tutorials – Real Python](https://realpython.com/tutorials/python/) 
 - [Taking the Certified Kubernetes Administrator Exam – Kevin Hoffman – Medium](https://medium.com/@KevinHoffman/taking-the-certified-kubernetes-administrator-exam-eeab17d65476) 
+- [Tips to crack Certified Kubernetes Administrator (CKA) Exam](https://medium.com/@pmvk/tips-to-crack-certified-kubernetes-administrator-cka-exam-c949c7a9bea1) 
 ### August 17, 2018 
 - [GitHub - bvinc/go-sqlite-lite: SQLite driver for the Go programming language](https://github.com/bvinc/go-sqlite-lite) 
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 

@@ -38,6 +38,7 @@
 - [ENHANCE.COMPUTER](https://www.enhance.computer/) 
 - [Markov Chains explained visually](http://setosa.io/ev/markov-chains/) 
 - [cattlepi/README.md at master · cattlepi/cattlepi](https://github.com/cattlepi/cattlepi/blob/master/README.md) 
+- [boss/README.md at master · crosbymichael/boss](https://github.com/crosbymichael/boss/blob/master/README.md) 
 ### August 17, 2018 
 - [GitHub - bvinc/go-sqlite-lite: SQLite driver for the Go programming language](https://github.com/bvinc/go-sqlite-lite) 
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 

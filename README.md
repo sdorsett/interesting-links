@@ -41,6 +41,7 @@
 - [boss/README.md at master · crosbymichael/boss](https://github.com/crosbymichael/boss/blob/master/README.md) 
 - [Cookbook development on the VMware platform](http://jjasghar.github.io/blog/2018/07/24/cookbook-development-with-a-pure-vmware-stack/) 
 - [Devhints — TL;DR for developer documentation](https://devhints.io/) 
+- [How to set up high availability storage with GlusterFS on Ubuntu 18.04 - TechRepublic](https://www.techrepublic.com/article/how-to-set-up-high-availability-storage-with-glusterfs-on-ubuntu-18-04/) 
 ### August 17, 2018 
 - [GitHub - bvinc/go-sqlite-lite: SQLite driver for the Go programming language](https://github.com/bvinc/go-sqlite-lite) 
 - [A debugger from scratch — part 1 – Liz Rice – Medium](https://medium.com/@lizrice/a-debugger-from-scratch-part-1-7f55417bc85f) 

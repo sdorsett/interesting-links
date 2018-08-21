@@ -33,6 +33,7 @@
 
 ### August 20, 2018 
 - [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/) 
+- [A deep dive into AWS S3 access controls – taking full control over your assets](https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/) 
 ### August 19, 2018 
 - [Core Python Tutorials – Real Python](https://realpython.com/tutorials/python/) 
 - [Taking the Certified Kubernetes Administrator Exam – Kevin Hoffman – Medium](https://medium.com/@KevinHoffman/taking-the-certified-kubernetes-administrator-exam-eeab17d65476) 

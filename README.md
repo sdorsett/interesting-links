@@ -35,6 +35,7 @@
 
 ### August 22, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
+- [Build a Kubernetes Cluster on Google Cloud Platform with Terraform | Composite Thrashing Code](https://compositecode.blog/2017/10/23/build-a-kubernetes-cluster-on-google-cloud-platform-with-terraform/) 
 ### August 21, 2018 
 - [Deploy Photon 2.0 - Part 2 - LucD notes](http://www.lucd.info/2018/08/19/deploy-photon-2-0-part-2/) 
 ### August 20, 2018 

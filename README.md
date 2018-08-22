@@ -32,6 +32,9 @@
 
 
 
+
+### August 22, 2018 
+- [Sysdig | Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 ### August 21, 2018 
 - [Deploy Photon 2.0 - Part 2 - LucD notes](http://www.lucd.info/2018/08/19/deploy-photon-2-0-part-2/) 
 ### August 20, 2018 

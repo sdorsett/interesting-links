@@ -31,6 +31,9 @@
 
 
 
+
+### August 21, 2018 
+- [Deploy Photon 2.0 - Part 2 - LucD notes](http://www.lucd.info/2018/08/19/deploy-photon-2-0-part-2/) 
 ### August 20, 2018 
 - [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/) 
 - [A deep dive into AWS S3 access controls – taking full control over your assets](https://labs.detectify.com/2017/07/13/a-deep-dive-into-aws-s3-access-controls-taking-full-control-over-your-assets/) 

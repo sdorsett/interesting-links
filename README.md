@@ -39,6 +39,7 @@
 - [GitHub - trailofbits/algo: Set up a personal IPSEC VPN in the cloud](https://github.com/trailofbits/algo) 
 - [Using Infrastructure as Code to Automate VMware Deployments](https://www.hashicorp.com/blog/using-infrastructure-as-code-to-automate-vmware-deployments?utm_source=hc-newsletter&utm_medium=email&utm_campaign=august2018newsletter) 
 - [Getting Started With Consul & Vault in Kubernetes | K&C Blog](https://kruschecompany.com/blog/post/hashicorp-in-kubernetes) 
+- [Introducing Code Capture - VMware PowerCLI Blog - VMware Blogs](https://blogs.vmware.com/PowerCLI/2018/08/introducing-code-capture.html) 
 ### August 21, 2018 
 - [Deploy Photon 2.0 - Part 2 - LucD notes](http://www.lucd.info/2018/08/19/deploy-photon-2-0-part-2/) 
 ### August 20, 2018 

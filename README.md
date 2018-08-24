@@ -37,6 +37,7 @@
 ### August 24, 2018 
 - [Refactoring in Go: Using reflection – Sergi Mansilla – Medium](https://medium.com/@sergimansilla/refactoring-in-go-using-reflection-31ddd9a65dc7) 
 - [saylornotes | Building a Chess bot for Slack](https://www.chris-saylor.com/posts/building-a-chessbot-for-slack/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 
+- [Build a Multiplayer Game in Go with PubNub | PubNub](https://www.pubnub.com/blog/multiplayer-game-in-go-lang-with-pubnub/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 
 ### August 22, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 - [Build a Kubernetes Cluster on Google Cloud Platform with Terraform | Composite Thrashing Code](https://compositecode.blog/2017/10/23/build-a-kubernetes-cluster-on-google-cloud-platform-with-terraform/) 

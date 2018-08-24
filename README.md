@@ -33,6 +33,9 @@
 
 
 
+
+### August 24, 2018 
+- [Refactoring in Go: Using reflection – Sergi Mansilla – Medium](https://medium.com/@sergimansilla/refactoring-in-go-using-reflection-31ddd9a65dc7) 
 ### August 22, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus, the ultimate guide (part 1)](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 - [Build a Kubernetes Cluster on Google Cloud Platform with Terraform | Composite Thrashing Code](https://compositecode.blog/2017/10/23/build-a-kubernetes-cluster-on-google-cloud-platform-with-terraform/) 

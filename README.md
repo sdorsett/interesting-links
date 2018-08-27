@@ -34,6 +34,9 @@
 
 
 
+
+### August 26, 2018 
+- [zygomys/README.md at master · glycerine/zygomys](https://github.com/glycerine/zygomys/blob/master/README.md) 
 ### August 24, 2018 
 - [Refactoring in Go: Using reflection – Sergi Mansilla – Medium](https://medium.com/@sergimansilla/refactoring-in-go-using-reflection-31ddd9a65dc7) 
 - [saylornotes | Building a Chess bot for Slack](https://www.chris-saylor.com/posts/building-a-chessbot-for-slack/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Master%20the%20World%20of%20Golang) 

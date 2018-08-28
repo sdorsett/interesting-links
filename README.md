@@ -35,6 +35,9 @@
 
 
 
+
+### August 28, 2018 
+- [Terraform tips & tricks: loops, if-statements, and gotchas](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9) 
 ### August 26, 2018 
 - [zygomys/README.md at master · glycerine/zygomys](https://github.com/glycerine/zygomys/blob/master/README.md) 
 - [What they don’t tell you about event sourcing – Hugo Rocha – Medium](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a) 

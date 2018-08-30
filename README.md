@@ -39,6 +39,7 @@
 
 ### August 29, 2018 
 - [GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).](https://github.com/trimstray/test-your-sysadmin-skills) 
+- [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack) 
 ### August 28, 2018 
 - [Terraform tips & tricks: loops, if-statements, and gotchas](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9) 
 ### August 26, 2018 

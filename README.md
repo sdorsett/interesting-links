@@ -42,6 +42,7 @@
 - [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack) 
 - [9corp/9volt: A modern, distributed monitoring system written in Go](https://github.com/9corp/9volt) 
 - [DevSec Hardening Framework](https://github.com/dev-sec) 
+- [Home - dmarcian](https://dmarcian.com/) 
 ### August 28, 2018 
 - [Terraform tips & tricks: loops, if-statements, and gotchas](https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9) 
 ### August 26, 2018 

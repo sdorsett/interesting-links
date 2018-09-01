@@ -40,6 +40,7 @@
 
 ### August 31, 2018 
 - [Error handling practices in Go · Banzai Cloud](https://banzaicloud.com/blog/error-handling-go/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Golang%20Ninjas%20Newsletter) 
+- [Create a Go API in 5 minutes Part 1 – Joseph Livni – Medium](https://medium.com/@j.d.livni/create-a-go-api-in-5-minutes-part-1-7d371089d742) 
 ### August 29, 2018 
 - [GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).](https://github.com/trimstray/test-your-sysadmin-skills) 
 - [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack) 

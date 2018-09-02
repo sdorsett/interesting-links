@@ -38,6 +38,9 @@
 
 
 
+
+### September 2, 2018 
+- [Some Admission Webhook Basics - Container Solutions](https://container-solutions.com/some-admission-webhook-basics/) 
 ### August 31, 2018 
 - [Error handling practices in Go · Banzai Cloud](https://banzaicloud.com/blog/error-handling-go/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Golang%20Ninjas%20Newsletter) 
 - [Create a Go API in 5 minutes Part 1 – Joseph Livni – Medium](https://medium.com/@j.d.livni/create-a-go-api-in-5-minutes-part-1-7d371089d742) 

@@ -42,6 +42,7 @@
 
 ### September 3, 2018 
 - [WireGuard VPN review: A new type of VPN offers serious advantages | Ars Technica](https://arstechnica.com/gadgets/2018/08/wireguard-vpn-review-fast-connections-amaze-but-windows-support-needs-to-happen/?utm_source=DevOps%27ish&utm_campaign=857c7dd3b6-091&utm_medium=email&utm_term=0_eab566bc9f-857c7dd3b6-45838997) 
+- [Deploy OpenFaaS and Kubernetes on DigitalOcean with Ansible | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/deploy-digitalocean-ansible/?utm_source=DevOps%27ish&utm_campaign=857c7dd3b6-091&utm_medium=email&utm_term=0_eab566bc9f-857c7dd3b6-45838997) 
 ### September 2, 2018 
 - [Some Admission Webhook Basics - Container Solutions](https://container-solutions.com/some-admission-webhook-basics/) 
 - [Putting The Dev Into DevOps: Why Your Developers Should Write Terraform Too](https://medium.com/runatlantis/putting-the-dev-into-devops-why-your-developers-should-write-terraform-too-d3c079dfc6a8) 

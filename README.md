@@ -44,7 +44,6 @@
 ### September 9, 2018 
 - [Terraform templating and loops – { ovni } – Medium](https://medium.com/ovni/terraform-templating-and-loops-9a88c0786c5c) 
 - [Mininet: An Instant Virtual Network on your Laptop (or other PC) - Mininet](http://mininet.org/) 
-- [Mininet: An Instant Virtual Network on your Laptop (or other PC) - Mininet](http://mininet.org/) 
 - [How to teach yourself hard things - Julia Evans](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/?utm_source=DevOps%27ish&utm_campaign=732adc47f8-092&utm_medium=email&utm_term=0_eab566bc9f-732adc47f8-45838997) 
 - [mhausenblas/stateful-kubernetes: All Thingz Stateful Apps & Tooling in Kubernetes](https://github.com/mhausenblas/stateful-kubernetes?utm_source=DevOps%27ish&utm_campaign=732adc47f8-092&utm_medium=email&utm_term=0_eab566bc9f-732adc47f8-45838997) 
 - [Monitoring Vault on Kubernetes using Cloud Native technologies · Banzai Cloud](https://banzaicloud.com/blog/monitoring-vault-grafana/?utm_source=DevOps%27ish&utm_campaign=732adc47f8-092&utm_medium=email&utm_term=0_eab566bc9f-732adc47f8-45838997) 

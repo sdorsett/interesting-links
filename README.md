@@ -45,6 +45,7 @@
 - [Terraform templating and loops – { ovni } – Medium](https://medium.com/ovni/terraform-templating-and-loops-9a88c0786c5c) 
 - [Mininet: An Instant Virtual Network on your Laptop (or other PC) - Mininet](http://mininet.org/) 
 - [Mininet: An Instant Virtual Network on your Laptop (or other PC) - Mininet](http://mininet.org/) 
+- [How to teach yourself hard things - Julia Evans](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/?utm_source=DevOps%27ish&utm_campaign=732adc47f8-092&utm_medium=email&utm_term=0_eab566bc9f-732adc47f8-45838997) 
 ### September 3, 2018 
 - [WireGuard VPN review: A new type of VPN offers serious advantages | Ars Technica](https://arstechnica.com/gadgets/2018/08/wireguard-vpn-review-fast-connections-amaze-but-windows-support-needs-to-happen/?utm_source=DevOps%27ish&utm_campaign=857c7dd3b6-091&utm_medium=email&utm_term=0_eab566bc9f-857c7dd3b6-45838997) 
 - [Deploy OpenFaaS and Kubernetes on DigitalOcean with Ansible | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/deploy-digitalocean-ansible/?utm_source=DevOps%27ish&utm_campaign=857c7dd3b6-091&utm_medium=email&utm_term=0_eab566bc9f-857c7dd3b6-45838997) 

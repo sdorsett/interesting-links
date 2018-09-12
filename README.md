@@ -41,6 +41,9 @@
 
 
 
+
+### September 12, 2018 
+- [Monitoring Supervisord Processes in Slack with Go - M. Tarık Yurt](https://mtyurt.net/post/2018/monitoring-supervisord-processes-in-slack-with-go.html) 
 ### September 9, 2018 
 - [Terraform templating and loops – { ovni } – Medium](https://medium.com/ovni/terraform-templating-and-loops-9a88c0786c5c) 
 - [Mininet: An Instant Virtual Network on your Laptop (or other PC) - Mininet](http://mininet.org/) 

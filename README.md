@@ -42,6 +42,9 @@
 
 
 
+
+### September 13, 2018 
+- [Announcing the HashiCorp Consul Helm Chart](https://www.hashicorp.com/blog/announcing-the-consul-helm-chart) 
 ### September 12, 2018 
 - [Monitoring Supervisord Processes in Slack with Go - M. Tarık Yurt](https://mtyurt.net/post/2018/monitoring-supervisord-processes-in-slack-with-go.html) 
 ### September 9, 2018 

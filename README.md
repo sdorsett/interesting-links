@@ -46,6 +46,7 @@
 ### September 13, 2018 
 - [Announcing the HashiCorp Consul Helm Chart](https://www.hashicorp.com/blog/announcing-the-consul-helm-chart) 
 - [GitHub - trodemaster/tfe-openstack-vsphere: Demo for using terraform to deploy simple VMs to OpenStack and vSphere](https://github.com/trodemaster/tfe-openstack-vsphere/) 
+- [skatiyar/pacman: Classic pacman with procedurally generated infinite vertical maze, written in Golang.](https://github.com/skatiyar/pacman) 
 ### September 12, 2018 
 - [Monitoring Supervisord Processes in Slack with Go - M. Tarık Yurt](https://mtyurt.net/post/2018/monitoring-supervisord-processes-in-slack-with-go.html) 
 ### September 9, 2018 

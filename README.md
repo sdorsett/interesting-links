@@ -50,6 +50,7 @@
 - [The Odd Angry Shot: Faking vCenter alarms](http://www.theoddangryshot.com/2016/10/faking-vcenter-alarms.html) 
 - [A Brief, Animated Introduction to Programming with Python](https://ourcodestories.com/markm208/Playlist/16) 
 - [FotD | Ned in the Cloud](https://nedinthecloud.com/tag/fotd/) 
+- [telegraf/plugins/inputs/vsphere at master · influxdata/telegraf](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/vsphere) 
 ### September 12, 2018 
 - [Monitoring Supervisord Processes in Slack with Go - M. Tarık Yurt](https://mtyurt.net/post/2018/monitoring-supervisord-processes-in-slack-with-go.html) 
 ### September 9, 2018 

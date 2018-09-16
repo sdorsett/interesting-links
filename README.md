@@ -49,6 +49,7 @@
 - [Building a finance tracking REST API using Go with TDD - Part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-test-driven-development---part-1-16o8?utm_source=DevOps%27ish&utm_campaign=7b364d81e3-093&utm_medium=email&utm_term=0_eab566bc9f-7b364d81e3-45838997) 
 - [Learn Kubernetes by Doing | Hands-on](https://www.magicsandbox.com/?utm_source=DevOps%27ish&utm_campaign=7b364d81e3-093&utm_medium=email&utm_term=0_eab566bc9f-7b364d81e3-45838997) 
 - [Kubernetes: Cron Jobs](https://chrisshort.net/kubernetes-cron-jobs/?utm_source=DevOps%27ish&utm_campaign=7b364d81e3-093&utm_medium=email&utm_term=0_eab566bc9f-7b364d81e3-45838997) 
+- [Understand Container - Index Page](https://pierrchen.blogspot.com/2018/08/understand-container-index.html?m=1) 
 ### September 13, 2018 
 - [Announcing the HashiCorp Consul Helm Chart](https://www.hashicorp.com/blog/announcing-the-consul-helm-chart) 
 - [GitHub - trodemaster/tfe-openstack-vsphere: Demo for using terraform to deploy simple VMs to OpenStack and vSphere](https://github.com/trodemaster/tfe-openstack-vsphere/) 

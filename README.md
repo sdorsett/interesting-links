@@ -43,6 +43,9 @@
 
 
 
+
+### September 16, 2018 
+- [Ingress - kubedex.com](https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/?utm_source=DevOps%27ish&utm_campaign=7b364d81e3-093&utm_medium=email&utm_term=0_eab566bc9f-7b364d81e3-45838997) 
 ### September 13, 2018 
 - [Announcing the HashiCorp Consul Helm Chart](https://www.hashicorp.com/blog/announcing-the-consul-helm-chart) 
 - [GitHub - trodemaster/tfe-openstack-vsphere: Demo for using terraform to deploy simple VMs to OpenStack and vSphere](https://github.com/trodemaster/tfe-openstack-vsphere/) 

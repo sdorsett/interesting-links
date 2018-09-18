@@ -47,6 +47,7 @@
 
 ### September 18, 2018 
 - [[Tutorial, Part 1] How to develop Go gRPC microservice with HTTP/REST endpoint, middleware…](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9) 
+- [Properly Installing Python — The Hitchhiker's Guide to Python](https://docs.python-guide.org/starting/installation/) 
 ### September 16, 2018 
 - [Ingress - kubedex.com](https://kubedex.com/nginx-ingress-vs-kong-vs-traefik-vs-haproxy-vs-voyager-vs-contour-vs-ambassador/?utm_source=DevOps%27ish&utm_campaign=7b364d81e3-093&utm_medium=email&utm_term=0_eab566bc9f-7b364d81e3-45838997) 
 - [Building a finance tracking REST API using Go with TDD - Part 1 - DEV Community 👩‍💻👨‍💻](https://dev.to/azbshiri/building-a-finance-tracking-rest-api-using-go-with-test-driven-development---part-1-16o8?utm_source=DevOps%27ish&utm_campaign=7b364d81e3-093&utm_medium=email&utm_term=0_eab566bc9f-7b364d81e3-45838997) 

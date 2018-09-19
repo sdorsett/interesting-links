@@ -45,6 +45,9 @@
 
 
 
+
+### September 19, 2018 
+- [2 Minutes to Docker MacVLAN Networking – A Beginners Guide – Collabnix](https://collabnix.com/2-minutes-to-docker-macvlan-networking-a-beginners-guide/) 
 ### September 18, 2018 
 - [[Tutorial, Part 1] How to develop Go gRPC microservice with HTTP/REST endpoint, middleware…](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9) 
 - [Properly Installing Python — The Hitchhiker's Guide to Python](https://docs.python-guide.org/starting/installation/) 

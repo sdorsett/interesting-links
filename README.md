@@ -50,6 +50,7 @@
 ### September 20, 2018 
 - [OVH News - Infrastructure as code: Creating a multi-regional blog with Terraform on the OVH Public Cloud – Part 1](https://www.ovh.com/ca/en/news/articles/al405.infrastructure-code-creating-multi-regional-blog-terraform-ovh-public-cloud-part-1) 
 - [OVH News - Infrastructure as code: Creating a multi-regional blog with Terraform on the OVH Public Cloud – Part 2](https://www.ovh.com/ca/en/news/articles/al519.infrastructure-code-creating-multi-regional-blog-terraform-ovh-public-cloud-part-2) 
+- [Jenkins: Shifting Gears](https://jenkins.io/blog/2018/08/31/shifting-gears/) 
 ### September 19, 2018 
 - [2 Minutes to Docker MacVLAN Networking – A Beginners Guide – Collabnix](https://collabnix.com/2-minutes-to-docker-macvlan-networking-a-beginners-guide/) 
 - [A Packer template for Windows Nano server weighing 300MB — Hurry Up and Wait!](https://www.hurryupandwait.io/blog/a-packer-template-for-windows-nano-server-weighing-300mb) 

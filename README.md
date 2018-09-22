@@ -51,6 +51,7 @@
 ### September 21, 2018 
 - [Web Scraping using GolangThe Tara Nights](https://www.thetaranights.com/web-scraping-using-golang/) 
 - [Mage - make/rake for Go · npf.io](https://npf.io/2018/09/mage/) 
+- [Handmade mutex in 28 lines of go – Alexander Borisov – Medium](https://medium.com/@cheshirysh/handmade-mutex-in-28-lines-of-go-205ff5b13dbc) 
 ### September 20, 2018 
 - [OVH News - Infrastructure as code: Creating a multi-regional blog with Terraform on the OVH Public Cloud – Part 1](https://www.ovh.com/ca/en/news/articles/al405.infrastructure-code-creating-multi-regional-blog-terraform-ovh-public-cloud-part-1) 
 - [OVH News - Infrastructure as code: Creating a multi-regional blog with Terraform on the OVH Public Cloud – Part 2](https://www.ovh.com/ca/en/news/articles/al519.infrastructure-code-creating-multi-regional-blog-terraform-ovh-public-cloud-part-2) 

@@ -49,6 +49,9 @@
 
 
 
+
+### September 24, 2018 
+- [Authy | Two-factor Authentication (2FA) App & Guides](https://authy.com/) 
 ### September 23, 2018 
 - [BashFAQ - Greg's Wiki](https://mywiki.wooledge.org/BashFAQ) 
 ### September 21, 2018 

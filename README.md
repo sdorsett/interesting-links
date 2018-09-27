@@ -54,6 +54,7 @@
 
 ### September 27, 2018 
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric - TestDriven.io](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean) 
+- [Open Sourcing HASSH – Salesforce Engineering](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c) 
 ### September 25, 2018 
 - [micropacker-for-containers/README.md at master · vmware/micropacker-for-containers](https://github.com/vmware/micropacker-for-containers/blob/master/README.md) 
 ### September 24, 2018 

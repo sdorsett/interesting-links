@@ -60,6 +60,7 @@
 - [govmomi/scripts/vcsa at master · vmware/govmomi](https://github.com/vmware/govmomi/tree/master/scripts/vcsa) 
 - [Writing Custom Providers - Guides - Terraform by HashiCorp](https://www.terraform.io/docs/extend/writing-custom-providers.html) 
 - [hashicorp/go-discover: Discover nodes in cloud environments](https://github.com/hashicorp/go-discover) 
+- [consul/cloud-auto-join.html.md at master · hashicorp/consul](https://github.com/hashicorp/consul/blob/master/website/source/docs/agent/cloud-auto-join.html.md) 
 ### September 27, 2018 
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric - TestDriven.io](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean) 
 - [Open Sourcing HASSH – Salesforce Engineering](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c) 

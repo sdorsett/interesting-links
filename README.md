@@ -58,6 +58,7 @@
 - [pddenhar/esxi-linked-clone: A utility script to create linked clones of a base virtual machine in VMWare ESXi without any tools other than vSphere.](https://github.com/pddenhar/esxi-linked-clone) 
 - [Play with VM snapshots and linked-clones with ESXi command line tools – vUptime.io – Cloud builder(s)](https://vuptime.io/2015/02/26/play-vm-snapshots-esxi-command-line-tools/) 
 - [govmomi/create-esxi-vm.sh at master · vmware/govmomi](https://github.com/vmware/govmomi/blob/master/scripts/vcsa/create-esxi-vm.sh) 
+- [govmomi/scripts/vcsa at master · vmware/govmomi](https://github.com/vmware/govmomi/tree/master/scripts/vcsa) 
 ### September 27, 2018 
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric - TestDriven.io](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean) 
 - [Open Sourcing HASSH – Salesforce Engineering](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c) 

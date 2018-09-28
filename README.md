@@ -52,6 +52,9 @@
 
 
 
+
+### September 28, 2018 
+- [cloudbase/unattended-setup-scripts: Various unattended setup scripts and configuration files. Note: the content of this repo is mostly WiP for R&D. When scripts are ready they are usually moved to a dedicated repo.](https://github.com/cloudbase/unattended-setup-scripts) 
 ### September 27, 2018 
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric - TestDriven.io](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean) 
 - [Open Sourcing HASSH – Salesforce Engineering](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c) 

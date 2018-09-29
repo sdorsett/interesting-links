@@ -61,6 +61,7 @@
 - [Writing Custom Providers - Guides - Terraform by HashiCorp](https://www.terraform.io/docs/extend/writing-custom-providers.html) 
 - [hashicorp/go-discover: Discover nodes in cloud environments](https://github.com/hashicorp/go-discover) 
 - [consul/cloud-auto-join.html.md at master · hashicorp/consul](https://github.com/hashicorp/consul/blob/master/website/source/docs/agent/cloud-auto-join.html.md) 
+- [Let's handle the sound on Go](https://www.evernote.com/client/snv?exp=ENB3538&noteGuid=184cd954-2403-4937-ba0c-6917cf0d5e83&noteKey=272d587a82e4d233&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs732%2Fsh%2F184cd954-2403-4937-ba0c-6917cf0d5e83%2F272d587a82e4d233&utm_campaign=Master%20the%20World%20of%20Golang&utm_medium=email&utm_source=Revue%20newsletter&var=b) 
 ### September 27, 2018 
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric - TestDriven.io](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean) 
 - [Open Sourcing HASSH – Salesforce Engineering](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c) 

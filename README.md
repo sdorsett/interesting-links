@@ -56,6 +56,7 @@
 
 ### September 30, 2018 
 - [Running Microsoft SQL Server on Red Hat OpenShift - RHD Blog](https://developers.redhat.com/blog/2018/09/25/sql-server-on-openshift/?utm_source=DevOps%27ish&utm_campaign=e3cc8360c8-095&utm_medium=email&utm_term=0_eab566bc9f-e3cc8360c8-45838997) 
+- [Catching and dealing with naughty devices on my home network](https://scotthelme.co.uk/catching-naughty-devices-on-my-home-network/) 
 ### September 28, 2018 
 - [cloudbase/unattended-setup-scripts: Various unattended setup scripts and configuration files. Note: the content of this repo is mostly WiP for R&D. When scripts are ready they are usually moved to a dedicated repo.](https://github.com/cloudbase/unattended-setup-scripts) 
 - [pddenhar/esxi-linked-clone: A utility script to create linked clones of a base virtual machine in VMWare ESXi without any tools other than vSphere.](https://github.com/pddenhar/esxi-linked-clone) 

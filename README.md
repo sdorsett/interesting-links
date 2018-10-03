@@ -54,6 +54,9 @@
 
 
 
+
+### October 3, 2018 
+- [pietervogelaar/kubernetes-job-monitor: This provides a monitor dashboard that makes it easy to see which jobs are running and if their latest status was "succeeded" or "failed".](https://github.com/pietervogelaar/kubernetes-job-monitor) 
 ### September 30, 2018 
 - [Running Microsoft SQL Server on Red Hat OpenShift - RHD Blog](https://developers.redhat.com/blog/2018/09/25/sql-server-on-openshift/?utm_source=DevOps%27ish&utm_campaign=e3cc8360c8-095&utm_medium=email&utm_term=0_eab566bc9f-e3cc8360c8-45838997) 
 - [Catching and dealing with naughty devices on my home network](https://scotthelme.co.uk/catching-naughty-devices-on-my-home-network/) 

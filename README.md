@@ -58,6 +58,7 @@
 
 ### October 5, 2018 
 - [Deploying an application to AWS with Terraform and Ansible - Part 1 (Terraform) - RobertVerdam.nl](https://robertverdam.nl/2018/09/03/deploying-an-application-to-aws-with-terraform-and-ansible-part-1-terraform/) 
+- [Deploying an application to AWS with Terraform and Ansible – Part 2 (Ansible) - RobertVerdam.nl](https://robertverdam.nl/2018/09/22/deploying-an-application-to-aws-with-terraform-and-ansible-part-2-ansible/) 
 ### October 3, 2018 
 - [pietervogelaar/kubernetes-job-monitor: This provides a monitor dashboard that makes it easy to see which jobs are running and if their latest status was "succeeded" or "failed".](https://github.com/pietervogelaar/kubernetes-job-monitor) 
 ### September 30, 2018 

@@ -61,6 +61,7 @@
 - [Deploying an application to AWS with Terraform and Ansible – Part 2 (Ansible) - RobertVerdam.nl](https://robertverdam.nl/2018/09/22/deploying-an-application-to-aws-with-terraform-and-ansible-part-2-ansible/) 
 - [Kubespy, and the lifecycle of a Pod, in 4 images](https://blog.pulumi.com/kubespy-and-the-lifecycle-of-a-kubernetes-pod-in-four-images) 
 - [kubespy trace: a real-time view into the heart of a Kubernetes Service](https://blog.pulumi.com/kubespy-trace-a-real-time-view-into-the-heart-of-a-kubernetes-service) 
+- [We're open-sourcing etcdadm! Here's what it means for Kubernetes in production - Platform9](https://platform9.com/blog/were-open-sourcing-etcdadm-heres-what-it-means-for-kubernetes-in-production/) 
 ### October 3, 2018 
 - [pietervogelaar/kubernetes-job-monitor: This provides a monitor dashboard that makes it easy to see which jobs are running and if their latest status was "succeeded" or "failed".](https://github.com/pietervogelaar/kubernetes-job-monitor) 
 ### September 30, 2018 

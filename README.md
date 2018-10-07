@@ -56,6 +56,9 @@
 
 
 
+
+### October 7, 2018 
+- [Container Scanning - kubedex.com](https://kubedex.com/container-scanning/?utm_source=DevOps%27ish&utm_campaign=47a90bf896-096&utm_medium=email&utm_term=0_eab566bc9f-47a90bf896-45838997) 
 ### October 5, 2018 
 - [Deploying an application to AWS with Terraform and Ansible - Part 1 (Terraform) - RobertVerdam.nl](https://robertverdam.nl/2018/09/03/deploying-an-application-to-aws-with-terraform-and-ansible-part-1-terraform/) 
 - [Deploying an application to AWS with Terraform and Ansible – Part 2 (Ansible) - RobertVerdam.nl](https://robertverdam.nl/2018/09/22/deploying-an-application-to-aws-with-terraform-and-ansible-part-2-ansible/) 

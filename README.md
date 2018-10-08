@@ -61,6 +61,7 @@
 ### October 8, 2018 
 - [GitHub - heptio/ark: Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.](https://github.com/heptio/ark) 
 - [Capacity Planning in Four Parts: Telling the Future without a Crystal Ball](https://blog.hostedgraphite.com/2018/10/01/capacity-planning-in-four-parts-telling-the-future-without-a-crystal-ball/) 
+- [Open-sourcing StateService: Automating recovery of third-party services after a major outage - Facebook Code](https://code.fb.com/open-source/stateservice/) 
 ### October 7, 2018 
 - [Container Scanning - kubedex.com](https://kubedex.com/container-scanning/?utm_source=DevOps%27ish&utm_campaign=47a90bf896-096&utm_medium=email&utm_term=0_eab566bc9f-47a90bf896-45838997) 
 ### October 5, 2018 

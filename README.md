@@ -61,6 +61,7 @@
 
 ### October 15, 2018 
 - [zegl/kube-score: Kubernetes object static code analysis](https://github.com/zegl/kube-score) 
+- [Etsy’s experiment with immutable documentation - Code as Craft](https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/) 
 ### October 8, 2018 
 - [GitHub - heptio/ark: Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.](https://github.com/heptio/ark) 
 - [Capacity Planning in Four Parts: Telling the Future without a Crystal Ball](https://blog.hostedgraphite.com/2018/10/01/capacity-planning-in-four-parts-telling-the-future-without-a-crystal-ball/) 

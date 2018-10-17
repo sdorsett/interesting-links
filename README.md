@@ -60,6 +60,9 @@
 
 
 
+
+### October 17, 2018 
+- [shawnxlw/kubernetes-tools: Kubernetes Tools is a set of scripts that simplifies daily Kubernetes operations.](https://github.com/shawnxlw/kubernetes-tools) 
 ### October 16, 2018 
 - [Install and monitor Photon OS, Kubernetes on vSphere - Opvizor | Opvizor](https://www.opvizor.com/install-and-monitor-photon-os-kubernetes-on-vsphere) 
 - [kubectl Cheat Sheet - Kubernetes](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) 

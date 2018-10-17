@@ -59,6 +59,9 @@
 
 
 
+
+### October 16, 2018 
+- [Install and monitor Photon OS, Kubernetes on vSphere - Opvizor | Opvizor](https://www.opvizor.com/install-and-monitor-photon-os-kubernetes-on-vsphere) 
 ### October 15, 2018 
 - [zegl/kube-score: Kubernetes object static code analysis](https://github.com/zegl/kube-score) 
 - [Etsy’s experiment with immutable documentation - Code as Craft](https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/) 

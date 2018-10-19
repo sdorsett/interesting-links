@@ -61,6 +61,9 @@
 
 
 
+
+### October 19, 2018 
+- [Nested ESXi Virtual Appliance](https://www.virtuallyghetto.com/nested-virtualization/nested-esxi-virtual-appliance) 
 ### October 17, 2018 
 - [shawnxlw/kubernetes-tools: Kubernetes Tools is a set of scripts that simplifies daily Kubernetes operations.](https://github.com/shawnxlw/kubernetes-tools) 
 - [Convert a controlrepo to using the Puppet Development Kit (PDK) | rnelson0](https://rnelson0.com/2018/10/15/convert-a-controlrepo-to-using-the-puppet-development-kit-pdk/) 

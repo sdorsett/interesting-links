@@ -68,6 +68,7 @@
 - [ORM: We Approve – Remix](https://blog.remix.com/orm-we-approve-60f2a68f73fb) 
 - [Chaos Monkey Guide for Engineers - Tips, Tutorials, and Training](https://www.gremlin.com/chaos-monkey/) 
 - [Using Kubeless for Kubernetes Events](https://leebriggs.co.uk/blog/2018/10/16/using-kubeless-for-kubernetes-events.html) 
+- [README.md · master · Marius / kubehiera · GitLab](https://gitlab.com/msvechla/kubehiera/blob/master/README.md) 
 ### October 19, 2018 
 - [Nested ESXi Virtual Appliance](https://www.virtuallyghetto.com/nested-virtualization/nested-esxi-virtual-appliance) 
 ### October 17, 2018 

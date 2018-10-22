@@ -66,6 +66,7 @@
 ### October 22, 2018 
 - [Testing Kubernetes RBAC – YLD Engineering Blog – Medium](https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e) 
 - [ORM: We Approve – Remix](https://blog.remix.com/orm-we-approve-60f2a68f73fb) 
+- [Chaos Monkey Guide for Engineers - Tips, Tutorials, and Training](https://www.gremlin.com/chaos-monkey/) 
 ### October 19, 2018 
 - [Nested ESXi Virtual Appliance](https://www.virtuallyghetto.com/nested-virtualization/nested-esxi-virtual-appliance) 
 ### October 17, 2018 

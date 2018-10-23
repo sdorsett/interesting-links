@@ -63,6 +63,9 @@
 
 
 
+
+### October 23, 2018 
+- [Keep your Kubernetes cluster balanced: the secret to High Availability](https://itnext.io/keep-you-kubernetes-cluster-balanced-the-secret-to-high-availability-17edf60d9cb7) 
 ### October 22, 2018 
 - [Testing Kubernetes RBAC – YLD Engineering Blog – Medium](https://medium.com/yld-engineering-blog/testing-kubernetes-rbac-5e00dc93af8e) 
 - [ORM: We Approve – Remix](https://blog.remix.com/orm-we-approve-60f2a68f73fb) 

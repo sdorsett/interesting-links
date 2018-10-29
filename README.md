@@ -64,6 +64,9 @@
 
 
 
+
+### October 29, 2018 
+- [Sysdig | Kubernetes Monitoring with Prometheus -The ultimate guide (part 1).](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 ### October 23, 2018 
 - [Keep your Kubernetes cluster balanced: the secret to High Availability](https://itnext.io/keep-you-kubernetes-cluster-balanced-the-secret-to-high-availability-17edf60d9cb7) 
 ### October 22, 2018 

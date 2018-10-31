@@ -72,6 +72,7 @@
 - [How to Install Istio with Helm on a New PKS Cluster](https://gist.github.com/kacole2/f761dac381b13a2e1b4dc9904d7559fc) 
 - [Ingress Controller and Kubernetes Using Minikube — a Tiny Demonstration](https://medium.com/@schogini/ingress-controller-and-kubernetes-using-minikube-a-tiny-demonstration-63c2a73e2803) 
 - [The Kubernetes Networking Model | Caylent](https://caylent.com/kubernetes-networking-model/) 
+- [Sequent 3.0 | Sequent - CQRS & event sourcing framework for Ruby](https://www.sequent.io/) 
 ### October 29, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus -The ultimate guide (part 1).](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 ### October 23, 2018 

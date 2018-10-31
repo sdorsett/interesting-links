@@ -68,6 +68,7 @@
 
 ### October 31, 2018 
 - [Container-based server platform for Linux device management goes open source](http://linuxgizmos.com/container-based-server-platform-for-linux-device-management-goes-open-source/) 
+- [Introduction to kubeadm - VMware Open Source Blog](https://blogs.vmware.com/opensource/2018/10/04/open-source-kubeadm-introduction/) 
 ### October 29, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus -The ultimate guide (part 1).](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 ### October 23, 2018 

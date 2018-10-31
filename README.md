@@ -74,6 +74,7 @@
 - [The Kubernetes Networking Model | Caylent](https://caylent.com/kubernetes-networking-model/) 
 - [Sequent 3.0 | Sequent - CQRS & event sourcing framework for Ruby](https://www.sequent.io/) 
 - [Puppet Bolt 1.0™: get your hands on lightning-fast automation | Puppet](https://puppet.com/blog/puppet-bolt-1-0-lightning-fast-automation) 
+- [Introduction to Linux interfaces for virtual networking - RHD Blog](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/) 
 ### October 29, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus -The ultimate guide (part 1).](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 ### October 23, 2018 

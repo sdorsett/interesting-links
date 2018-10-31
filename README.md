@@ -73,6 +73,7 @@
 - [Ingress Controller and Kubernetes Using Minikube — a Tiny Demonstration](https://medium.com/@schogini/ingress-controller-and-kubernetes-using-minikube-a-tiny-demonstration-63c2a73e2803) 
 - [The Kubernetes Networking Model | Caylent](https://caylent.com/kubernetes-networking-model/) 
 - [Sequent 3.0 | Sequent - CQRS & event sourcing framework for Ruby](https://www.sequent.io/) 
+- [Puppet Bolt 1.0™: get your hands on lightning-fast automation | Puppet](https://puppet.com/blog/puppet-bolt-1-0-lightning-fast-automation) 
 ### October 29, 2018 
 - [Sysdig | Kubernetes Monitoring with Prometheus -The ultimate guide (part 1).](https://sysdig.com/blog/kubernetes-monitoring-prometheus/) 
 ### October 23, 2018 

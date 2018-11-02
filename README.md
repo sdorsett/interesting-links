@@ -70,6 +70,7 @@
 ### November 1, 2018 
 - [Linux kernel: Facebook open-sources new components - Facebook Code](https://code.fb.com/open-source/linux/) 
 - [Kubernetes: Getting Started](https://chrisshort.net/kubernetes-getting-started/index.html) 
+- [rsync to EXFAT drive - SciVision, Inc.](https://www.scivision.co/rsync-to-exfat-drive/) 
 ### October 31, 2018 
 - [Container-based server platform for Linux device management goes open source](http://linuxgizmos.com/container-based-server-platform-for-linux-device-management-goes-open-source/) 
 - [Introduction to kubeadm - VMware Open Source Blog](https://blogs.vmware.com/opensource/2018/10/04/open-source-kubeadm-introduction/) 

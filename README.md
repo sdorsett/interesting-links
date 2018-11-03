@@ -67,6 +67,9 @@
 
 
 
+
+### November 3, 2018 
+- [SOAP - WSDL request in Go Language – EACIIT Engineering – Medium](https://medium.com/eaciit-engineering/soap-wsdl-request-in-go-language-3861cfb5949e) 
 ### November 1, 2018 
 - [Linux kernel: Facebook open-sources new components - Facebook Code](https://code.fb.com/open-source/linux/) 
 - [Kubernetes: Getting Started](https://chrisshort.net/kubernetes-getting-started/index.html) 

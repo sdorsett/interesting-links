@@ -69,6 +69,9 @@
 
 
 
+
+### November 5, 2018 
+- [Deploying a publicly accessible Kubernetes Dashboard | Josh Higgins](https://joshh.info/2018/kubernetes-dashboard-https-nodeport/) 
 ### November 4, 2018 
 - [How I passed Certified Kubernetes Administrator exam on first attempt](https://prabhatsharma.in/blog/how-i-passed-certified-kubernetes-administrator-exam-on-first-attempt/) 
 - [Kubernetes High Availability – Dominik Tornow – Medium](https://medium.com/@dominik.tornow/kubernetes-high-availability-d2c9cbbdd864) 

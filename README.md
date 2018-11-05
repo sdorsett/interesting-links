@@ -72,6 +72,7 @@
 ### November 4, 2018 
 - [How I passed Certified Kubernetes Administrator exam on first attempt](https://prabhatsharma.in/blog/how-i-passed-certified-kubernetes-administrator-exam-on-first-attempt/) 
 - [Kubernetes High Availability – Dominik Tornow – Medium](https://medium.com/@dominik.tornow/kubernetes-high-availability-d2c9cbbdd864) 
+- [CLI Love Inside ❤️ - DEV Community 👩‍💻👨‍💻](https://dev.to/biros/cli-love-inside-4lgl) 
 ### November 3, 2018 
 - [SOAP - WSDL request in Go Language – EACIIT Engineering – Medium](https://medium.com/eaciit-engineering/soap-wsdl-request-in-go-language-3861cfb5949e) 
 ### November 1, 2018 

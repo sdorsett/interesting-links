@@ -70,6 +70,9 @@
 
 
 
+
+### November 6, 2018 
+- [Best Practices with Packer and Windows](https://hodgkins.io/best-practices-with-packer-and-windows) 
 ### November 5, 2018 
 - [Deploying a publicly accessible Kubernetes Dashboard | Josh Higgins](https://joshh.info/2018/kubernetes-dashboard-https-nodeport/) 
 ### November 4, 2018 

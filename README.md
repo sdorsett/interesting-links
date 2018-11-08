@@ -75,6 +75,7 @@
 ### November 7, 2018 
 - [wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 - [Tutorial: Deploy the Kubernetes Web UI (Dashboard) - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html) 
+- [Use vSphere Storage as Kubernetes persistent volumes](https://blog.inkubate.io/use-vsphere-storage-as-kubernetes-persistant-volumes/) 
 ### November 6, 2018 
 - [Best Practices with Packer and Windows](https://hodgkins.io/best-practices-with-packer-and-windows) 
 ### November 5, 2018 

@@ -72,6 +72,9 @@
 
 
 
+
+### November 9, 2018 
+- [Deploying Go apps on Docker scratch images](https://weberc2.bitbucket.io/posts/golang-docker-scratch-app.html) 
 ### November 7, 2018 
 - [wagoodman/dive: A tool for exploring each layer in a docker image](https://github.com/wagoodman/dive) 
 - [Tutorial: Deploy the Kubernetes Web UI (Dashboard) - Amazon EKS](https://docs.aws.amazon.com/eks/latest/userguide/dashboard-tutorial.html) 

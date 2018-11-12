@@ -76,6 +76,7 @@
 
 ### November 11, 2018 
 - [NFS Persistent Volumes with Kubernetes — A Case Study](https://medium.com/platformer-blog/nfs-persistent-volumes-with-kubernetes-a-case-study-ce1ed6e2c266) 
+- [NFS in Kubernetes - Mike Lambert - Confluence](https://opensource.ncsa.illinois.edu/confluence/display/~lambert8/NFS+in+Kubernetes) 
 ### November 9, 2018 
 - [Deploying Go apps on Docker scratch images](https://weberc2.bitbucket.io/posts/golang-docker-scratch-app.html) 
 ### November 7, 2018 

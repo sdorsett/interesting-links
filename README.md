@@ -78,6 +78,7 @@
 - [NFS Persistent Volumes with Kubernetes — A Case Study](https://medium.com/platformer-blog/nfs-persistent-volumes-with-kubernetes-a-case-study-ce1ed6e2c266) 
 - [NFS in Kubernetes - Mike Lambert - Confluence](https://opensource.ncsa.illinois.edu/confluence/display/~lambert8/NFS+in+Kubernetes) 
 - [Kubernetes Volumes Guide – Examples for NFS and Persistent Volume](https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-volumes-example-nfs-persistent-volume.html) 
+- [Kamshak/jenkins-kubernetes: Kubernetes Deployment for Jenkins 2](https://github.com/Kamshak/jenkins-kubernetes) 
 ### November 9, 2018 
 - [Deploying Go apps on Docker scratch images](https://weberc2.bitbucket.io/posts/golang-docker-scratch-app.html) 
 ### November 7, 2018 

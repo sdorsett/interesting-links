@@ -78,6 +78,7 @@
 ### November 15, 2018 
 - [GitHub - knrt10/asciiConvert: Get ascii art for images from your terminal](https://github.com/knrt10/asciiConvert) 
 - [Helm: User "system:serviceaccount:kube-system:default" cannot get namespaces in the namespace "default · Issue #21 · fnproject/fn-helm · GitHub](https://github.com/fnproject/fn-helm/issues/21) 
+- [Kubernetes, Swap and the VMware Balloon Driver - frankdenneman.nl](http://frankdenneman.nl/2018/11/15/kubernetes-swap-and-the-vmware-balloon-driver/) 
 ### November 11, 2018 
 - [NFS Persistent Volumes with Kubernetes — A Case Study](https://medium.com/platformer-blog/nfs-persistent-volumes-with-kubernetes-a-case-study-ce1ed6e2c266) 
 - [NFS in Kubernetes - Mike Lambert - Confluence](https://opensource.ncsa.illinois.edu/confluence/display/~lambert8/NFS+in+Kubernetes) 

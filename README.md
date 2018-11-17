@@ -78,6 +78,7 @@
 
 ### November 17, 2018 
 - [Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS) 
+- [(70) The Container Operator's Manual - Velocity NY 2018 - YouTube](https://www.youtube.com/watch?v=zGw_xKF47T0) 
 ### November 15, 2018 
 - [GitHub - knrt10/asciiConvert: Get ascii art for images from your terminal](https://github.com/knrt10/asciiConvert) 
 - [Helm: User "system:serviceaccount:kube-system:default" cannot get namespaces in the namespace "default · Issue #21 · fnproject/fn-helm · GitHub](https://github.com/fnproject/fn-helm/issues/21) 

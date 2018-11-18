@@ -79,6 +79,7 @@
 
 ### November 18, 2018 
 - [Building Builds - TeamCity Pipelines as Code using Terraform](https://cvbarros.io/2018/11/building-builds---teamcity-pipelines-as-code-using-terraform/) 
+- [gusztavvargadr/packer: Packer helpers and templates of Visual Studio, Docker, IIS and SQL Server](https://github.com/gusztavvargadr/packer) 
 ### November 17, 2018 
 - [Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS) 
 - [(70) The Container Operator's Manual - Velocity NY 2018 - YouTube](https://www.youtube.com/watch?v=zGw_xKF47T0) 

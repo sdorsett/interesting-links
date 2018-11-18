@@ -85,6 +85,7 @@
 - [sr.ht, the hacker’s forge, now open for public alpha | Drew DeVault’s Blog](https://drewdevault.com/2018/11/15/sr.ht-general-availability.html?utm_source=tldrnewsletter&utm_source=DevOps%27ish&utm_campaign=9c4557cfef-102&utm_medium=email&utm_term=0_eab566bc9f-9c4557cfef-45838997) 
 - [Running ASP.NET Core on minikube – ITNEXT](https://itnext.io/running-asp-net-core-on-minikube-ad69472c4c95) 
 - [Kubernetes TCP load balancer service on premise (non-cloud)](https://medium.com/@maniankara/kubernetes-tcp-load-balancer-service-on-premise-non-cloud-f85c9fd8f43c) 
+- [Kubernetes TCP load balancer service on premise (non-cloud)](https://medium.com/@maniankara/kubernetes-tcp-load-balancer-service-on-premise-non-cloud-f85c9fd8f43c) 
 ### November 17, 2018 
 - [Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS) 
 - [(70) The Container Operator's Manual - Velocity NY 2018 - YouTube](https://www.youtube.com/watch?v=zGw_xKF47T0) 

@@ -81,6 +81,7 @@
 - [Building Builds - TeamCity Pipelines as Code using Terraform](https://cvbarros.io/2018/11/building-builds---teamcity-pipelines-as-code-using-terraform/) 
 - [gusztavvargadr/packer: Packer helpers and templates of Visual Studio, Docker, IIS and SQL Server](https://github.com/gusztavvargadr/packer) 
 - [google/kasane: A simple kubernetes deployment manager](https://github.com/google/kasane) 
+- [Kubernetes 202 — Making It Fully Operational – uptime 99 – Medium](https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab) 
 ### November 17, 2018 
 - [Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS) 
 - [(70) The Container Operator's Manual - Velocity NY 2018 - YouTube](https://www.youtube.com/watch?v=zGw_xKF47T0) 

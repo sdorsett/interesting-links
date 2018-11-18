@@ -80,6 +80,7 @@
 - [Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS) 
 - [(70) The Container Operator's Manual - Velocity NY 2018 - YouTube](https://www.youtube.com/watch?v=zGw_xKF47T0) 
 - [candid82/joker: Small Clojure interpreter and linter](https://github.com/candid82/joker) 
+- [Configuring Jenkins Kubernetes Plug-in With Oracle Cloud Infrastructure Container Engine for Kubernetes](https://www.oracle.com/webfolder/technetwork/tutorials/obe/oci/configure_jenkins_kubernetes_plugin/configurekubernetesplugin.html) 
 ### November 15, 2018 
 - [GitHub - knrt10/asciiConvert: Get ascii art for images from your terminal](https://github.com/knrt10/asciiConvert) 
 - [Helm: User "system:serviceaccount:kube-system:default" cannot get namespaces in the namespace "default · Issue #21 · fnproject/fn-helm · GitHub](https://github.com/fnproject/fn-helm/issues/21) 

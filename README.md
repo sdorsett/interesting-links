@@ -82,6 +82,7 @@
 - [gusztavvargadr/packer: Packer helpers and templates of Visual Studio, Docker, IIS and SQL Server](https://github.com/gusztavvargadr/packer) 
 - [google/kasane: A simple kubernetes deployment manager](https://github.com/google/kasane) 
 - [Kubernetes 202 — Making It Fully Operational – uptime 99 – Medium](https://medium.com/uptime-99/kubernetes-202-making-it-fully-operational-7416e4bb15ab) 
+- [sr.ht, the hacker’s forge, now open for public alpha | Drew DeVault’s Blog](https://drewdevault.com/2018/11/15/sr.ht-general-availability.html?utm_source=tldrnewsletter&utm_source=DevOps%27ish&utm_campaign=9c4557cfef-102&utm_medium=email&utm_term=0_eab566bc9f-9c4557cfef-45838997) 
 ### November 17, 2018 
 - [Nick Busey / HomelabOS · GitLab](https://gitlab.com/NickBusey/HomelabOS) 
 - [(70) The Container Operator's Manual - Velocity NY 2018 - YouTube](https://www.youtube.com/watch?v=zGw_xKF47T0) 

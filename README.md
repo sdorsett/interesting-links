@@ -77,6 +77,9 @@
 
 
 
+
+### November 24, 2018 
+- [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 
 - [Building Builds - TeamCity Pipelines as Code using Terraform](https://cvbarros.io/2018/11/building-builds---teamcity-pipelines-as-code-using-terraform/) 
 - [gusztavvargadr/packer: Packer helpers and templates of Visual Studio, Docker, IIS and SQL Server](https://github.com/gusztavvargadr/packer) 

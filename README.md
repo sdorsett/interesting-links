@@ -87,6 +87,7 @@
 - [How to configure Docker DNS on Ubuntu in a corporate environment? - ECT](https://blog.dlecan.com//how-to-configure-docker-dns-on-ubuntu-in-a-corporate-environment/) 
 - [gopherworks/bawt: A modular slack chatops bot framework written in Go](https://github.com/gopherworks/bawt) 
 - [A Hacky Hacker’s Guide To Hacking Together Jenkins Scripted Pipelines and Getting Them To Do Things](https://medium.com/devopslinks/a-hacky-hackers-guide-to-hacking-together-jenkins-scripted-pipelines-and-getting-them-to-do-things-a1e943cb8d11) 
+- [A Hacky Hacker’s Guide To Hacking Together Jenkins Scripted Pipelines, Part 2](https://medium.com/devopslinks/a-hacky-hackers-guide-to-hacking-together-jenkins-scripted-pipelines-part-2-703b0a615dcd) 
 ### November 24, 2018 
 - [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 

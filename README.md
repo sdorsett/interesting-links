@@ -92,6 +92,7 @@
 - [A Hacky Hacker’s Guide To Jenkins Scripted Pipelines, Part 4](https://medium.com/devopslinks/a-hacky-hackers-guide-to-jenkins-scripted-pipelines-part-4-dd49fcb0d62) 
 - [Jenkins Pipeline - Global Shared Library Best Practices](http://www.aimtheory.com/jenkins/pipeline/continuous-delivery/2017/12/02/jenkins-pipeline-global-shared-library-best-practices.html) 
 - [New Best Practices for Jenkins Pipeline Global Shared Libraries](http://www.aimtheory.com/jenkins/pipeline/continuous-delivery/2018/10/01/jenkins-pipeline-global-shared-library-best-practices-part-2.html) 
+- [BerryLan](http://www.berrylan.org/) 
 ### November 24, 2018 
 - [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 

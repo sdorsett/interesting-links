@@ -85,6 +85,7 @@
 - [uber/makisu: Fast and flexible Docker image building tool, works on OSX and in containerized environments like Kubernetes.](https://github.com/uber/makisu) 
 - [unixorn/sysadmin-reading-list: A reading/viewing list for larval stage sysadmins and SREs](https://github.com/unixorn/sysadmin-reading-list) 
 - [How to configure Docker DNS on Ubuntu in a corporate environment? - ECT](https://blog.dlecan.com//how-to-configure-docker-dns-on-ubuntu-in-a-corporate-environment/) 
+- [gopherworks/bawt: A modular slack chatops bot framework written in Go](https://github.com/gopherworks/bawt) 
 ### November 24, 2018 
 - [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 

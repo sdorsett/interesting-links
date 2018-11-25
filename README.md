@@ -78,6 +78,9 @@
 
 
 
+
+### November 25, 2018 
+- [Running Gitea on Kubernetes – Joseph D. Marhee – Medium](https://medium.com/@jmarhee/running-gitea-on-kubernetes-d1ca5bcf0a4e) 
 ### November 24, 2018 
 - [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 

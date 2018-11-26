@@ -79,6 +79,9 @@
 
 
 
+
+### November 26, 2018 
+- [GitHub - sanity-io/litter: Litter is a pretty printer library for Go data structures to aid in debugging and testing.](https://github.com/sanity-io/litter) 
 ### November 25, 2018 
 - [Running Gitea on Kubernetes – Joseph D. Marhee – Medium](https://medium.com/@jmarhee/running-gitea-on-kubernetes-d1ca5bcf0a4e) 
 - [solo-io/supergloo: The Service Mesh Orchestration Platform](https://github.com/solo-io/supergloo/) 

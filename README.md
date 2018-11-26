@@ -94,6 +94,7 @@
 - [New Best Practices for Jenkins Pipeline Global Shared Libraries](http://www.aimtheory.com/jenkins/pipeline/continuous-delivery/2018/10/01/jenkins-pipeline-global-shared-library-best-practices-part-2.html) 
 - [BerryLan](http://www.berrylan.org/) 
 - [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) 
+- [CI/CD with Gitlab & Kubernetes – DevOpsTricks – Medium](https://medium.com/devopstricks/ci-cd-with-gitlab-kubernetes-399f81ac91ae) 
 ### November 24, 2018 
 - [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 

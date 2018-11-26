@@ -82,6 +82,7 @@
 
 ### November 26, 2018 
 - [GitHub - sanity-io/litter: Litter is a pretty printer library for Go data structures to aid in debugging and testing.](https://github.com/sanity-io/litter) 
+- [GitHub - uflare/smtp2http: a tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request](https://github.com/uflare/smtp2http) 
 ### November 25, 2018 
 - [Running Gitea on Kubernetes – Joseph D. Marhee – Medium](https://medium.com/@jmarhee/running-gitea-on-kubernetes-d1ca5bcf0a4e) 
 - [solo-io/supergloo: The Service Mesh Orchestration Platform](https://github.com/solo-io/supergloo/) 

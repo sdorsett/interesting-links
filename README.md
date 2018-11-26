@@ -95,6 +95,7 @@
 - [BerryLan](http://www.berrylan.org/) 
 - [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) 
 - [CI/CD with Gitlab & Kubernetes – DevOpsTricks – Medium](https://medium.com/devopstricks/ci-cd-with-gitlab-kubernetes-399f81ac91ae) 
+- [AGWA/git-crypt: Transparent file encryption in git](https://github.com/AGWA/git-crypt) 
 ### November 24, 2018 
 - [Set Up a Jenkins CI/CD Pipeline with Kubernetes](https://akomljen.com/set-up-a-jenkins-ci-cd-pipeline-with-kubernetes/) 
 ### November 18, 2018 

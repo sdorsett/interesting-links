@@ -88,6 +88,7 @@
 - [Creating A Terraform Provider - Part 1 – spaceapetech – Medium](https://medium.com/spaceapetech/creating-a-terraform-provider-part-1-ed12884e06d7) 
 - [5 things to do after setting up a Kubrenetes Cluster](https://www.schoolofdevops.com/blog/5-things-to-do-after-setting-up-kubrenetes-cluster/?utm_source=DevOps%27ish&utm_campaign=b5c1a4a16d-100&utm_medium=email&utm_term=0_eab566bc9f-b5c1a4a16d-45838997) 
 - [Infrastructure as Code, Part Two: A Closer Look at Terraform - CrateDB](https://crate.io/a/infrastructure-as-code-part-two-a-closer-look-at-terraform/) 
+- [hjacobs/kube-ops-view: Kubernetes Operational View - read-only system dashboard for multiple K8s clusters](https://github.com/hjacobs/kube-ops-view) 
 ### November 25, 2018 
 - [Running Gitea on Kubernetes – Joseph D. Marhee – Medium](https://medium.com/@jmarhee/running-gitea-on-kubernetes-d1ca5bcf0a4e) 
 - [solo-io/supergloo: The Service Mesh Orchestration Platform](https://github.com/solo-io/supergloo/) 

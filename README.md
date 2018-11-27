@@ -80,6 +80,9 @@
 
 
 
+
+### November 27, 2018 
+- [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) 
 ### November 26, 2018 
 - [GitHub - sanity-io/litter: Litter is a pretty printer library for Go data structures to aid in debugging and testing.](https://github.com/sanity-io/litter) 
 - [GitHub - uflare/smtp2http: a tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request](https://github.com/uflare/smtp2http) 

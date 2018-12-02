@@ -85,6 +85,7 @@
 ### December 2, 2018 
 - [bitnami-labs/kubewatch: Watch k8s events and trigger Handlers](https://github.com/bitnami-labs/kubewatch) 
 - [logzio/apollo: Apollo - The logz.io continuous deployment solution over kubernetes](https://github.com/logzio/apollo) 
+- [Consul DNS - Kubernetes - Consul by HashiCorp](https://www.consul.io/docs/platform/k8s/dns.html) 
 ### November 27, 2018 
 - [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1) 
 - [Announcing the Firecracker Open Source Technology: Secure and Fast microVM for Serverless Computing | AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/firecracker-open-source-secure-fast-microvm-serverless/) 

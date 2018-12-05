@@ -82,6 +82,9 @@
 
 
 
+
+### December 4, 2018 
+- [MetalLB, bare metal load-balancer for Kubernetes](https://metallb.universe.tf/tutorial/layer2/) 
 ### December 2, 2018 
 - [bitnami-labs/kubewatch: Watch k8s events and trigger Handlers](https://github.com/bitnami-labs/kubewatch) 
 - [logzio/apollo: Apollo - The logz.io continuous deployment solution over kubernetes](https://github.com/logzio/apollo) 

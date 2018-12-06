@@ -84,6 +84,9 @@
 
 
 
+
+### December 6, 2018 
+- [GitHub - y0ssar1an/q: Quick and dirty debugging output for tired Go programmers](https://github.com/y0ssar1an/q) 
 ### December 5, 2018 
 - [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) 
 ### December 4, 2018 

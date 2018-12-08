@@ -90,6 +90,7 @@
 - [(77) AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362) - YouTube](https://www.youtube.com/watch?feature=youtu.be&v=HCCkVz25UU4&app=desktop) 
 - [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure - YouTube](https://www.youtube.com/watch?v=wASCH_gPnDw&feature=youtu.be) 
 - [Clojure Made Simple - YouTube](https://www.youtube.com/watch?v=VSdnJDO-xdg&feature=youtu.be) 
+- [Spec-ulation Keynote - Rich Hickey - YouTube](https://www.youtube.com/watch?v=oyLBGkS5ICk&feature=youtu.be) 
 ### December 6, 2018 
 - [GitHub - y0ssar1an/q: Quick and dirty debugging output for tired Go programmers](https://github.com/y0ssar1an/q) 
 - [GitHub - loadimpact/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6) 

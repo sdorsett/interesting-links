@@ -92,6 +92,7 @@
 - [Clojure Made Simple - YouTube](https://www.youtube.com/watch?v=VSdnJDO-xdg&feature=youtu.be) 
 - [Spec-ulation Keynote - Rich Hickey - YouTube](https://www.youtube.com/watch?v=oyLBGkS5ICk&feature=youtu.be) 
 - [clojure.spec - David Nolen - YouTube](https://www.youtube.com/watch?v=Rlu-X5AqWXw&feature=youtu.be) 
+- [Yelp/dumb-init: A minimal init system for Linux containers](https://github.com/Yelp/dumb-init) 
 ### December 6, 2018 
 - [GitHub - y0ssar1an/q: Quick and dirty debugging output for tired Go programmers](https://github.com/y0ssar1an/q) 
 - [GitHub - loadimpact/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6) 

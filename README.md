@@ -86,6 +86,9 @@
 
 
 
+
+### December 9, 2018 
+- [Secure Nginx with Let's Encrypt on CentOS 7 | Linuxize](https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-centos-7/) 
 ### December 8, 2018 
 - [(77) AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362) - YouTube](https://www.youtube.com/watch?feature=youtu.be&v=HCCkVz25UU4&app=desktop) 
 - [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure - YouTube](https://www.youtube.com/watch?v=wASCH_gPnDw&feature=youtu.be) 

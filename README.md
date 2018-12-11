@@ -92,6 +92,7 @@
 - [GitHub - nathanaelkane/vim-indent-guides: A Vim plugin for visually displaying indent levels in code](https://github.com/nathanaelkane/vim-indent-guides) 
 - [GitHub - josegonzalez/awesome-consul: A list of awesome consul projects, libraries](https://github.com/josegonzalez/awesome-consul) 
 - [GitHub - gites/awesome-vault-tools: Awesome tools around HashiCorp Vault](https://github.com/gites/awesome-vault-tools) 
+- [crossplaneio/crossplane: An Open Source Multicloud Control Plane](https://github.com/crossplaneio/crossplane) 
 ### December 9, 2018 
 - [Secure Nginx with Let's Encrypt on CentOS 7 | Linuxize](https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-centos-7/) 
 - [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/index.html) 

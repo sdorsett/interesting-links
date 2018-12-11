@@ -90,6 +90,7 @@
 
 ### December 11, 2018 
 - [GitHub - nathanaelkane/vim-indent-guides: A Vim plugin for visually displaying indent levels in code](https://github.com/nathanaelkane/vim-indent-guides) 
+- [GitHub - josegonzalez/awesome-consul: A list of awesome consul projects, libraries](https://github.com/josegonzalez/awesome-consul) 
 ### December 9, 2018 
 - [Secure Nginx with Let's Encrypt on CentOS 7 | Linuxize](https://linuxize.com/post/secure-nginx-with-let-s-encrypt-on-centos-7/) 
 - [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/index.html) 

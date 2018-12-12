@@ -88,6 +88,9 @@
 
 
 
+
+### December 12, 2018 
+- [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/) 
 ### December 11, 2018 
 - [GitHub - nathanaelkane/vim-indent-guides: A Vim plugin for visually displaying indent levels in code](https://github.com/nathanaelkane/vim-indent-guides) 
 - [GitHub - josegonzalez/awesome-consul: A list of awesome consul projects, libraries](https://github.com/josegonzalez/awesome-consul) 

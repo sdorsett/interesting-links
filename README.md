@@ -89,6 +89,9 @@
 
 
 
+
+### December 13, 2018 
+- [GitHub - boxcutter/windows: Virtual machine templates for Windows](https://github.com/boxcutter/windows) 
 ### December 12, 2018 
 - [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/) 
 - [GitHub - GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko) 

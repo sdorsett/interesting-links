@@ -93,6 +93,7 @@
 
 ### December 14, 2018 
 - [Traefik - The Cloud Native Edge Router](https://traefik.io/) 
+- [Building a Service Mesh with HAProxy and Consul - HAProxy Technologies](https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/) 
 ### December 13, 2018 
 - [GitHub - boxcutter/windows: Virtual machine templates for Windows](https://github.com/boxcutter/windows) 
 - [Scaling SSL certificates with Kubernetes and Let’s Encrypt](https://medium.com/kaleidoscope/scaling-ssl-certificates-with-kubernetes-and-lets-encrypt-6a683b87cd32) 

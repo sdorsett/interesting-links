@@ -91,6 +91,9 @@
 
 
 
+
+### December 15, 2018 
+- [Kubernetes & Traefik 101— When Simplicity Matters – Gérald Croës – Medium](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8) 
 ### December 14, 2018 
 - [Traefik - The Cloud Native Edge Router](https://traefik.io/) 
 - [Building a Service Mesh with HAProxy and Consul - HAProxy Technologies](https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/) 

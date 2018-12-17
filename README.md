@@ -92,6 +92,9 @@
 
 
 
+
+### December 17, 2018 
+- [Rock Stars, Builders, and Janitors: You're doing it wrong - YouTube](https://www.youtube.com/watch?v=posb7CzWSFc) 
 ### December 15, 2018 
 - [Kubernetes & Traefik 101— When Simplicity Matters – Gérald Croës – Medium](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8) 
 - [Kubernetes - Traefik](https://docs.traefik.io/user-guide/kubernetes/) 

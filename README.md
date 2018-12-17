@@ -98,6 +98,7 @@
 - [Up and Running with templates in Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/jmarhee/up-and-running-with-templates-in-terraform-5g28) 
 - [GitHub - bookingcom/shipper: Kubernetes native multi-cluster canary or blue-green rollouts using Helm](https://github.com/bookingcom/shipper) 
 - [User Guide: Installation - Lita.io](https://docs.lita.io/getting-started/installation/) 
+- [virtlet/README.md at master · Mirantis/virtlet · GitHub](https://github.com/Mirantis/virtlet/blob/master/README.md) 
 ### December 15, 2018 
 - [Kubernetes & Traefik 101— When Simplicity Matters – Gérald Croës – Medium](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8) 
 - [Kubernetes - Traefik](https://docs.traefik.io/user-guide/kubernetes/) 

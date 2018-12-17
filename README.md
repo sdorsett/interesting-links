@@ -101,6 +101,7 @@
 - [virtlet/README.md at master · Mirantis/virtlet · GitHub](https://github.com/Mirantis/virtlet/blob/master/README.md) 
 - [Seattle '18: KubeCon + CloudNativeCon - YouTube](https://www.youtube.com/playlist?list=PLj6h78yzYM2PZf9eA7bhWnIh_mK1vyOfU&app=desktop) 
 - [Loki: Prometheus-inspired, open source logging for cloud natives | Grafana Labs Blog](https://grafana.com/blog/2018/12/12/loki-prometheus-inspired-open-source-logging-for-cloud-natives/) 
+- [GitHub - grafana/loki: Like Prometheus, but for logs.](https://github.com/grafana/loki#loki-like-prometheus-but-for-logs) 
 ### December 15, 2018 
 - [Kubernetes & Traefik 101— When Simplicity Matters – Gérald Croës – Medium](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8) 
 - [Kubernetes - Traefik](https://docs.traefik.io/user-guide/kubernetes/) 

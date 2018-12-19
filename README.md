@@ -98,6 +98,7 @@
 - [An Intro To Prometheus - SFlanders](https://sflanders.net/2018/12/18/an-intro-to-prometheus/) 
 - [SQL is No Excuse to Avoid DevOps - ACM Queue](https://queue.acm.org/detail.cfm?ref=rss&id=3300018) 
 - [Combining PowerShell, Bolt and Puppet Tasks - Part 2 | Puppet](https://puppet.com/blog/combining-powershell-bolt-and-puppet-tasks-part-2) 
+- [Cortex: a multi-tenant, horizontally scalable Prometheus-as-a-Service - Cloud Native Computing Foundation](https://www.cncf.io/blog/2018/12/18/cortex-a-multi-tenant-horizontally-scalable-prometheus-as-a-service/) 
 ### December 17, 2018 
 - [Rock Stars, Builders, and Janitors: You're doing it wrong - YouTube](https://www.youtube.com/watch?v=posb7CzWSFc) 
 - [Up and Running with templates in Terraform - DEV Community 👩‍💻👨‍💻](https://dev.to/jmarhee/up-and-running-with-templates-in-terraform-5g28) 

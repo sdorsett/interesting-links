@@ -94,6 +94,9 @@
 
 
 
+
+### December 20, 2018 
+- [GitHub - bloomberg/goldpinger: Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.](https://github.com/bloomberg/goldpinger) 
 ### December 18, 2018 
 - [An Intro To Prometheus - SFlanders](https://sflanders.net/2018/12/18/an-intro-to-prometheus/) 
 - [SQL is No Excuse to Avoid DevOps - ACM Queue](https://queue.acm.org/detail.cfm?ref=rss&id=3300018) 

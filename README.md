@@ -100,6 +100,7 @@
 - [GitHub - cheynewallace/tabby: A tiny library for super simple Golang tables](https://github.com/cheynewallace/tabby) 
 - [GitHub - goharbor/harbor-helm: The helm chart to deploy Harbor](https://github.com/goharbor/harbor-helm) 
 - [Command-line-text-processing/ruby_one_liners.md at master · learnbyexample/Command-line-text-processing · GitHub](https://github.com/learnbyexample/Command-line-text-processing/blob/master/ruby_one_liners.md) 
+- [Host on GitHub | Hugo](https://gohugo.io/hosting-and-deployment/hosting-on-github/) 
 ### December 18, 2018 
 - [An Intro To Prometheus - SFlanders](https://sflanders.net/2018/12/18/an-intro-to-prometheus/) 
 - [SQL is No Excuse to Avoid DevOps - ACM Queue](https://queue.acm.org/detail.cfm?ref=rss&id=3300018) 

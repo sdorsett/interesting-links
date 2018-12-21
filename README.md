@@ -99,6 +99,7 @@
 ### December 21, 2018 
 - [Inspec-VMware with JJ Asghar (@jjasghar) - YouTube](https://www.youtube.com/watch?v=RwAFGK9mju4&feature=youtu.be) 
 - [GitHub - jjasghar/inspec-vmware-example: An example InSpec profile to run a control to validate TSM-SSH against ESXi](https://github.com/jjasghar/inspec-vmware-example) 
+- [My small vim and tmux flow cheatsheet | {“title”: “Who let the dogs out”}](https://hakanu.net/vim/2018/12/20/my-small-vim-and-tmux-flow-cheatsheet/) 
 ### December 20, 2018 
 - [GitHub - bloomberg/goldpinger: Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.](https://github.com/bloomberg/goldpinger) 
 - [GitHub - cheynewallace/tabby: A tiny library for super simple Golang tables](https://github.com/cheynewallace/tabby) 

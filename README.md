@@ -96,6 +96,9 @@
 
 
 
+
+### December 22, 2018 
+- [Linux Fu: Share Terminal in Browser | Hackaday](https://hackaday.com/2018/12/21/linux-fu-share-terminal-in-browser/?utm_campaign=Golang%20Ninjas%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter) 
 ### December 21, 2018 
 - [Inspec-VMware with JJ Asghar (@jjasghar) - YouTube](https://www.youtube.com/watch?v=RwAFGK9mju4&feature=youtu.be) 
 - [GitHub - jjasghar/inspec-vmware-example: An example InSpec profile to run a control to validate TSM-SSH against ESXi](https://github.com/jjasghar/inspec-vmware-example) 

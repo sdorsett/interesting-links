@@ -103,6 +103,7 @@
 - [jdumars/agileops: The Agile Operations methodology](https://github.com/jdumars/agileops) 
 - [Build your own bare-metal ARM cluster](https://blog.alexellis.io/build-your-own-bare-metal-arm-cluster/) 
 - [Foxpass - More Features](https://www.foxpass.com/more-features) 
+- [Terraform CLI Cheat Sheet - DZone DevOps](https://dzone.com/articles/terraform-cli-cheat-sheet) 
 ### December 21, 2018 
 - [Inspec-VMware with JJ Asghar (@jjasghar) - YouTube](https://www.youtube.com/watch?v=RwAFGK9mju4&feature=youtu.be) 
 - [GitHub - jjasghar/inspec-vmware-example: An example InSpec profile to run a control to validate TSM-SSH against ESXi](https://github.com/jjasghar/inspec-vmware-example) 

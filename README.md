@@ -97,6 +97,9 @@
 
 
 
+
+### December 23, 2018 
+- [screwdriver-cd/screwdriver: An open source build platform designed for continuous delivery.](https://github.com/screwdriver-cd/screwdriver) 
 ### December 22, 2018 
 - [Linux Fu: Share Terminal in Browser | Hackaday](https://hackaday.com/2018/12/21/linux-fu-share-terminal-in-browser/?utm_campaign=Golang%20Ninjas%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter) 
 - [kryo.se: iodine (IP-over-DNS, IPv4 over DNS tunnel)](https://code.kryo.se/iodine/) 

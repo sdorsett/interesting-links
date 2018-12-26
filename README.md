@@ -98,6 +98,9 @@
 
 
 
+
+### December 26, 2018 
+- [How Pinterest runs Kafka at scale – Pinterest Engineering – Medium](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) 
 ### December 23, 2018 
 - [screwdriver-cd/screwdriver: An open source build platform designed for continuous delivery.](https://github.com/screwdriver-cd/screwdriver) 
 - [Run production-grade databases easily on Kubernetes](https://kubedb.com/) 

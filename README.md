@@ -99,6 +99,9 @@
 
 
 
+
+### December 27, 2018 
+- [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/) 
 ### December 26, 2018 
 - [How Pinterest runs Kafka at scale – Pinterest Engineering – Medium](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) 
 - [15 Useful Helm Charts Tools | Caylent](https://caylent.com/15-useful-helm-charts-tools/) 

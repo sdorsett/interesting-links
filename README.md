@@ -102,6 +102,7 @@
 ### December 26, 2018 
 - [How Pinterest runs Kafka at scale – Pinterest Engineering – Medium](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be) 
 - [15 Useful Helm Charts Tools | Caylent](https://caylent.com/15-useful-helm-charts-tools/) 
+- [Maximize your Ansible skills with these 7 how-tos | Opensource.com](https://opensource.com/article/18/12/best-ansible-articles) 
 ### December 23, 2018 
 - [screwdriver-cd/screwdriver: An open source build platform designed for continuous delivery.](https://github.com/screwdriver-cd/screwdriver) 
 - [Run production-grade databases easily on Kubernetes](https://kubedb.com/) 

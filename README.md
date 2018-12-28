@@ -103,6 +103,7 @@
 
 ### December 28, 2018 
 - [22 SSH Examples, Practical Tips & Tunnels | HackerTarget.com](https://hackertarget.com/ssh-examples-tunnels) 
+- [GitHub - cloudyuga/kubecon18-NA](https://github.com/cloudyuga/kubecon18-NA) 
 ### December 27, 2018 
 - [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/) 
 ### December 26, 2018 

@@ -104,6 +104,7 @@
 ### December 28, 2018 
 - [22 SSH Examples, Practical Tips & Tunnels | HackerTarget.com](https://hackertarget.com/ssh-examples-tunnels) 
 - [GitHub - cloudyuga/kubecon18-NA](https://github.com/cloudyuga/kubecon18-NA) 
+- [Understanding How Envoy Sidecar Intercept and Route Traffic in Istio Service Mesh - 宋净超的博客|Cloud Native|云原生布道师](https://jimmysong.io/posts/understanding-how-envoy-sidecar-intercept-and-route-traffic-in-istio-service-mesh/) 
 ### December 27, 2018 
 - [Cipherli.st - Strong Ciphers for Apache, nginx and Lighttpd](https://cipherli.st/) 
 ### December 26, 2018 

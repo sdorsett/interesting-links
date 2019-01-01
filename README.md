@@ -105,6 +105,7 @@
 
 ### December 31, 2018 
 - [vCenter Simulator Docker Container](http://www.brianbunke.com/blog/2018/12/31/vcenter-simulator-ci/) 
+- [Effective Mental Models for Code and Systems – Cindy Sridharan – Medium](https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e) 
 ### December 30, 2018 
 - [https://www.batfish.org](https://www.batfish.org/) 
 ### December 28, 2018 

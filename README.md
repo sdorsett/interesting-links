@@ -108,6 +108,7 @@
 - [Effective Mental Models for Code and Systems – Cindy Sridharan – Medium](https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e) 
 - [On Thinking About Infrastructure as Code - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2018/12/31/on-thinking-about-infrastructure-as-code/) 
 - [neglectos/ConPan: ConPan: Analyze your Docker container in peace](https://github.com/neglectos/ConPan) 
+- [rpatrick00/terraform-provider-environment: Terraform utility provider for reading local environment variables](https://github.com/rpatrick00/terraform-provider-environment) 
 ### December 30, 2018 
 - [https://www.batfish.org](https://www.batfish.org/) 
 ### December 28, 2018 

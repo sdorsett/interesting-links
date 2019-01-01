@@ -111,6 +111,7 @@
 - [rpatrick00/terraform-provider-environment: Terraform utility provider for reading local environment variables](https://github.com/rpatrick00/terraform-provider-environment) 
 - [rothgar/ansible-workstation: ansible playbook for setting up a Fedora desktop or laptop](https://github.com/rothgar/ansible-workstation) 
 - [media.ccc.de - The Ghost in the Machine](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine#t=637) 
+- [The Kubernetes Scheduler – Dominik Tornow – Medium](https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f) 
 ### December 30, 2018 
 - [https://www.batfish.org](https://www.batfish.org/) 
 ### December 28, 2018 

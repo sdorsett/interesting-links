@@ -102,6 +102,9 @@
 
 
 
+
+### December 31, 2018 
+- [vCenter Simulator Docker Container](http://www.brianbunke.com/blog/2018/12/31/vcenter-simulator-ci/) 
 ### December 30, 2018 
 - [https://www.batfish.org](https://www.batfish.org/) 
 ### December 28, 2018 

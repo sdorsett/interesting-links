@@ -109,6 +109,7 @@
 - [The Firecracker virtual machine monitor [LWN.net]](https://lwn.net/SubscriberLink/775736/d9d6c371b9dbfc5f/) 
 - [lorin/resilience-engineering: Resilience Engineering Notes](https://github.com/lorin/resilience-engineering) 
 - [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair) 
+- [Text Classification with State of the Art NLP Library  —  Flair](https://towardsdatascience.com/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f) 
 ### January 1, 2019 
 - [Infrastructure as code — the good, the bad and the ugly](https://blog.gds-gov.tech/infrastructure-as-code-the-good-the-bad-and-the-ugly-b97e0bc3d37c) 
 - [Kubernetes In a Nutshell | Enqueue Zero](https://enqueuezero.com/kubernetes-in-a-nutshell.html) 

@@ -105,6 +105,9 @@
 
 
 
+
+### January 4, 2019 
+- [Hugo Shortcode for Embedded Gists · Cronally Blog: Updates, news, and tech](http://blog.cronally.com/embed-gists-with-hugo/) 
 ### January 3, 2019 
 - [The Firecracker virtual machine monitor [LWN.net]](https://lwn.net/SubscriberLink/775736/d9d6c371b9dbfc5f/) 
 - [lorin/resilience-engineering: Resilience Engineering Notes](https://github.com/lorin/resilience-engineering) 

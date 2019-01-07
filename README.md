@@ -107,6 +107,9 @@
 
 
 
+
+### January 7, 2019 
+- [GitHub - segmentio/terraform-docs: Generate documentation from Terraform modules in various output formats](https://github.com/segmentio/terraform-docs) 
 ### January 5, 2019 
 - [Hashicorp at Home - Mockingbird Consulting](https://www.mockingbirdconsulting.co.uk/blog/2019-01-05-hashicorp-at-home/) 
 - [skydive-project/skydive: An open source real-time network topology and protocols analyzer](https://github.com/skydive-project/skydive) 

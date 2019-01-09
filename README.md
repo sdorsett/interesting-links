@@ -108,6 +108,9 @@
 
 
 
+
+### January 8, 2019 
+- [Hashicorp at Home - Part 2 - Mockingbird Consulting](https://www.mockingbirdconsulting.co.uk/blog/2019-01-08-hashicorp-at-home-part-2/?utm_source=reddit&utm_medium=social_share&utm_campaign=hashicorp) 
 ### January 7, 2019 
 - [GitHub - segmentio/terraform-docs: Generate documentation from Terraform modules in various output formats](https://github.com/segmentio/terraform-docs) 
 ### January 5, 2019 

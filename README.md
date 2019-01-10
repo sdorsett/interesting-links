@@ -115,6 +115,7 @@
 - [GitHub - windmilleng/tilt: Local Kubernetes development with no stress](https://github.com/windmilleng/tilt) 
 - [GitHub - gruntwork-io/terratest: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.](https://github.com/gruntwork-io/terratest) 
 - [GitHub - gruntwork-io/bash-commons: A collection of reusable Bash functions for handling common tasks such as logging, assertions, string manipulation, and more](https://github.com/gruntwork-io/bash-commons) 
+- [GitHub - GitSquared/edex-ui: A science fiction terminal emulator designed for large touchscreens that runs on all major OSs.](https://github.com/GitSquared/edex-ui) 
 ### January 9, 2019 
 - [Virtlet: run VMs as Kubernetes pods | Mirantis](https://www.mirantis.com/blog/virtlet-run-vms-as-kubernetes-pods/) 
 ### January 8, 2019 

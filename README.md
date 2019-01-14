@@ -111,6 +111,9 @@
 
 
 
+
+### January 14, 2019 
+- [GitHub - puppetlabs/puppetlabs-kubernetes: This module install and configures a Kubernetes cluster](https://github.com/puppetlabs/puppetlabs-kubernetes) 
 ### January 10, 2019 
 - [GitHub - windmilleng/tilt: Local Kubernetes development with no stress](https://github.com/windmilleng/tilt) 
 - [GitHub - gruntwork-io/terratest: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.](https://github.com/gruntwork-io/terratest) 

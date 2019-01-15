@@ -115,6 +115,7 @@
 
 ### January 15, 2019 
 - [GitHub - cloudposse/tfenv: Transform environment variables for use with Terraform (e.g. `HOSTNAME` ⇨ `TF_VAR_hostname`)](https://github.com/cloudposse/tfenv) 
+- [GitHub - cloudposse/geodesic: 🚀 Geodesic is the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools. ★ this repo! https://slack.cloudposse.com/](https://github.com/cloudposse/geodesic) 
 ### January 14, 2019 
 - [GitHub - puppetlabs/puppetlabs-kubernetes: This module install and configures a Kubernetes cluster](https://github.com/puppetlabs/puppetlabs-kubernetes) 
 ### January 10, 2019 

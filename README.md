@@ -118,6 +118,7 @@
 - [GitHub - cloudposse/geodesic: 🚀 Geodesic is the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools. ★ this repo! https://slack.cloudposse.com/](https://github.com/cloudposse/geodesic) 
 - [mumoshu/variant: Task runner for the container era. Containerize bash scripting workflows with dataflows and dependency injection, JSON Schema for inputs validation](https://github.com/mumoshu/variant) 
 - [progrium/bashstyle: Let's do Bash right!](https://github.com/progrium/bashstyle) 
+- [ralish/bash-script-template: A best practices Bash script template with several useful functions](https://github.com/ralish/bash-script-template) 
 ### January 14, 2019 
 - [GitHub - puppetlabs/puppetlabs-kubernetes: This module install and configures a Kubernetes cluster](https://github.com/puppetlabs/puppetlabs-kubernetes) 
 ### January 10, 2019 

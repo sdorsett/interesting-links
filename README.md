@@ -117,6 +117,7 @@
 ### January 16, 2019 
 - [Keep your infrastructure keys safe with Vault | OCTO Talks !](https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/) 
 - [GitHub - nektos/act: Run your GitHub Actions locally](https://github.com/nektos/act) 
+- [GitHub - facebookincubator/dhcplb: dhcplb is Facebook's implementation of a load balancer for DHCP.](https://github.com/facebookincubator/dhcplb) 
 ### January 15, 2019 
 - [GitHub - cloudposse/tfenv: Transform environment variables for use with Terraform (e.g. `HOSTNAME` ⇨ `TF_VAR_hostname`)](https://github.com/cloudposse/tfenv) 
 - [GitHub - cloudposse/geodesic: 🚀 Geodesic is the fastest way to get up and running with a rock solid, production grade cloud platform built on top of strictly Open Source tools. ★ this repo! https://slack.cloudposse.com/](https://github.com/cloudposse/geodesic) 

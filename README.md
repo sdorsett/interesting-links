@@ -117,6 +117,7 @@
 
 ### January 17, 2019 
 - [GitHub - micro/micro: A microservice toolkit](https://github.com/micro/micro) 
+- [GitHub - syntaqx/serve: a static http server anywhere you need one.](https://github.com/syntaqx/serve) 
 ### January 16, 2019 
 - [Keep your infrastructure keys safe with Vault | OCTO Talks !](https://blog.octo.com/en/gardez-les-cles-de-votre-infrastructure-a-labri-avec-vault/) 
 - [GitHub - nektos/act: Run your GitHub Actions locally](https://github.com/nektos/act) 

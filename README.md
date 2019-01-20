@@ -115,6 +115,9 @@
 
 
 
+
+### January 20, 2019 
+- [A Crash Course For Running Istio – Namely Labs – Medium](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715) 
 ### January 17, 2019 
 - [GitHub - micro/micro: A microservice toolkit](https://github.com/micro/micro) 
 - [GitHub - syntaqx/serve: a static http server anywhere you need one.](https://github.com/syntaqx/serve) 

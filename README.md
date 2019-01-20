@@ -118,6 +118,7 @@
 
 ### January 20, 2019 
 - [A Crash Course For Running Istio – Namely Labs – Medium](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715) 
+- [Get started with WTF, a dashboard for the terminal | Opensource.com](https://opensource.com/article/19/1/wtf-information-dashboard?utm_source=DevOps%27ish&utm_campaign=a08ea4814f-devopsish-111&utm_medium=email&utm_term=0_eab566bc9f-a08ea4814f-45838997) 
 ### January 17, 2019 
 - [GitHub - micro/micro: A microservice toolkit](https://github.com/micro/micro) 
 - [GitHub - syntaqx/serve: a static http server anywhere you need one.](https://github.com/syntaqx/serve) 

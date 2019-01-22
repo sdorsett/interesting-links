@@ -116,6 +116,9 @@
 
 
 
+
+### January 21, 2019 
+- [Breaking the Terraform Monolith - Silos of Infrastructure · Avi Zurel - @KensoDev](https://www.kensodev.com/posts/2019/01/15/breaking-the-terraform-monolity---infrastructure-as-microservices/) 
 ### January 20, 2019 
 - [A Crash Course For Running Istio – Namely Labs – Medium](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715) 
 - [Get started with WTF, a dashboard for the terminal | Opensource.com](https://opensource.com/article/19/1/wtf-information-dashboard?utm_source=DevOps%27ish&utm_campaign=a08ea4814f-devopsish-111&utm_medium=email&utm_term=0_eab566bc9f-a08ea4814f-45838997) 

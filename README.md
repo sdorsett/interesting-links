@@ -117,6 +117,9 @@
 
 
 
+
+### January 24, 2019 
+- [GitHub - go-task/task: A task runner / simpler Make alternative written in Go](https://github.com/go-task/task) 
 ### January 21, 2019 
 - [Breaking the Terraform Monolith - Silos of Infrastructure · Avi Zurel - @KensoDev](https://www.kensodev.com/posts/2019/01/15/breaking-the-terraform-monolity---infrastructure-as-microservices/) 
 ### January 20, 2019 

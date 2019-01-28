@@ -121,6 +121,7 @@
 
 ### January 27, 2019 
 - [7.5 tips to help you ace the Certified Kubernetes Administrator (CKA) exam - kubedex.com](https://kubedex.com/7-5-tips-to-help-you-ace-the-certified-kubernetes-administrator-cka-exam/?utm_source=DevOps%27ish&utm_campaign=9305de4d25-devopsish-112&utm_medium=email&utm_term=0_eab566bc9f-9305de4d25-45838997) 
+- [The Ultimate Guide to Passing the CKA Exam – Contino – Medium](https://medium.com/@ContinoHQ/the-ultimate-guide-to-passing-the-cka-exam-1ee8c0fd44cd) 
 ### January 24, 2019 
 - [GitHub - go-task/task: A task runner / simpler Make alternative written in Go](https://github.com/go-task/task) 
 ### January 21, 2019 

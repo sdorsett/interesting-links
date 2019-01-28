@@ -124,6 +124,7 @@
 - [cncf-ci-dashboard](https://cncf.ci/) 
 - [Automating Kubernetes Deployments - YouTube](https://www.youtube.com/watch?v=wEDRfAz6_Uw&feature=youtu.be) 
 - [Kubinception: using Kubernetes to run Kubernetes - OVH Blog](https://www.ovh.com/fr/blog/kubinception-using-kubernetes-to-run-kubernetes) 
+- [Setting up K8s and the vSphere Cloud Provider using kubeadm - Blah, Cloud.](https://blah.cloud/kubernetes/setting-up-k8s-and-the-vsphere-cloud-provider-using-kubeadm/) 
 ### January 27, 2019 
 - [7.5 tips to help you ace the Certified Kubernetes Administrator (CKA) exam - kubedex.com](https://kubedex.com/7-5-tips-to-help-you-ace-the-certified-kubernetes-administrator-cka-exam/?utm_source=DevOps%27ish&utm_campaign=9305de4d25-devopsish-112&utm_medium=email&utm_term=0_eab566bc9f-9305de4d25-45838997) 
 - [The Ultimate Guide to Passing the CKA Exam – Contino – Medium](https://medium.com/@ContinoHQ/the-ultimate-guide-to-passing-the-cka-exam-1ee8c0fd44cd) 

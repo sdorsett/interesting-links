@@ -120,6 +120,9 @@
 
 
 
+
+### January 30, 2019 
+- [etcd playground](http://play.etcd.io/play) 
 ### January 28, 2019 
 - [cncf-ci-dashboard](https://cncf.ci/) 
 - [Automating Kubernetes Deployments - YouTube](https://www.youtube.com/watch?v=wEDRfAz6_Uw&feature=youtu.be) 

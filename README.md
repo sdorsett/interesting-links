@@ -121,6 +121,9 @@
 
 
 
+
+### February 1, 2019 
+- [DSCR and Pester testing - LucD notes](http://www.lucd.info/2019/02/01/dscr-and-pester-testing/) 
 ### January 30, 2019 
 - [etcd playground](http://play.etcd.io/play) 
 ### January 28, 2019 

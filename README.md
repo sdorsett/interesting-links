@@ -122,6 +122,9 @@
 
 
 
+
+### February 8, 2019 
+- [virtio-fs - shared file system for virtual machines](https://virtio-fs.gitlab.io/) 
 ### February 1, 2019 
 - [DSCR and Pester testing - LucD notes](http://www.lucd.info/2019/02/01/dscr-and-pester-testing/) 
 ### January 30, 2019 

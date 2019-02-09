@@ -128,6 +128,7 @@
 - [GitHub - heptiolabs/ktx: manage kubernetes cluster configs](https://github.com/heptiolabs/ktx) 
 - [pomerium/README.md at master · pomerium/pomerium](https://github.com/pomerium/pomerium/blob/master/README.md) 
 - [Kubinception and etcd - OVH Blog](https://www.ovh.com/fr/blog/kubinception-and-etcd) 
+- [A guide to automating HashiCorp Vault #1: Auto-unsealing](https://blog.gruntwork.io/a-guide-to-automating-hashicorp-vault-1-auto-unsealing-b219970f02c6) 
 ### February 1, 2019 
 - [DSCR and Pester testing - LucD notes](http://www.lucd.info/2019/02/01/dscr-and-pester-testing/) 
 ### January 30, 2019 

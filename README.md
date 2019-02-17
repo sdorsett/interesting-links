@@ -127,6 +127,7 @@
 
 ### February 17, 2019 
 - [Setting up a Kubernetes cluster with Kubespray – Leonardo Souza Mario Bueno – Medium](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73) 
+- [shawnxlw/infra-dev-env: A docker image that contains the necessary tools for doing Infrastructure Development.](https://github.com/shawnxlw/infra-dev-env?utm_source=DevOps%27ish&utm_campaign=31519eb758-DEVOPSISH_115&utm_medium=email&utm_term=0_eab566bc9f-31519eb758-45838997) 
 ### February 14, 2019 
 - [OVH - TAT](https://ovh.github.io/tat/overview/) 
 ### February 8, 2019 

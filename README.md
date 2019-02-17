@@ -124,6 +124,9 @@
 
 
 
+
+### February 17, 2019 
+- [Setting up a Kubernetes cluster with Kubespray – Leonardo Souza Mario Bueno – Medium](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73) 
 ### February 14, 2019 
 - [OVH - TAT](https://ovh.github.io/tat/overview/) 
 ### February 8, 2019 

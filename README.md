@@ -140,6 +140,7 @@
 - [Running Static Pods in Kubernetes – DevOpsLinks Community Publication – Medium](https://medium.com/devopslinks/running-static-pods-in-kubernetes-f6d1587c31f1) 
 - [20 VS Code Extensions You'll Actually Use - DEV Community 👩‍💻👨‍💻](https://dev.to/vip3rousmango/vs-code-extensions-youll-actually-use-46gp?utm_source=DevOps%27ish&utm_campaign=31519eb758-DEVOPSISH_115&utm_medium=email&utm_term=0_eab566bc9f-31519eb758-45838997) 
 - [Automation - Just do it! – Ben Dowen – Quality Manager at Intercept IP Services (Control F1).](https://www.dowen.me.uk/Automation-Just-do-it!/?utm_source=DevOps%27ish&utm_campaign=31519eb758-DEVOPSISH_115&utm_medium=email&utm_term=0_eab566bc9f-31519eb758-45838997) 
+- [ibuildthecloud/k3s: 5 less then k8s. Lightweight Kubernetes.](https://github.com/ibuildthecloud/k3s) 
 ### February 17, 2019 
 - [Setting up a Kubernetes cluster with Kubespray – Leonardo Souza Mario Bueno – Medium](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73) 
 - [shawnxlw/infra-dev-env: A docker image that contains the necessary tools for doing Infrastructure Development.](https://github.com/shawnxlw/infra-dev-env?utm_source=DevOps%27ish&utm_campaign=31519eb758-DEVOPSISH_115&utm_medium=email&utm_term=0_eab566bc9f-31519eb758-45838997) 

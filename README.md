@@ -135,6 +135,7 @@
 - [Deep Learning explained to my 8-year-old daughter - OVH Blog](https://www.ovh.com/fr/blog/deep-learning-explained-to-my-8-year-old-daughter) 
 - [Pimp my Kubernetes Shell – ITNEXT](https://itnext.io/pimp-my-kubernetes-shell-f144710232a0) 
 - [Mastering the KUBECONFIG file – Ahmet Alp Balkan – Medium](https://medium.com/@ahmetb/mastering-kubeconfig-4e447aa32c75) 
+- [sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat) 
 ### February 17, 2019 
 - [Setting up a Kubernetes cluster with Kubespray – Leonardo Souza Mario Bueno – Medium](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73) 
 - [shawnxlw/infra-dev-env: A docker image that contains the necessary tools for doing Infrastructure Development.](https://github.com/shawnxlw/infra-dev-env?utm_source=DevOps%27ish&utm_campaign=31519eb758-DEVOPSISH_115&utm_medium=email&utm_term=0_eab566bc9f-31519eb758-45838997) 

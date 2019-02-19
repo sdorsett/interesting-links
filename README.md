@@ -128,6 +128,7 @@
 
 ### February 18, 2019 
 - [Blog.CentOS.org - News, views and reports on CentOS](https://blog.centos.org/) 
+- [A Mature Role for Automation: Part I – Kitchen Soap](https://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/amp/?__twitter_impression=true) 
 ### February 17, 2019 
 - [Setting up a Kubernetes cluster with Kubespray – Leonardo Souza Mario Bueno – Medium](https://medium.com/@leonardo.bueno/setting-up-a-kubernetes-cluster-with-kubespray-1bf4ce8ccd73) 
 - [shawnxlw/infra-dev-env: A docker image that contains the necessary tools for doing Infrastructure Development.](https://github.com/shawnxlw/infra-dev-env?utm_source=DevOps%27ish&utm_campaign=31519eb758-DEVOPSISH_115&utm_medium=email&utm_term=0_eab566bc9f-31519eb758-45838997) 

@@ -126,6 +126,9 @@
 
 
 
+
+### February 20, 2019 
+- [Fluentd | Open Source Data Collector | Unified Logging Layer](https://www.fluentd.org/) 
 ### February 18, 2019 
 - [Blog.CentOS.org - News, views and reports on CentOS](https://blog.centos.org/) 
 - [A Mature Role for Automation: Part I – Kitchen Soap](https://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/amp/?__twitter_impression=true) 

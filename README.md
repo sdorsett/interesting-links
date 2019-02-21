@@ -127,6 +127,9 @@
 
 
 
+
+### February 21, 2019 
+- [LEGO® Education WeDo 2.0 Core Set](https://education.lego.com/en-us/products/lego-education-wedo-2-0-core-set/45300?gclid=Cj0KCQiAtbnjBRDBARIsAO3zDl9mFjW4f6Xy9c5KHojlbBkjbY9lggW7bPdtX9MX0PzOvP_NfcKUuW0aAsGvEALw_wcB&cmp=Shop-US-LEWeDo-KAC-Jan-18-WeDo-CPCS-Google-BrandGeneral-ED-LEGO-&s_kwcid=AL!790!3!280244796711!e!!g!!lego%20wedo%202.0&ef_id=Cj0KCQiAtbnjBRDBARIsAO3zDl9mFjW4f6Xy9c5KHojlbBkjbY9lggW7bPdtX9MX0PzOvP_NfcKUuW0aAsGvEALw_wcB:G:s&s_kwcid=AL!790!3!280244796711!e!!g!!lego%20wedo%202.0) 
 ### February 20, 2019 
 - [Fluentd | Open Source Data Collector | Unified Logging Layer](https://www.fluentd.org/) 
 ### February 18, 2019 

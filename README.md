@@ -128,6 +128,9 @@
 
 
 
+
+### February 22, 2019 
+- [Exploring Postgres with Bruce Momjian Webinar](http://content.edbpostgres.com/c/exploring-postgres-w?x=dkII5X&mkt_tok=eyJpIjoiWWpBNVlUZzBORGd6T0dGbSIsInQiOiJUV1FESWh1Ymw5SnRvcFVLam5iSTQwSjVJUHlqWW8rY3FMa2VpWG9hc3d5NlZwWThWZWQ2WEt3dWNqeUJLdXkwK2ZBWUFhMmdUTDhqejFoRGNhajg5WU9sdFFDQlpaYWE2dGpLTUNnV1RwaHh5bXg3TkZSMzR0dVJLbGVRa2I1SSJ9) 
 ### February 21, 2019 
 - [LEGO® Education WeDo 2.0 Core Set](https://education.lego.com/en-us/products/lego-education-wedo-2-0-core-set/45300?gclid=Cj0KCQiAtbnjBRDBARIsAO3zDl9mFjW4f6Xy9c5KHojlbBkjbY9lggW7bPdtX9MX0PzOvP_NfcKUuW0aAsGvEALw_wcB&cmp=Shop-US-LEWeDo-KAC-Jan-18-WeDo-CPCS-Google-BrandGeneral-ED-LEGO-&s_kwcid=AL!790!3!280244796711!e!!g!!lego%20wedo%202.0&ef_id=Cj0KCQiAtbnjBRDBARIsAO3zDl9mFjW4f6Xy9c5KHojlbBkjbY9lggW7bPdtX9MX0PzOvP_NfcKUuW0aAsGvEALw_wcB:G:s&s_kwcid=AL!790!3!280244796711!e!!g!!lego%20wedo%202.0) 
 ### February 20, 2019 

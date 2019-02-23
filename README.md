@@ -129,6 +129,9 @@
 
 
 
+
+### February 23, 2019 
+- [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) 
 ### February 22, 2019 
 - [Exploring Postgres with Bruce Momjian Webinar](http://content.edbpostgres.com/c/exploring-postgres-w?x=dkII5X&mkt_tok=eyJpIjoiWWpBNVlUZzBORGd6T0dGbSIsInQiOiJUV1FESWh1Ymw5SnRvcFVLam5iSTQwSjVJUHlqWW8rY3FMa2VpWG9hc3d5NlZwWThWZWQ2WEt3dWNqeUJLdXkwK2ZBWUFhMmdUTDhqejFoRGNhajg5WU9sdFFDQlpaYWE2dGpLTUNnV1RwaHh5bXg3TkZSMzR0dVJLbGVRa2I1SSJ9) 
 ### February 21, 2019 

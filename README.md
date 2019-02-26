@@ -140,6 +140,7 @@
 - [Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/) 
 - [Buildah: Build containers fast and easy without Docker - JAXenter](https://jaxenter.com/build-containers-quickly-buildah-155839.html) 
 - [Building your own Virtual Appliances using OVF properties Part 2](https://www.virtuallyghetto.com/2019/02/building-your-own-virtual-appliances-using-ovf-properties-part-2.html) 
+- [the-book-of-secret-knowledge/README.md at master · trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md) 
 ### February 23, 2019 
 - [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) 
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/) 

@@ -144,6 +144,7 @@
 - [dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.](https://github.com/dylanaraps/pure-bash-bible) 
 - [FreeIPA — Linux Guide and Hints](https://linuxguideandhints.com/centos/freeipa.html) 
 - [Build Your Own EC2 Machine Images with Packer & Ansible on AWS for Immutable AWS Deployments](https://medium.com/devopslinks/build-your-own-ec2-machine-images-with-packer-ansible-on-aws-for-immutable-aws-deployments-f7dbe81934a1) 
+- [GitHub - inspec/inspec-vmware: InSpec VMware Resource Pack (Incubation)](https://github.com/inspec/inspec-vmware) 
 ### February 23, 2019 
 - [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) 
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/) 

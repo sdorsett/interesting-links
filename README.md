@@ -136,6 +136,7 @@
 - [sk8s – Simple Kubernetes (k8s) Virtual Appliance](https://www.virtuallyghetto.com/2019/02/sk8s-simple-kubernetes-k8s-virtual-appliance.html) 
 - [Building Python Serverless Slack Apps on OpenFaas - Ruan Bekker's Blog](https://blog.ruanbekker.com/blog/2019/02/21/building-python-serverless-slack-apps-on-openfaas/) 
 - [footloose/README.md at master · dlespiau/footloose](https://github.com/dlespiau/footloose/blob/master/README.md) 
+- [How to explain Kubernetes Operators in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2019/2/kubernetes-operators-plain-english) 
 ### February 23, 2019 
 - [imthenachoman/How-To-Secure-A-Linux-Server: An evolving how-to guide for securing a Linux server.](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) 
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/) 

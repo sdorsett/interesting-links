@@ -131,6 +131,9 @@
 
 
 
+
+### February 27, 2019 
+- [operator-framework/awesome-operators: A resource tracking a number of Operators out in the wild.](https://github.com/operator-framework/awesome-operators) 
 ### February 26, 2019 
 - [vmware/simple-k8s-test-env: For developers building and testing Kubernetes and core Kubernetes components](https://github.com/vmware/simple-k8s-test-env) 
 - [sk8s – Simple Kubernetes (k8s) Virtual Appliance](https://www.virtuallyghetto.com/2019/02/sk8s-simple-kubernetes-k8s-virtual-appliance.html) 

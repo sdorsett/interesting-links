@@ -133,6 +133,9 @@
 
 
 
+
+### March 2, 2019 
+- [Best Support Settings for 3D Printing: 9 Steps (with Pictures)](https://www.instructables.com/id/Best-Support-Settings-for-3D-Printing/) 
 ### February 28, 2019 
 - [Use Vim as a Ruby IDE | SpaceVim](https://spacevim.org/use-vim-as-a-ruby-ide/) 
 - [GitHub - alisnic/nyny: a (ridiculously) small and powerful web framework.](https://github.com/alisnic/nyny) 

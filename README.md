@@ -142,6 +142,7 @@
 - [mateothegreat (Matthew Davis) / Repositories - k8-examples](https://github.com/mateothegreat?tab=repositories&q=k8-byexamples) 
 - [heptio/sonobuoy: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.](https://github.com/heptio/sonobuoy) 
 - [k9s/README.md at master · derailed/k9s](https://github.com/derailed/k9s/blob/master/README.md) 
+- [Automated Testing for Kubernetes and Helm Charts using Terratest](https://blog.gruntwork.io/automated-testing-for-kubernetes-and-helm-charts-using-terratest-a4ddc4e67344) 
 ### March 2, 2019 
 - [Best Support Settings for 3D Printing: 9 Steps (with Pictures)](https://www.instructables.com/id/Best-Support-Settings-for-3D-Printing/) 
 ### February 28, 2019 

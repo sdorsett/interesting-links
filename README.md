@@ -140,6 +140,7 @@
 - [jonmosco/kube-ps1: Kubernetes prompt info for bash and zsh](https://github.com/jonmosco/kube-ps1) 
 - [pghoard/README.rst at master · aiven/pghoard](https://github.com/aiven/pghoard/blob/master/README.rst) 
 - [mateothegreat (Matthew Davis) / Repositories - k8-examples](https://github.com/mateothegreat?tab=repositories&q=k8-byexamples) 
+- [heptio/sonobuoy: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.](https://github.com/heptio/sonobuoy) 
 ### March 2, 2019 
 - [Best Support Settings for 3D Printing: 9 Steps (with Pictures)](https://www.instructables.com/id/Best-Support-Settings-for-3D-Printing/) 
 ### February 28, 2019 

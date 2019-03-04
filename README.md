@@ -135,6 +135,9 @@
 
 
 
+
+### March 4, 2019 
+- [Writing a Terraform provider](http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) 
 ### March 3, 2019 
 - [OperatorHub.io | The registry for Kubernetes Operators](https://www.operatorhub.io/) 
 - [jonmosco/kube-ps1: Kubernetes prompt info for bash and zsh](https://github.com/jonmosco/kube-ps1) 

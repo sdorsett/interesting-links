@@ -139,6 +139,7 @@
 
 ### March 6, 2019 
 - [How rootless Buildah works: Building containers in unprivileged environments | Opensource.com](https://opensource.com/article/19/3/tips-tricks-rootless-buildah) 
+- [TomasTomecek/ansible-bender: ansible-playbook + buildah = a sweet container image](https://github.com/TomasTomecek/ansible-bender) 
 ### March 4, 2019 
 - [Writing a Terraform provider](http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) 
 ### March 3, 2019 

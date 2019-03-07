@@ -148,6 +148,7 @@
 - [Learning to Learn | CSS-Tricks](https://css-tricks.com/learning-to-learn/) 
 - [codercom/code-server: Run VS Code on a remote server.](https://github.com/codercom/code-server) 
 - [What you need to know about Ansible modules | Opensource.com](https://opensource.com/article/19/3/developing-ansible-modules) 
+- [sharkdp/fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd) 
 ### March 6, 2019 
 - [How rootless Buildah works: Building containers in unprivileged environments | Opensource.com](https://opensource.com/article/19/3/tips-tricks-rootless-buildah) 
 - [TomasTomecek/ansible-bender: ansible-playbook + buildah = a sweet container image](https://github.com/TomasTomecek/ansible-bender) 

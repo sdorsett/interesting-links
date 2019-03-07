@@ -146,6 +146,7 @@
 - [Configuring ESXi prerequisites for Packer | blog.ukotic.net](https://blog.ukotic.net/2019/03/05/configuring-esxi-prerequisites-for-packer/) 
 - [Kubernetes: access the API inside a Pod – Antoine Martin – Medium](https://medium.com/@antoine_martin/kubernetes-access-the-api-inside-a-pod-eb49af8c8b06) 
 - [Learning to Learn | CSS-Tricks](https://css-tricks.com/learning-to-learn/) 
+- [codercom/code-server: Run VS Code on a remote server.](https://github.com/codercom/code-server) 
 ### March 6, 2019 
 - [How rootless Buildah works: Building containers in unprivileged environments | Opensource.com](https://opensource.com/article/19/3/tips-tricks-rootless-buildah) 
 - [TomasTomecek/ansible-bender: ansible-playbook + buildah = a sweet container image](https://github.com/TomasTomecek/ansible-bender) 

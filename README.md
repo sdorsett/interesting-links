@@ -140,6 +140,7 @@
 
 ### March 7, 2019 
 - [Microsoft Word - Nest Lab Tech Doc 2.6.docx](https://blogs.vmware.com/services-education-insights/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf) 
+- [Utilizing and monitoring kubernetes cluster resources more effectively using this tool](https://medium.com/@martin.schneppenheim/utilizing-and-monitoring-kubernetes-cluster-resources-more-effectively-using-this-tool-df4c68ec2053) 
 ### March 6, 2019 
 - [How rootless Buildah works: Building containers in unprivileged environments | Opensource.com](https://opensource.com/article/19/3/tips-tricks-rootless-buildah) 
 - [TomasTomecek/ansible-bender: ansible-playbook + buildah = a sweet container image](https://github.com/TomasTomecek/ansible-bender) 

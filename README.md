@@ -145,6 +145,7 @@
 - [Using Titanoboa as an alternative to Ansible](https://www.titanoboa.io/using-titanoboa-for-it-automation.html) 
 - [go-micro/README.md at master · micro/go-micro](https://github.com/micro/go-micro/blob/master/README.md) 
 - [How Accenture retrofitted for site reliability engineering | TechBeacon](https://techbeacon.com/devops/how-accenture-retrofitted-site-reliability-engineering) 
+- [autonomy/talos: A modern Linux distribution for Kubernetes.](https://github.com/autonomy/talos) 
 ### March 8, 2019 
 - [kubricksllc/Kubricks: Visualizer/troubleshooting tool for single Kubernetes clusters](https://github.com/kubricksllc/Kubricks) 
 - [eldadru/ksniff: Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff?utm_sq=g0oi8vwcy4) 

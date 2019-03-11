@@ -149,6 +149,7 @@
 - [keptn](https://keptn.sh/) 
 - [uber/kraken: P2P Docker registry capable of distributing TBs of data in seconds](https://github.com/uber/kraken) 
 - [How to measure every API call in your Go app (in fewer than 30 lines of code)](https://blog.sensu.io/how-to-measure-every-api-call-in-your-go-app?utm_source=DevOps%27ish&utm_campaign=e73653ab18-DEVOPSISH_118&utm_medium=email&utm_term=0_eab566bc9f-e73653ab18-45838997) 
+- [Julia’s cheat sheet for curl | daniel.haxx.se](https://daniel.haxx.se/blog/2019/03/05/julias-cheat-sheet-for-curl/?utm_source=DevOps%27ish&utm_campaign=e73653ab18-DEVOPSISH_118&utm_medium=email&utm_term=0_eab566bc9f-e73653ab18-45838997) 
 ### March 8, 2019 
 - [kubricksllc/Kubricks: Visualizer/troubleshooting tool for single Kubernetes clusters](https://github.com/kubricksllc/Kubricks) 
 - [eldadru/ksniff: Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff?utm_sq=g0oi8vwcy4) 

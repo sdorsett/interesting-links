@@ -142,6 +142,7 @@
 
 ### March 11, 2019 
 - [Linux Kernel Observability through eBPF - Sematext](https://sematext.com/blog/linux-kernel-observability-ebpf/) 
+- [Using Titanoboa as an alternative to Ansible](https://www.titanoboa.io/using-titanoboa-for-it-automation.html) 
 ### March 8, 2019 
 - [kubricksllc/Kubricks: Visualizer/troubleshooting tool for single Kubernetes clusters](https://github.com/kubricksllc/Kubricks) 
 - [eldadru/ksniff: Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark](https://github.com/eldadru/ksniff?utm_sq=g0oi8vwcy4) 

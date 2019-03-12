@@ -143,6 +143,7 @@
 
 ### March 12, 2019 
 - [5 Node Raspberry Pi 3 CoM Carrier Board – miniNodes ARM Servers](https://www.mininodes.com/product/5-node-raspberry-pi-3-com-carrier-board/) 
+- [Will it cluster? k3s on your Raspberry Pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/) 
 ### March 11, 2019 
 - [Linux Kernel Observability through eBPF - Sematext](https://sematext.com/blog/linux-kernel-observability-ebpf/) 
 - [Using Titanoboa as an alternative to Ansible](https://www.titanoboa.io/using-titanoboa-for-it-automation.html) 

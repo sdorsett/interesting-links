@@ -146,6 +146,7 @@
 - [Use less YAML – The Ops Side of DevOps](https://blog.chernand.io/2019/02/27/use-less-yaml/?utm_sq=g0novaf6zl) 
 - [cloudius-systems/osv: OSv, a new operating system for the cloud.](https://github.com/cloudius-systems/osv) 
 - [kubernetes/node-problem-detector: This is a place for various problem detectors running on the Kubernetes nodes.](https://github.com/kubernetes/node-problem-detector) 
+- [Tweag I/O - Configuring and testing Kubernetes clusters with KubeNix and kind](https://www.tweag.io/posts/2019-03-07-configuring-and-testing-kubernetes-clusters.html) 
 ### March 12, 2019 
 - [5 Node Raspberry Pi 3 CoM Carrier Board – miniNodes ARM Servers](https://www.mininodes.com/product/5-node-raspberry-pi-3-com-carrier-board/) 
 - [Will it cluster? k3s on your Raspberry Pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/) 

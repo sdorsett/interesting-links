@@ -141,6 +141,9 @@
 
 
 
+
+### March 13, 2019 
+- [Use less YAML – The Ops Side of DevOps](https://blog.chernand.io/2019/02/27/use-less-yaml/?utm_sq=g0novaf6zl) 
 ### March 12, 2019 
 - [5 Node Raspberry Pi 3 CoM Carrier Board – miniNodes ARM Servers](https://www.mininodes.com/product/5-node-raspberry-pi-3-com-carrier-board/) 
 - [Will it cluster? k3s on your Raspberry Pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/) 

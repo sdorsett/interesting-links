@@ -148,6 +148,7 @@
 - [kubernetes/node-problem-detector: This is a place for various problem detectors running on the Kubernetes nodes.](https://github.com/kubernetes/node-problem-detector) 
 - [Tweag I/O - Configuring and testing Kubernetes clusters with KubeNix and kind](https://www.tweag.io/posts/2019-03-07-configuring-and-testing-kubernetes-clusters.html) 
 - [kubernetes-sigs/kind: Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind) 
+- [kind](https://kind.sigs.k8s.io/) 
 ### March 12, 2019 
 - [5 Node Raspberry Pi 3 CoM Carrier Board – miniNodes ARM Servers](https://www.mininodes.com/product/5-node-raspberry-pi-3-com-carrier-board/) 
 - [Will it cluster? k3s on your Raspberry Pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/) 

@@ -150,6 +150,7 @@
 - [Blog | Kubermatic Container Engine](https://www.loodse.com/blog/2019-03-12-running-kubernetes-in-the-ci-pipeline-/) 
 - [Kubernetes Setup Using Ansible and Vagrant - Kubernetes](https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/) 
 - [Kubernetes cheatsheets in english and french – ITNEXT](https://itnext.io/kubernetes-cheatsheets-in-english-and-french-e655a8dcd452) 
+- [itwars/k3s-ansible: Ansible playbook to deploy k3s kubernetes cluster](https://github.com/itwars/k3s-ansible) 
 ### March 14, 2019 
 - [coredns/README.md at master · coredns/coredns](https://github.com/coredns/coredns/blob/master/plugin/k8s_external/README.md) 
 - [Understanding the anatomy of GPUs using Pokémon - OVH Blog](https://www.ovh.com/fr/blog/understanding-the-anatomy-of-gpus-using-pokemon) 

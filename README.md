@@ -143,6 +143,9 @@
 
 
 
+
+### March 17, 2019 
+- [Introduction to YAML: Creating a Kubernetes deployment | Mirantis](https://www.mirantis.com/blog/introduction-to-yaml-creating-a-kubernetes-deployment/) 
 ### March 14, 2019 
 - [coredns/README.md at master · coredns/coredns](https://github.com/coredns/coredns/blob/master/plugin/k8s_external/README.md) 
 - [Understanding the anatomy of GPUs using Pokémon - OVH Blog](https://www.ovh.com/fr/blog/understanding-the-anatomy-of-gpus-using-pokemon) 

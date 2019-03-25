@@ -146,6 +146,9 @@
 
 
 
+
+### March 24, 2019 
+- [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/?utm_source=DevOps%27ish&utm_campaign=21c3ee4bb9-DEVOPSISH_120&utm_medium=email&utm_term=0_eab566bc9f-21c3ee4bb9-45838997) 
 ### March 22, 2019 
 - [How to monitor your Kubernetes Cluster with OVH Observability - OVH Blog](https://www.ovh.com/fr/blog/how-to-monitor-your-kubernetes-cluster-with-ovh-metrics/) 
 ### March 18, 2019 

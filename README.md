@@ -147,6 +147,9 @@
 
 
 
+
+### March 25, 2019 
+- [gumstix pi compute fastflash](https://store.gumstix.com/raspberry-pi-cm-fast-flash.html) 
 ### March 24, 2019 
 - [Elegantly activating a virtualenv in a Dockerfile](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/?utm_source=DevOps%27ish&utm_campaign=21c3ee4bb9-DEVOPSISH_120&utm_medium=email&utm_term=0_eab566bc9f-21c3ee4bb9-45838997) 
 - [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5) 

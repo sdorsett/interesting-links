@@ -149,6 +149,9 @@
 
 
 
+
+### March 27, 2019 
+- [k3d - A fast kubernetes dev environment](https://blog.zeerorg.site/post/k3d-kubernetes-dev-env) 
 ### March 26, 2019 
 - [Learn Git Branching](https://learngitbranching.js.org/) 
 ### March 25, 2019 

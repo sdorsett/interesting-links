@@ -152,6 +152,7 @@
 
 ### March 27, 2019 
 - [k3d - A fast kubernetes dev environment](https://blog.zeerorg.site/post/k3d-kubernetes-dev-env) 
+- [The Missing Introduction To Containerization – DevOpsLinks – Medium](https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5) 
 ### March 26, 2019 
 - [Learn Git Branching](https://learngitbranching.js.org/) 
 ### March 25, 2019 

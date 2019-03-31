@@ -1,6 +1,9 @@
 # interesting-links
 
 
+
+### March 31, 2019 
+- [How to run PostgreSQL on Kubernetes | Opensource.com](https://opensource.com/article/19/3/how-run-postgresql-kubernetes) 
 ### March 30, 2019 
 - [Remove Background from Image – remove.bg](https://www.remove.bg/) 
 ### March 27, 2019 

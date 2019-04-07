@@ -6,6 +6,7 @@
 
 ### April 7, 2019 
 - [what-happens-when-k8s/README.md at master · jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md) 
+- [Helm – The Better Way to Deploy on Kubernetes - Speaker Deck](https://speakerdeck.com/unguiculus/helm-the-better-way-to-deploy-on-kubernetes) 
 ### April 1, 2019 
 - [GitHub - aquasecurity/kube-bench: The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices](https://github.com/aquasecurity/kube-bench) 
 - [GitHub - aquasecurity/kube-hunter: Hunt for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter) 

@@ -4,6 +4,9 @@
 
 
 
+
+### April 8, 2019 
+- [Deploying A Self-Hosted Portable Notification Service — steve](https://chargen.one/steve/self-hosting-portable-notifications) 
 ### April 7, 2019 
 - [what-happens-when-k8s/README.md at master · jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md) 
 - [Helm – The Better Way to Deploy on Kubernetes - Speaker Deck](https://speakerdeck.com/unguiculus/helm-the-better-way-to-deploy-on-kubernetes) 

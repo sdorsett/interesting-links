@@ -9,6 +9,7 @@
 - [Helm – The Better Way to Deploy on Kubernetes - Speaker Deck](https://speakerdeck.com/unguiculus/helm-the-better-way-to-deploy-on-kubernetes) 
 - [Bash scripting cheatsheet](https://devhints.io/bash) 
 - [Linux Observability with BPF [Book]](https://www.oreilly.com/library/view/linux-observability-with/9781492050193/?utm_source=DevOps%27ish&utm_campaign=70ecf5008b-DEVOPSISH_122&utm_medium=email&utm_term=0_eab566bc9f-70ecf5008b-45838997) 
+- [Bash Scripting Tutorial - Variables](https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php#introduction) 
 ### April 1, 2019 
 - [GitHub - aquasecurity/kube-bench: The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices](https://github.com/aquasecurity/kube-bench) 
 - [GitHub - aquasecurity/kube-hunter: Hunt for security weaknesses in Kubernetes clusters](https://github.com/aquasecurity/kube-hunter) 

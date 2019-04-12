@@ -10,6 +10,7 @@
 - [Adventures in Docker: Coding on a Remote Browser with VS Code & ngrok | Elton Stoneman](https://blog.sixeyed.com/adventures-in-docker-coding-on-a-remote-browser/) 
 - [An Intro to Threading in Python – Real Python](https://realpython.com/intro-to-python-threading/) 
 - [Docker SDK for Python — Docker SDK for Python 3.7.0 documentation](https://docker-py.readthedocs.io/en/stable/index.html) 
+- [How to use Knative on Kubernetes to deploy a Serverless Application](https://itnext.io/how-to-use-knative-on-kubernetes-to-deploy-a-serverless-application-582d62fa2a9f) 
 ### April 8, 2019 
 - [Deploying A Self-Hosted Portable Notification Service — steve](https://chargen.one/steve/self-hosting-portable-notifications) 
 - [Kubernetes | Pomerium](https://www.pomerium.io/guide/kubernetes.html) 

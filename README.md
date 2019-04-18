@@ -13,6 +13,7 @@
 - [An Overview of Go's Tooling - Alex Edwards](https://www.alexedwards.net/blog/an-overview-of-go-tooling) 
 - [Simple Serverless with Golang Functions and Microservices | OpenFaaS - Serverless Functions Made Simple](https://www.openfaas.com/blog/golang-serverless/) 
 - [GitHub - alicebob/miniredis: Pure Go Redis server for Go unittests](https://github.com/alicebob/miniredis) 
+- [Understanding pointers in Go with examples - golangbot.com](https://golangbot.com/pointers/) 
 ### April 17, 2019 
 - [GitHub - SteveLTN/https-portal: A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.](https://github.com/SteveLTN/https-portal) 
 - [VSCodium - The advanced editor](https://vscodium.com/) 

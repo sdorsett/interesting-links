@@ -18,6 +18,7 @@
 - [Logs vs Structured Events – charity.wtf](https://charity.wtf/2019/02/05/logs-vs-structured-events/) 
 - [PromQL tutorial for beginners – Aliaksandr Valialkin – Medium](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) 
 - [Structure and Layout in System Dashboard Design](http://onemogin.com/observability/dashboards/practitioners-guide-to-system-dashboard-design.html) 
+- [chaosblade-io/chaosblade: An easy to use and powerful chaos engineering experiment toolkit.（一款简单易用、功能强大的混沌实验注入工具）](https://github.com/chaosblade-io/chaosblade) 
 ### April 18, 2019 
 - [Cloud provisioning with Terraform and Bolt | Puppet](https://puppet.com/blog/cloud-provisioning-terraform-and-bolt) 
 - [An Overview of Go's Tooling - Alex Edwards](https://www.alexedwards.net/blog/an-overview-of-go-tooling) 

@@ -17,6 +17,7 @@
 - [Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2019](https://github.com/Alikhll/golang-developer-roadmap?utm_source=DevOps%27ish&utm_campaign=6ae08c3ba4-DEVOPSISH_124&utm_medium=email&utm_term=0_eab566bc9f-6ae08c3ba4-45838997) 
 - [Logs vs Structured Events – charity.wtf](https://charity.wtf/2019/02/05/logs-vs-structured-events/) 
 - [PromQL tutorial for beginners – Aliaksandr Valialkin – Medium](https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085) 
+- [Structure and Layout in System Dashboard Design](http://onemogin.com/observability/dashboards/practitioners-guide-to-system-dashboard-design.html) 
 ### April 18, 2019 
 - [Cloud provisioning with Terraform and Bolt | Puppet](https://puppet.com/blog/cloud-provisioning-terraform-and-bolt) 
 - [An Overview of Go's Tooling - Alex Edwards](https://www.alexedwards.net/blog/an-overview-of-go-tooling) 

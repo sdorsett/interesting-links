@@ -9,6 +9,9 @@
 
 
 
+
+### April 23, 2019 
+- [Nested ESXi Templates - EverythingShouldBeVirtual](https://everythingshouldbevirtual.com/virtualization/Nested-ESXi-Templates/) 
 ### April 21, 2019 
 - [Lessons from 300k+ Lines of Infrastructure Code](https://www.infoq.com/presentations/infrastructure-cookbook) 
 - [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/?utm_source=DevOps%27ish&utm_campaign=6ae08c3ba4-DEVOPSISH_124&utm_medium=email&utm_term=0_eab566bc9f-6ae08c3ba4-45838997) 

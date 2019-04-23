@@ -14,6 +14,7 @@
 - [Nested ESXi Templates - EverythingShouldBeVirtual](https://everythingshouldbevirtual.com/virtualization/Nested-ESXi-Templates/) 
 - [talos/README.md at master · talos-systems/talos · GitHub](https://github.com/talos-systems/talos/blob/master/README.md) 
 - [Using MetalLb with Kind](https://mauilion.dev/posts/kind-metallb/) 
+- [The BITSAVERS.ORG Documents Library: Computers and Automation Journal : Free Texts : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/bitsavers_computersAndAutomation?&sort=-downloads&page=2) 
 ### April 21, 2019 
 - [Lessons from 300k+ Lines of Infrastructure Code](https://www.infoq.com/presentations/infrastructure-cookbook) 
 - [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/?utm_source=DevOps%27ish&utm_campaign=6ae08c3ba4-DEVOPSISH_124&utm_medium=email&utm_term=0_eab566bc9f-6ae08c3ba4-45838997) 

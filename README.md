@@ -10,6 +10,9 @@
 
 
 
+
+### April 27, 2019 
+- [Python Project Tooling explained — chobeat](https://write.as/chobeat/python-project-tooling-explained) 
 ### April 23, 2019 
 - [Nested ESXi Templates - EverythingShouldBeVirtual](https://everythingshouldbevirtual.com/virtualization/Nested-ESXi-Templates/) 
 - [talos/README.md at master · talos-systems/talos · GitHub](https://github.com/talos-systems/talos/blob/master/README.md) 

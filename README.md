@@ -15,6 +15,7 @@
 ### April 28, 2019 
 - [Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2019](https://github.com/Alikhll/golang-developer-roadmap) 
 - [How to run systemd in a container - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container/) 
+- [Kubernetes Tutorial - Step by Step Guide to Basic Kubernetes Concepts](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/) 
 ### April 27, 2019 
 - [Python Project Tooling explained — chobeat](https://write.as/chobeat/python-project-tooling-explained) 
 ### April 23, 2019 

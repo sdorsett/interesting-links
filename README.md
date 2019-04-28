@@ -17,6 +17,7 @@
 - [How to run systemd in a container - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container/) 
 - [Kubernetes Tutorial - Step by Step Guide to Basic Kubernetes Concepts](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/) 
 - [cdr/sshcode: Run VS Code on any server over SSH.](https://github.com/cdr/sshcode) 
+- [How To Use X-Arcade Raspberry PI : Xgaming](https://support.xgaming.com/support/solutions/articles/5000554993-how-to-use-x-arcade-with-raspberry-pi) 
 ### April 27, 2019 
 - [Python Project Tooling explained — chobeat](https://write.as/chobeat/python-project-tooling-explained) 
 ### April 23, 2019 

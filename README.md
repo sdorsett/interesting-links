@@ -15,6 +15,7 @@
 
 ### May 1, 2019 
 - [uber/cadence: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.](https://github.com/uber/cadence) 
+- [ricardbejarano/haproxy: 🏎 Built-from-source container image of the HAProxy load balancer](https://github.com/ricardbejarano/haproxy) 
 ### April 28, 2019 
 - [Alikhll/golang-developer-roadmap: Roadmap to becoming a Go developer in 2019](https://github.com/Alikhll/golang-developer-roadmap) 
 - [How to run systemd in a container - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/04/24/how-to-run-systemd-in-a-container/) 

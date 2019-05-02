@@ -13,6 +13,9 @@
 
 
 
+
+### May 2, 2019 
+- [Grafana Dashboards for Kubernetes Administrators ​ - Povilas Versockas](https://povilasv.me/grafana-dashboards-for-kubernetes-administrators/) 
 ### May 1, 2019 
 - [uber/cadence: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.](https://github.com/uber/cadence) 
 - [ricardbejarano/haproxy: 🏎 Built-from-source container image of the HAProxy load balancer](https://github.com/ricardbejarano/haproxy) 

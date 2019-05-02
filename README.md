@@ -19,6 +19,7 @@
 - [derailed/popeye: 🧭 A Kubernetes cluster resource sanitizer](https://github.com/derailed/popeye) 
 - [The Kubernetes OS | k3OS | k3os](https://k3os.io/) 
 - [Ikonate – fully customisable & accessible vector icons](https://www.ikonate.com/) 
+- [Can you expose your services with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway/?utm_sq=g2cxobf8b7) 
 ### May 1, 2019 
 - [uber/cadence: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.](https://github.com/uber/cadence) 
 - [ricardbejarano/haproxy: 🏎 Built-from-source container image of the HAProxy load balancer](https://github.com/ricardbejarano/haproxy) 

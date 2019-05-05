@@ -19,6 +19,7 @@
 - [Configuring Kubernetes with CUE · garethr.dev](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) 
 - [rancher/k3d: Little helper to run Rancher Lab's k3s in Docker](https://github.com/rancher/k3d) 
 - [Istio the Easy Way – solo.io – Medium](https://medium.com/solo-io/istio-the-easy-way-de66e6eba4a1) 
+- [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/) 
 ### May 2, 2019 
 - [Grafana Dashboards for Kubernetes Administrators ​ - Povilas Versockas](https://povilasv.me/grafana-dashboards-for-kubernetes-administrators/) 
 - [derailed/popeye: 🧭 A Kubernetes cluster resource sanitizer](https://github.com/derailed/popeye) 

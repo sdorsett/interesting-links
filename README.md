@@ -14,6 +14,9 @@
 
 
 
+
+### May 5, 2019 
+- [Configuring Kubernetes with CUE · garethr.dev](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) 
 ### May 2, 2019 
 - [Grafana Dashboards for Kubernetes Administrators ​ - Povilas Versockas](https://povilasv.me/grafana-dashboards-for-kubernetes-administrators/) 
 - [derailed/popeye: 🧭 A Kubernetes cluster resource sanitizer](https://github.com/derailed/popeye) 

@@ -22,6 +22,7 @@
 - [metal3-io/metal3-docs: Architecture documentation that describes the components being built under Metal³.](https://github.com/metal3-io/metal3-docs) 
 - [How to get Istio up and running – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-get-istio-up-and-running-1935dc7cfb90) 
 - [Podman and Buildah for Docker users - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users/) 
+- [Pimp my Kubernetes Shell – ITNEXT](https://itnext.io/pimp-my-kubernetes-shell-f144710232a0) 
 ### May 5, 2019 
 - [Configuring Kubernetes with CUE · garethr.dev](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) 
 - [rancher/k3d: Little helper to run Rancher Lab's k3s in Docker](https://github.com/rancher/k3d) 

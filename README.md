@@ -19,6 +19,7 @@
 ### May 7, 2019 
 - [wercker/stern: ⎈ Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern) 
 - [Pulumi](https://pulumi.io/) 
+- [metal3-io/metal3-docs: Architecture documentation that describes the components being built under Metal³.](https://github.com/metal3-io/metal3-docs) 
 ### May 5, 2019 
 - [Configuring Kubernetes with CUE · garethr.dev](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) 
 - [rancher/k3d: Little helper to run Rancher Lab's k3s in Docker](https://github.com/rancher/k3d) 

@@ -19,7 +19,6 @@
 ### May 7, 2019 
 - [wercker/stern: ⎈ Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern) 
 - [Pulumi](https://pulumi.io/) 
-- [Pulumi](https://pulumi.io/) 
 ### May 5, 2019 
 - [Configuring Kubernetes with CUE · garethr.dev](https://garethr.dev/2019/04/configuring-kubernetes-with-cue/) 
 - [rancher/k3d: Little helper to run Rancher Lab's k3s in Docker](https://github.com/rancher/k3d) 

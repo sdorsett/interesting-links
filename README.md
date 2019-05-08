@@ -19,6 +19,7 @@
 
 ### May 8, 2019 
 - [Roadmap Preview: What’s Next for Consul Service Mesh](https://www.hashicorp.com/blog/roadmap-preview-what-s-next-for-consul-service-mesh) 
+- [Pulumi GitHub Actions - Pulumi](https://pulumi.io/reference/cd-github-actions.html) 
 ### May 7, 2019 
 - [wercker/stern: ⎈ Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern) 
 - [Pulumi](https://pulumi.io/) 

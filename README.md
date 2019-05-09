@@ -22,6 +22,7 @@
 - [Pulumi GitHub Actions - Pulumi](https://pulumi.io/reference/cd-github-actions.html) 
 - [poseidon/matchbox: Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more)](https://github.com/poseidon/matchbox) 
 - [poseidon/terraform-provider-matchbox: Terraform provider for on-premise / bare-metal via Matchbox](https://github.com/poseidon/terraform-provider-matchbox) 
+- [puppetlabs/razor-server: Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning](https://github.com/puppetlabs/razor-server) 
 ### May 7, 2019 
 - [wercker/stern: ⎈ Multi pod and container log tailing for Kubernetes](https://github.com/wercker/stern) 
 - [Pulumi](https://pulumi.io/) 

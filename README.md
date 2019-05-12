@@ -19,6 +19,9 @@
 
 
 
+
+### May 11, 2019 
+- [Using Kind to test a pr for Kubernetes.](https://mauilion.dev/posts/kind-k8s-testing/) 
 ### May 10, 2019 
 - [Comcast/kuberhealthy: Easy synthetic testing for Kubernetes clusters. Works great with Prometheus.](https://github.com/Comcast/kuberhealthy) 
 ### May 9, 2019 

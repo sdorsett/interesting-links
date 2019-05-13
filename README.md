@@ -24,6 +24,7 @@
 ### May 13, 2019 
 - [How Pulumi Compares to Terraform for Infrastructure as Code - Kyle Galbraith](https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-infrastructure-as-code/) 
 - [Kubernetes Universal Declarative Operator (KUDO) | KUDO](https://kudo.dev/) 
+- [muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝](https://github.com/muesli/beehive) 
 ### May 11, 2019 
 - [Using Kind to test a pr for Kubernetes.](https://mauilion.dev/posts/kind-k8s-testing/) 
 ### May 10, 2019 

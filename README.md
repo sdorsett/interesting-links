@@ -26,6 +26,7 @@
 - [Kubernetes Universal Declarative Operator (KUDO) | KUDO](https://kudo.dev/) 
 - [muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝](https://github.com/muesli/beehive) 
 - [GoogleCloudPlatform/terraformer: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code](https://github.com/GoogleCloudPlatform/terraformer) 
+- [siggy/itermkube: Kubernetes Context in iTerm2's Status Bar](https://github.com/siggy/itermkube) 
 ### May 11, 2019 
 - [Using Kind to test a pr for Kubernetes.](https://mauilion.dev/posts/kind-k8s-testing/) 
 ### May 10, 2019 

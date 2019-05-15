@@ -27,6 +27,7 @@
 - [DragonRuby - itch.io](https://dragonruby.itch.io/) 
 - [DragonRuby Game Toolkit Tutorial | WNDX School](https://wndx.school/p/dragon-ruby-game-toolkit-tutorial) 
 - [DragonRuby Game Toolkit - Game Jam Edition community - itch.io](https://dragonruby.itch.io/dragonruby-gtk/community) 
+- [Plans for RubyMotion](http://www.rubymotion.com/news/2019/04/19/plans-for-rubymotion.html) 
 ### May 14, 2019 
 - [netdata/netdata: Real-time performance monitoring, done right! https://my-netdata.io/](https://github.com/netdata/netdata) 
 - [k14s](https://github.com/k14s) 

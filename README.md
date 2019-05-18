@@ -24,6 +24,9 @@
 
 
 
+
+### May 18, 2019 
+- [hunterlong/statping: Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.](https://github.com/hunterlong/statping) 
 ### May 17, 2019 
 - [Practical Metrics with Graphite and Terraform (Part 2) | Mixmax Engineering Blog](https://engineering.mixmax.com/blog/practical-metrics-two) 
 - [healthchecks/healthchecks: A Cron Monitoring Tool written in Python & Django](https://github.com/healthchecks/healthchecks) 

@@ -30,6 +30,7 @@
 - [Kubernetes Operating Systems - kubedex.com](https://kubedex.com/kubernetes-operating-systems/) 
 - [containership/konstellate: Free and Open Source GUI to Visualize Kubernetes Applications.](https://github.com/containership/konstellate) 
 - [Aracki/gobernetes: Collection of miscellaneous Kubernetes resources.](https://github.com/Aracki/gobernetes) 
+- [reactiveops/polaris: Validation of best practices in your Kubernetes clusters](https://github.com/reactiveops/polaris) 
 ### May 18, 2019 
 - [hunterlong/statping: Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.](https://github.com/hunterlong/statping) 
 ### May 17, 2019 

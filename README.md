@@ -35,6 +35,7 @@
 - [felipellrocha/pensieve](https://github.com/felipellrocha/pensieve?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [sysdiglabs/kubectl-dig: Deep kubernetes visibility from the kubectl](https://github.com/sysdiglabs/kubectl-dig) 
 - [instrumenta/conftest: Write tests against structured configuration data using the Rego query language](https://github.com/instrumenta/conftest) 
+- [k14s/ytt: YAML templating tool that works on YAML structure instead of text](https://github.com/k14s/ytt) 
 ### May 19, 2019 
 - [Kubernetes Operating Systems - kubedex.com](https://kubedex.com/kubernetes-operating-systems/) 
 - [containership/konstellate: Free and Open Source GUI to Visualize Kubernetes Applications.](https://github.com/containership/konstellate) 

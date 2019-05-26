@@ -33,6 +33,7 @@
 - [Hardware bootstrapping with Ansible | Opensource.com](https://opensource.com/article/19/5/hardware-bootstrapping-ansible?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [gardener/gardener: Kubernetes API server extension and controller managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, and OpenStack with minimal TCO.](https://github.com/gardener/gardener?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [felipellrocha/pensieve](https://github.com/felipellrocha/pensieve?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
+- [sysdiglabs/kubectl-dig: Deep kubernetes visibility from the kubectl](https://github.com/sysdiglabs/kubectl-dig) 
 ### May 19, 2019 
 - [Kubernetes Operating Systems - kubedex.com](https://kubedex.com/kubernetes-operating-systems/) 
 - [containership/konstellate: Free and Open Source GUI to Visualize Kubernetes Applications.](https://github.com/containership/konstellate) 

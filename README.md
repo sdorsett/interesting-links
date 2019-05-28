@@ -38,6 +38,7 @@
 - [Kicking the Tires on OpenEBS for Cluster Storage - VADOSWARE](https://vadosware.io/post/kicking-the-tires-on-openebs-for-cluster-storage/) 
 - [cloudnativelabs/kube-router: Kube-router, a turnkey solution for Kubernetes networking.](https://github.com/cloudnativelabs/kube-router) 
 - [Deploying a FaaS platform on OVH Managed Kubernetes using OpenFaaS - OVH Blog](https://www.ovh.com/fr/blog/deploying-a-faas-platform-on-ovh-managed-kubernetes-using-openfaas/) 
+- [Mangle by VMware®](https://vmware.github.io/mangle/) 
 ### May 26, 2019 
 - [Announcing Terraform 0.12](https://www.hashicorp.com/blog/announcing-terraform-0-12?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [Using HashiCorp Sentinel to validate Terraform configuration/plan · Adrian Todorov](https://atodorov.me/2019/05/23/using-hashicorp-sentinel-to-validate-terraform-configuration/plan/?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 

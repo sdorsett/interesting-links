@@ -27,6 +27,9 @@
 
 
 
+
+### May 28, 2019 
+- [Stack Labs - Blog | Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/) 
 ### May 26, 2019 
 - [Announcing Terraform 0.12](https://www.hashicorp.com/blog/announcing-terraform-0-12?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [Using HashiCorp Sentinel to validate Terraform configuration/plan · Adrian Todorov](https://atodorov.me/2019/05/23/using-hashicorp-sentinel-to-validate-terraform-configuration/plan/?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 

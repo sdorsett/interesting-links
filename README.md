@@ -41,6 +41,7 @@
 - [Mangle by VMware®](https://vmware.github.io/mangle/) 
 - [vmware/mangle: Git Repository for the Mangle tool](https://github.com/vmware/mangle) 
 - [Upgrading to Terraform 0.12 - Terraform by HashiCorp](https://www.terraform.io/upgrade-guides/0-12.html) 
+- [herbrandson/k8dash: Simple Kubernetes realtime dashboard and management](https://github.com/herbrandson/k8dash) 
 ### May 26, 2019 
 - [Announcing Terraform 0.12](https://www.hashicorp.com/blog/announcing-terraform-0-12?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [Using HashiCorp Sentinel to validate Terraform configuration/plan · Adrian Todorov](https://atodorov.me/2019/05/23/using-hashicorp-sentinel-to-validate-terraform-configuration/plan/?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 

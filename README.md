@@ -31,6 +31,7 @@
 ### May 28, 2019 
 - [Stack Labs - Blog | Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/) 
 - [Providing chaos hooks to applications through Litmus Operator](https://medium.com/mayadata/litmus-chaos-operator-the-whys-hows-10a4519ad864) 
+- [A Practical kubernetes Operator using Ansible — an example](https://itnext.io/a-practical-kubernetes-operator-using-ansible-an-example-d3a9d3674d5b) 
 ### May 26, 2019 
 - [Announcing Terraform 0.12](https://www.hashicorp.com/blog/announcing-terraform-0-12?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 
 - [Using HashiCorp Sentinel to validate Terraform configuration/plan · Adrian Todorov](https://atodorov.me/2019/05/23/using-hashicorp-sentinel-to-validate-terraform-configuration/plan/?utm_source=DevOps%27ish&utm_campaign=0c0c09f6d1-DEVOPSISH_129&utm_medium=email&utm_term=0_eab566bc9f-0c0c09f6d1-45838997) 

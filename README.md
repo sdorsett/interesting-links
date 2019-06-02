@@ -39,6 +39,7 @@
 - [shyiko/kubesec: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec) 
 - [Automating My Todo with GitHub and Twilio – Alice Goldfuss](https://blog.alicegoldfuss.com/automating-my-todo/) 
 - [How to remove duplicate lines from files keeping the original order](https://iridakos.com/how-to/2019/05/16/remove-duplicate-lines-preserving-order-linux.html) 
+- [The Secret to Kubernetes Secrets - chrisshort.net](https://chrisshort.net/the-secret-to-kubernetes-secrets/index.html) 
 ### May 29, 2019 
 - [belly.io - Curated List of Programming / Coding Streamers](https://belly.io/programming) 
 ### May 28, 2019 

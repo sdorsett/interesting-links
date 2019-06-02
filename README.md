@@ -37,6 +37,7 @@
 - [Ephemeral Kubernetes Clusters With Kind and Make · garethr.dev](https://garethr.dev/2019/05/ephemeral-kubernetes-clusters-with-kind-and-make/) 
 - [IBM/kui: A hybrid command-line/UI development experience for cloud-native development](https://github.com/IBM/kui) 
 - [Command-line tools for Kubernetes: kubectl, stern, kubectx, kubens - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/05/27/command-line-tools-for-kubernetes-kubectl-stern-kubectx-kubens/) 
+- [The Definitive Guide To Prometheus in 2019 – devconnected](http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/) 
 ### June 1, 2019 
 - [Overview of kubeadm - Kubernetes](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) 
 - [How do you visualise dependencies in your Kubernetes YAML files?](https://learnk8s.io/visualise-dependencies-kubernetes/) 

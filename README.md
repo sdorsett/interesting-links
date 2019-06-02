@@ -7,6 +7,7 @@
 - [Command-line tools for Kubernetes: kubectl, stern, kubectx, kubens - Red Hat Developer Blog](https://developers.redhat.com/blog/2019/05/27/command-line-tools-for-kubernetes-kubectl-stern-kubectx-kubens/) 
 - [The Definitive Guide To Prometheus in 2019 – devconnected](http://devconnected.com/the-definitive-guide-to-prometheus-in-2019/) 
 - [Installing Kubernetes Dashboard per Namespace](https://akomljen.com/installing-kubernetes-dashboard-per-namespace/) 
+- [danicat/pacgo: A Pac Man clone written in Go (with emojis!)](https://github.com/danicat/pacgo?utm_source=DevOps%27ish&utm_campaign=7a15035235-DEVOPSISH_130&utm_medium=email&utm_term=0_eab566bc9f-7a15035235-45838997) 
 ### June 1, 2019 
 - [Overview of kubeadm - Kubernetes](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) 
 - [How do you visualise dependencies in your Kubernetes YAML files?](https://learnk8s.io/visualise-dependencies-kubernetes/) 

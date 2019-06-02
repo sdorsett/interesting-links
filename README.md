@@ -38,6 +38,7 @@
 - [rothgar/mastering-zsh: Advanced topics to take advantage of zsh](https://github.com/rothgar/mastering-zsh) 
 - [shyiko/kubesec: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec) 
 - [Automating My Todo with GitHub and Twilio – Alice Goldfuss](https://blog.alicegoldfuss.com/automating-my-todo/) 
+- [How to remove duplicate lines from files keeping the original order](https://iridakos.com/how-to/2019/05/16/remove-duplicate-lines-preserving-order-linux.html) 
 ### May 29, 2019 
 - [belly.io - Curated List of Programming / Coding Streamers](https://belly.io/programming) 
 ### May 28, 2019 

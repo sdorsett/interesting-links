@@ -30,6 +30,9 @@
 
 
 
+
+### June 2, 2019 
+- [shyiko/kubesec: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec) 
 ### June 1, 2019 
 - [Overview of kubeadm - Kubernetes](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) 
 - [How do you visualise dependencies in your Kubernetes YAML files?](https://learnk8s.io/visualise-dependencies-kubernetes/) 

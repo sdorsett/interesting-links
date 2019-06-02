@@ -1,38 +1,6 @@
 # interesting-links
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### June 2, 2019 
-- [shyiko/kubesec: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec) 
 - [Releasing Comfygure 1.0](https://marmelab.com/blog/2019/05/28/releasing-comfygure-1-0.html) 
 - [Ephemeral Kubernetes Clusters With Kind and Make · garethr.dev](https://garethr.dev/2019/05/ephemeral-kubernetes-clusters-with-kind-and-make/) 
 - [IBM/kui: A hybrid command-line/UI development experience for cloud-native development](https://github.com/IBM/kui) 

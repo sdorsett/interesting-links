@@ -29,6 +29,9 @@
 
 
 
+
+### June 1, 2019 
+- [Overview of kubeadm - Kubernetes](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) 
 ### May 29, 2019 
 - [belly.io - Curated List of Programming / Coding Streamers](https://belly.io/programming) 
 ### May 28, 2019 

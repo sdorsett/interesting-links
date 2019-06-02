@@ -34,6 +34,7 @@
 ### June 2, 2019 
 - [shyiko/kubesec: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec) 
 - [Releasing Comfygure 1.0](https://marmelab.com/blog/2019/05/28/releasing-comfygure-1-0.html) 
+- [Ephemeral Kubernetes Clusters With Kind and Make · garethr.dev](https://garethr.dev/2019/05/ephemeral-kubernetes-clusters-with-kind-and-make/) 
 ### June 1, 2019 
 - [Overview of kubeadm - Kubernetes](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) 
 - [How do you visualise dependencies in your Kubernetes YAML files?](https://learnk8s.io/visualise-dependencies-kubernetes/) 

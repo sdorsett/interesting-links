@@ -37,6 +37,7 @@
 - [Brigade | Event-driven scripting for Kubernetes.](https://brigade.sh/?utm_sq=g2eraaz5y2) 
 - [rothgar/mastering-zsh: Advanced topics to take advantage of zsh](https://github.com/rothgar/mastering-zsh) 
 - [shyiko/kubesec: Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)](https://github.com/shyiko/kubesec) 
+- [Automating My Todo with GitHub and Twilio – Alice Goldfuss](https://blog.alicegoldfuss.com/automating-my-todo/) 
 ### May 29, 2019 
 - [belly.io - Curated List of Programming / Coding Streamers](https://belly.io/programming) 
 ### May 28, 2019 

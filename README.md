@@ -34,6 +34,7 @@
 - [Overview of kubeadm - Kubernetes](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/) 
 - [How do you visualise dependencies in your Kubernetes YAML files?](https://learnk8s.io/visualise-dependencies-kubernetes/) 
 - [Will it cluster? k3s on your Raspberry Pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/) 
+- [Brigade | Event-driven scripting for Kubernetes.](https://brigade.sh/?utm_sq=g2eraaz5y2) 
 ### May 29, 2019 
 - [belly.io - Curated List of Programming / Coding Streamers](https://belly.io/programming) 
 ### May 28, 2019 

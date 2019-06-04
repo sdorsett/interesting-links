@@ -1,5 +1,8 @@
 # interesting-links
 
+
+### June 4, 2019 
+- [kubernetes/sample-controller: Repository for sample controller. Complements sample-apiserver](https://github.com/kubernetes/sample-controller?utm_sq=g2i6rhc37a) 
 ### June 2, 2019 
 - [Releasing Comfygure 1.0](https://marmelab.com/blog/2019/05/28/releasing-comfygure-1-0.html) 
 - [Ephemeral Kubernetes Clusters With Kind and Make · garethr.dev](https://garethr.dev/2019/05/ephemeral-kubernetes-clusters-with-kind-and-make/) 

@@ -11,6 +11,7 @@
 - [bitfield/script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-45838997) 
 - [CoolerVoid/HiddenWall: Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, rootkit functions etc)](https://github.com/CoolerVoid/HiddenWall?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-45838997) 
 - [wash: the wide-area shell | home](https://puppetlabs.github.io/wash/) 
+- [Typhoon](https://typhoon.psdn.io/) 
 ### June 8, 2019 
 - [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets) 
 - [How To Automatically Manage DNS Records From DigitalOcean Kubernetes Using ExternalDNS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automatically-manage-dns-records-from-digitalocean-kubernetes-using-externaldns) 

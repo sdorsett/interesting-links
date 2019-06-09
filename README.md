@@ -8,6 +8,7 @@
 ### June 9, 2019 
 - [8 free tools that teach kids how to code | CIO](https://www.cio.com/article/3400676/8-free-tools-that-teach-kids-how-to-code.html) 
 - [Kubernetes basics: Learn how to drive first | Opensource.com](https://opensource.com/article/19/6/kubernetes-basics?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-45838997) 
+- [bitfield/script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-45838997) 
 ### June 8, 2019 
 - [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets) 
 - [How To Automatically Manage DNS Records From DigitalOcean Kubernetes Using ExternalDNS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automatically-manage-dns-records-from-digitalocean-kubernetes-using-externaldns) 

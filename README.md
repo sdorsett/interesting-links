@@ -4,6 +4,9 @@
 
 
 
+
+### June 9, 2019 
+- [8 free tools that teach kids how to code | CIO](https://www.cio.com/article/3400676/8-free-tools-that-teach-kids-how-to-code.html) 
 ### June 8, 2019 
 - [alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets) 
 - [How To Automatically Manage DNS Records From DigitalOcean Kubernetes Using ExternalDNS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-automatically-manage-dns-records-from-digitalocean-kubernetes-using-externaldns) 

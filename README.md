@@ -9,6 +9,7 @@
 ### June 10, 2019 
 - [Using cloud-init for VM templating on vSphere - Blah, Cloud.](https://blah.cloud/infrastructure/using-cloud-init-for-vm-templating-on-vsphere/) 
 - [Freekers/automated-pihole: Automated Self-Updating (Public) Pi-hole Stack using unbound as recursive DNS server with Ansible](https://github.com/Freekers/automated-pihole) 
+- [How to Use Ansible: An Ansible Cheat Sheet Guide | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-ansible-cheat-sheet-guide) 
 ### June 9, 2019 
 - [8 free tools that teach kids how to code | CIO](https://www.cio.com/article/3400676/8-free-tools-that-teach-kids-how-to-code.html) 
 - [Kubernetes basics: Learn how to drive first | Opensource.com](https://opensource.com/article/19/6/kubernetes-basics?utm_source=DevOps%27ish&utm_campaign=800ec54a93-DEVOPSISH_131&utm_medium=email&utm_term=0_eab566bc9f-800ec54a93-45838997) 

@@ -6,6 +6,9 @@
 
 
 
+
+### June 11, 2019 
+- [Stateful Kubernetes | all thingz stateful apps and tooling in and for Kubernetes](https://stateful.kubernetes.sh/?utm_sq=g2ndaefk7s) 
 ### June 10, 2019 
 - [Using cloud-init for VM templating on vSphere - Blah, Cloud.](https://blah.cloud/infrastructure/using-cloud-init-for-vm-templating-on-vsphere/) 
 - [Freekers/automated-pihole: Automated Self-Updating (Public) Pi-hole Stack using unbound as recursive DNS server with Ansible](https://github.com/Freekers/automated-pihole) 

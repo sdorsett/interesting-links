@@ -10,6 +10,7 @@
 
 ### June 12, 2019 
 - [rancher/k3os: Purpose built OS for Kubernetes, fully managed by Kubernetes.](https://github.com/rancher/k3os) 
+- [ovh/terraform-ovh-publiccloud-k8s](https://github.com/ovh/terraform-ovh-publiccloud-k8s) 
 ### June 11, 2019 
 - [Stateful Kubernetes | all thingz stateful apps and tooling in and for Kubernetes](https://stateful.kubernetes.sh/?utm_sq=g2ndaefk7s) 
 - [Decoupling Ansible Handlers](https://www.renemoser.net/blog/2017/09/02/decoupling-ansible-handlers/) 

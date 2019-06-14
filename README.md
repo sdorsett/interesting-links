@@ -8,6 +8,9 @@
 
 
 
+
+### June 14, 2019 
+- [Creating Highly Available clusters with kubeadm - Kubernetes](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/) 
 ### June 12, 2019 
 - [rancher/k3os: Purpose built OS for Kubernetes, fully managed by Kubernetes.](https://github.com/rancher/k3os) 
 - [ovh/terraform-ovh-publiccloud-k8s](https://github.com/ovh/terraform-ovh-publiccloud-k8s) 

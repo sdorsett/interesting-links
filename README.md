@@ -12,6 +12,7 @@
 
 ### June 16, 2019 
 - [Kubernetes by kubeadm config yamls – Kosta Klevensky – Medium](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244) 
+- [Install and configure a multi-master Kubernetes cluster with kubeadm](https://blog.inkubate.io/install-and-configure-a-multi-master-kubernetes-cluster-with-kubeadm/) 
 ### June 14, 2019 
 - [Creating Highly Available clusters with kubeadm - Kubernetes](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/) 
 ### June 12, 2019 

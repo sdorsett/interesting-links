@@ -10,6 +10,9 @@
 
 
 
+
+### June 17, 2019 
+- [Working With Dynamic Inventory — Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#inventory-script-example-openstack) 
 ### June 16, 2019 
 - [Kubernetes by kubeadm config yamls – Kosta Klevensky – Medium](https://medium.com/@kosta709/kubernetes-by-kubeadm-config-yamls-94e2ee11244) 
 - [Install and configure a multi-master Kubernetes cluster with kubeadm](https://blog.inkubate.io/install-and-configure-a-multi-master-kubernetes-cluster-with-kubeadm/) 

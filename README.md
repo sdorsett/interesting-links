@@ -17,6 +17,7 @@
 - [Certified Kubernetes Administrator Exam Study Guide | dev.net(stack)](http://devnetstack.com/certified-kubernetes-administrator-exam-study-guide/?utm_sq=g2sz8o5o9f) 
 - [Automating Highly Available Kubernetes and external ETCD cluster setup with terraform and kubeadm on AWS. – Ifrit LTD](https://ifritltd.com/2019/06/16/automating-highly-available-kubernetes-cluster-and-external-etcd-setup-with-terraform-and-kubeadm-on-aws/) 
 - [(28) Deploy OpenFaaS on Kubernetes with KinD - YouTube](https://www.youtube.com/watch?v=azZjuzP1xmo&app=desktop) 
+- [Create 3D games with friends, no experience required](https://www.blog.google/technology/area-120/create-3d-games-friends-no-experience-required/) 
 ### June 17, 2019 
 - [Working With Dynamic Inventory — Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#inventory-script-example-openstack) 
 ### June 16, 2019 

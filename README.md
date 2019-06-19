@@ -14,6 +14,7 @@
 
 ### June 18, 2019 
 - [How to set up a serious Kubernetes terminal – freeCodeCamp.org – Medium](https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4) 
+- [Certified Kubernetes Administrator Exam Study Guide | dev.net(stack)](http://devnetstack.com/certified-kubernetes-administrator-exam-study-guide/?utm_sq=g2sz8o5o9f) 
 ### June 17, 2019 
 - [Working With Dynamic Inventory — Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/intro_dynamic_inventory.html#inventory-script-example-openstack) 
 ### June 16, 2019 

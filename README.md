@@ -18,6 +18,7 @@
 - [nbering/terraform-provider-ansible: "Logical" provider for integrating with an Ansible Dynamic Inventory script.](https://github.com/nbering/terraform-provider-ansible/) 
 - [nbering/terraform-inventory: An Ansible dynamic inventory script to pair with nbering/terraform-provider-ansible.](https://github.com/nbering/terraform-inventory/) 
 - [adammck/terraform-inventory: Terraform State → Ansible Dynamic Inventory](https://github.com/adammck/terraform-inventory) 
+- [scarolan/ptfe-preflight-check: Pre-install tests for Private Terraform Enterprise. Checks network and OS settings to make sure prerequisites are met.](https://github.com/scarolan/ptfe-preflight-check/) 
 ### June 18, 2019 
 - [How to set up a serious Kubernetes terminal – freeCodeCamp.org – Medium](https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4) 
 - [Certified Kubernetes Administrator Exam Study Guide | dev.net(stack)](http://devnetstack.com/certified-kubernetes-administrator-exam-study-guide/?utm_sq=g2sz8o5o9f) 

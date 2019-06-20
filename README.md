@@ -21,6 +21,7 @@
 - [scarolan/ptfe-preflight-check: Pre-install tests for Private Terraform Enterprise. Checks network and OS settings to make sure prerequisites are met.](https://github.com/scarolan/ptfe-preflight-check/) 
 - [scarolan/ansible-terraform: Ansible and Terraform: Better Together](https://github.com/scarolan/ansible-terraform) 
 - [ddclient/ddclient: Fork of the original ddclient code](https://github.com/ddclient/ddclient) 
+- [Minimal Dynamic DNS configuration for No-IP.com with ddclient](https://medium.com/@nobuto_m/minimal-dynamic-dns-configuration-for-no-ip-com-with-ddclient-cb7c038a74be) 
 ### June 18, 2019 
 - [How to set up a serious Kubernetes terminal – freeCodeCamp.org – Medium](https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4) 
 - [Certified Kubernetes Administrator Exam Study Guide | dev.net(stack)](http://devnetstack.com/certified-kubernetes-administrator-exam-study-guide/?utm_sq=g2sz8o5o9f) 

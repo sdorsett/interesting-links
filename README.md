@@ -17,6 +17,7 @@
 - [Introducing: Terraform Provider for Ansible](https://nicholasbering.ca/tools/2018/01/08/introducing-terraform-provider-ansible/) 
 - [nbering/terraform-provider-ansible: "Logical" provider for integrating with an Ansible Dynamic Inventory script.](https://github.com/nbering/terraform-provider-ansible/) 
 - [nbering/terraform-inventory: An Ansible dynamic inventory script to pair with nbering/terraform-provider-ansible.](https://github.com/nbering/terraform-inventory/) 
+- [adammck/terraform-inventory: Terraform State → Ansible Dynamic Inventory](https://github.com/adammck/terraform-inventory) 
 ### June 18, 2019 
 - [How to set up a serious Kubernetes terminal – freeCodeCamp.org – Medium](https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4) 
 - [Certified Kubernetes Administrator Exam Study Guide | dev.net(stack)](http://devnetstack.com/certified-kubernetes-administrator-exam-study-guide/?utm_sq=g2sz8o5o9f) 

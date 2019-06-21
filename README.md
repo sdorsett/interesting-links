@@ -17,6 +17,7 @@
 ### June 21, 2019 
 - [Using cloud-init for VM templating on vSphere - Blah, Cloud.](https://blah.cloud/infrastructure/using-cloud-init-for-vm-templating-on-vsphere/) 
 - [How to prepare for CKA and CKAD – Sanjay Singh – Medium](https://medium.com/@sanju.nitt/how-to-prepare-for-cka-and-ckad-38d029733ca6) 
+- [How To Install and Use Istio With Kubernetes | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-istio-with-kubernetes) 
 ### June 20, 2019 
 - [Introducing: Terraform Provider for Ansible](https://nicholasbering.ca/tools/2018/01/08/introducing-terraform-provider-ansible/) 
 - [nbering/terraform-provider-ansible: "Logical" provider for integrating with an Ansible Dynamic Inventory script.](https://github.com/nbering/terraform-provider-ansible/) 

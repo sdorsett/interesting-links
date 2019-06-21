@@ -13,6 +13,9 @@
 
 
 
+
+### June 21, 2019 
+- [Using cloud-init for VM templating on vSphere - Blah, Cloud.](https://blah.cloud/infrastructure/using-cloud-init-for-vm-templating-on-vsphere/) 
 ### June 20, 2019 
 - [Introducing: Terraform Provider for Ansible](https://nicholasbering.ca/tools/2018/01/08/introducing-terraform-provider-ansible/) 
 - [nbering/terraform-provider-ansible: "Logical" provider for integrating with an Ansible Dynamic Inventory script.](https://github.com/nbering/terraform-provider-ansible/) 

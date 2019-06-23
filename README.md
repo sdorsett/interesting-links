@@ -18,6 +18,7 @@
 ### June 23, 2019 
 - [containerenv/containerenv: shippable linux user environments](https://github.com/containerenv/containerenv?utm_source=DevOps%27ish&utm_campaign=15bf2ee4ed-DEVOPSISH_133&utm_medium=email&utm_term=0_eab566bc9f-15bf2ee4ed-45838997) 
 - [bashfulrobot/bashfulrobot-ansible: Ansible Repo that utilizes an ansible-pull command to configure my workstations.](https://github.com/bashfulrobot/bashfulrobot-ansible) 
+- [Getting wildcard SSL certificate in Kubernetes with cert-manager](https://medium.com/@Amet13/wildcard-k8s-4998173b16c8) 
 ### June 21, 2019 
 - [Using cloud-init for VM templating on vSphere - Blah, Cloud.](https://blah.cloud/infrastructure/using-cloud-init-for-vm-templating-on-vsphere/) 
 - [How to prepare for CKA and CKAD – Sanjay Singh – Medium](https://medium.com/@sanju.nitt/how-to-prepare-for-cka-and-ckad-38d029733ca6) 

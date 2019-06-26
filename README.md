@@ -2,7 +2,7 @@
 
 
 ### June 26, 2019 
-- [(28) Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
+- [Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
 ### June 23, 2019 
 - [containerenv/containerenv: shippable linux user environments](https://github.com/containerenv/containerenv) 
 - [bashfulrobot/bashfulrobot-ansible: Ansible Repo that utilizes an ansible-pull command to configure my workstations.](https://github.com/bashfulrobot/bashfulrobot-ansible) 

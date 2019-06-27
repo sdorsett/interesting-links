@@ -7,6 +7,7 @@
 - [First-look: Automated K8s lifecycle with ClusterAPI - Blah, Cloud.](https://blah.cloud/kubernetes/first-look-automated-k8s-lifecycle-with-clusterapi/) 
 - [The Toyota Way - Wikipedia - The 14 Principles](https://en.m.wikipedia.org/wiki/The_Toyota_Way#The_14_Principles) 
 - [Step by Step – Istio up and running – Virtual Thoughts](https://www.virtualthoughts.co.uk/2019/06/23/step-by-step-istio-up-and-running/) 
+- [URL Shortener +Tracking solution using Nexmo Messaging and AWS Serverless - Medium](https://medium.com/@enrico.portolan/url-shortener-tracking-solution-using-nexmo-messaging-and-aws-serverless-610b499a7f33) 
 ### June 26, 2019 
 - [Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
 - [Creative programming workshop with Sonic Pi](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html) 

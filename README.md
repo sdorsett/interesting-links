@@ -10,6 +10,7 @@
 - [URL Shortener +Tracking solution using Nexmo Messaging and AWS Serverless - Medium](https://medium.com/@enrico.portolan/url-shortener-tracking-solution-using-nexmo-messaging-and-aws-serverless-610b499a7f33) 
 - [vietnam-devs/coolstore-microservices: A Kubernetes-based polyglot microservices application with Istio service mesh](https://github.com/vietnam-devs/coolstore-microservices) 
 - [plajjan/vrnetlab: Run virtual routers with docker](https://github.com/plajjan/vrnetlab) 
+- [Multi-Vendor Network Simulations at Scale with meshnet-cni and vrnetlab | networkop](https://networkop.co.uk/post/2019-01-k8s-vrnetlab/) 
 ### June 26, 2019 
 - [Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
 - [Creative programming workshop with Sonic Pi](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html) 

@@ -4,6 +4,7 @@
 
 ### June 27, 2019 
 - [Sonic Pi - Advanced programming - ecotronics Blog](http://ecotronics.ch.honorius.sui-inter.net/wordpress/2017/sonic-pi-advanced-programming/) 
+- [First-look: Automated K8s lifecycle with ClusterAPI - Blah, Cloud.](https://blah.cloud/kubernetes/first-look-automated-k8s-lifecycle-with-clusterapi/) 
 ### June 26, 2019 
 - [Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
 - [Creative programming workshop with Sonic Pi](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html) 

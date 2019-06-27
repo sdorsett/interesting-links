@@ -9,6 +9,7 @@
 - [Step by Step – Istio up and running – Virtual Thoughts](https://www.virtualthoughts.co.uk/2019/06/23/step-by-step-istio-up-and-running/) 
 - [URL Shortener +Tracking solution using Nexmo Messaging and AWS Serverless - Medium](https://medium.com/@enrico.portolan/url-shortener-tracking-solution-using-nexmo-messaging-and-aws-serverless-610b499a7f33) 
 - [vietnam-devs/coolstore-microservices: A Kubernetes-based polyglot microservices application with Istio service mesh](https://github.com/vietnam-devs/coolstore-microservices) 
+- [plajjan/vrnetlab: Run virtual routers with docker](https://github.com/plajjan/vrnetlab) 
 ### June 26, 2019 
 - [Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
 - [Creative programming workshop with Sonic Pi](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html) 

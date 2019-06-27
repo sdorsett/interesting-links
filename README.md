@@ -12,6 +12,7 @@
 - [plajjan/vrnetlab: Run virtual routers with docker](https://github.com/plajjan/vrnetlab) 
 - [Multi-Vendor Network Simulations at Scale with meshnet-cni and vrnetlab | networkop](https://networkop.co.uk/post/2019-01-k8s-vrnetlab/) 
 - [Introduction to Infrastructure Patterns](https://infrastructure-as-code.com/patterns/) 
+- [google/ko: Build and deploy Go applications on Kubernetes](https://github.com/google/ko) 
 ### June 26, 2019 
 - [Live walkthrough - Raspberry Pi 4 with Kubernetes (k3s) - YouTube](https://www.youtube.com/watch?v=DjpVtNjiXSU) 
 - [Creative programming workshop with Sonic Pi](http://sonic-pi.mehackit.org/exercises/en/01-introduction/01-introduction.html) 

@@ -10,6 +10,7 @@
 - [toolnetes/README.md at master · Aracki/toolnetes](https://github.com/Aracki/toolnetes/blob/master/README.md) 
 - [jesseduffield/lazydocker: The lazier way to manage everything docker](https://github.com/jesseduffield/lazydocker) 
 - [Kubernetes Controllers Part One](https://thebsdbox.co.uk/2019/06/26/Kubernetes-Controllers-Part-One/) 
+- [Client Libraries - Kubernetes](https://kubernetes.io/docs/reference/using-api/client-libraries/#community-maintained-client-libraries) 
 ### June 27, 2019 
 - [Sonic Pi - Advanced programming - ecotronics Blog](http://ecotronics.ch.honorius.sui-inter.net/wordpress/2017/sonic-pi-advanced-programming/) 
 - [First-look: Automated K8s lifecycle with ClusterAPI - Blah, Cloud.](https://blah.cloud/kubernetes/first-look-automated-k8s-lifecycle-with-clusterapi/) 

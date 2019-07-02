@@ -2,6 +2,9 @@
 
 
 
+
+### July 2, 2019 
+- [DirectXMan12/kubebuilder-workshops: KubeBuilder Workshops](https://github.com/DirectXMan12/kubebuilder-workshops) 
 ### June 27, 2019 
 - [Sonic Pi - Advanced programming - ecotronics Blog](http://ecotronics.ch.honorius.sui-inter.net/wordpress/2017/sonic-pi-advanced-programming/) 
 - [First-look: Automated K8s lifecycle with ClusterAPI - Blah, Cloud.](https://blah.cloud/kubernetes/first-look-automated-k8s-lifecycle-with-clusterapi/) 

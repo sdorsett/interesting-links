@@ -3,6 +3,9 @@
 
 
 
+
+### July 8, 2019 
+- [stretchcloud/cka-lab-practice](https://github.com/stretchcloud/cka-lab-practice) 
 ### July 2, 2019 
 - [DirectXMan12/kubebuilder-workshops: KubeBuilder Workshops](https://github.com/DirectXMan12/kubebuilder-workshops) 
 - [balenaEtcher - Home](https://www.balena.io/etcher/) 

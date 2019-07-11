@@ -13,6 +13,7 @@
 - [Infrastructure-As-Code with HashiCorp Packer, VMware and VMware Cloud on AWS – #RUNVMC](https://nicovibert.com/2019/07/09/infrastructure-as-code-with-packer-with-vmware-aws/) 
 - [Why We Switched to Cilium | Cluster Networking | MobiLab Blog](https://mobilabsolutions.com/2019/01/why-we-switched-to-cilium/?utm_sq=g3k81e7b4c) 
 - [trailofbits/algo: Set up a personal IPSEC VPN in the cloud](https://github.com/trailofbits/algo) 
+- [openfaas-incubator/workshop-vscode: Run a Kubernetes workshop with VSCode in the browser](https://github.com/openfaas-incubator/workshop-vscode) 
 ### July 8, 2019 
 - [stretchcloud/cka-lab-practice](https://github.com/stretchcloud/cka-lab-practice) 
 ### July 2, 2019 

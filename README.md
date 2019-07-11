@@ -4,6 +4,9 @@
 
 
 
+
+### July 10, 2019 
+- [Plugin Development Basics - Plugins - Vagrant by HashiCorp](https://www.vagrantup.com/docs/plugins/development-basics.html) 
 ### July 8, 2019 
 - [stretchcloud/cka-lab-practice](https://github.com/stretchcloud/cka-lab-practice) 
 ### July 2, 2019 

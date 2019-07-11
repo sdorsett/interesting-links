@@ -8,6 +8,7 @@
 
 ### July 11, 2019 
 - [101 Tips For Being A Great Programmer (& Human) - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl) 
+- [olsonpm/sqlite-to-rest](https://github.com/olsonpm/sqlite-to-rest) 
 ### July 10, 2019 
 - [Plugin Development Basics - Plugins - Vagrant by HashiCorp](https://www.vagrantup.com/docs/plugins/development-basics.html) 
 - [Custom Providers - Plugin Development - Vagrant by HashiCorp](https://www.vagrantup.com/docs/plugins/providers.html) 

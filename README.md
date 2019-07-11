@@ -17,6 +17,7 @@
 - [timberio/vector: A High-Performance, Logs, Metrics, & Events Router](https://github.com/timberio/vector) 
 - [Linux dd Command Show Progress Copy Bar With Status - nixCraft](https://www.cyberciti.biz/faq/linux-unix-dd-command-show-progress-while-coping/) 
 - [kubeone/README.md at master · kubermatic/kubeone](https://github.com/kubermatic/kubeone/blob/master/README.md) 
+- [sshremotekeys/README.md at master · FernandoMiguel/sshremotekeys](https://github.com/FernandoMiguel/sshremotekeys/blob/master/README.md) 
 ### July 8, 2019 
 - [stretchcloud/cka-lab-practice](https://github.com/stretchcloud/cka-lab-practice) 
 ### July 2, 2019 

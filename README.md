@@ -6,6 +6,9 @@
 
 
 
+
+### July 12, 2019 
+- [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 
 - [101 Tips For Being A Great Programmer (& Human) - DEV Community 👩‍💻👨‍💻](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl) 
 - [olsonpm/sqlite-to-rest](https://github.com/olsonpm/sqlite-to-rest) 

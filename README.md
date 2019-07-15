@@ -16,6 +16,7 @@
 - [typhoon/README.md at master · poseidon/typhoon](https://github.com/poseidon/typhoon/blob/master/README.md) 
 - [Debian 10 Set Up OpenVPN Server In 5 Minutes - nixCraft](https://www.cyberciti.biz/faq/debian-10-set-up-openvpn-server-in-5-minutes/) 
 - [OKD - The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift.](https://www.okd.io/) 
+- [Installing OpenShift 4.1 Using Libvirt and KVM – Red Hat Services Speak](https://servicesblog.redhat.com/2019/07/11/installing-openshift-4-1-using-libvirt-and-kvm/) 
 ### July 12, 2019 
 - [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 

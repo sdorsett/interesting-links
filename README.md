@@ -10,6 +10,7 @@
 
 ### July 15, 2019 
 - [Docsy](https://www.docsy.dev/) 
+- [Olive - Professional Open-Source Video Editor](https://olivevideoeditor.org/) 
 ### July 12, 2019 
 - [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 

@@ -13,6 +13,7 @@
 - [Olive - Professional Open-Source Video Editor](https://olivevideoeditor.org/) 
 - [ibuildthecloud/k3v: Virtual Kubernetes](https://github.com/ibuildthecloud/k3v) 
 - [Starting local Kubernetes using kind and Docker - ITNEXT](https://itnext.io/starting-local-kubernetes-using-kind-and-docker-c6089acfc1c0) 
+- [typhoon/README.md at master · poseidon/typhoon](https://github.com/poseidon/typhoon/blob/master/README.md) 
 ### July 12, 2019 
 - [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 

@@ -15,6 +15,7 @@
 - [Starting local Kubernetes using kind and Docker - ITNEXT](https://itnext.io/starting-local-kubernetes-using-kind-and-docker-c6089acfc1c0) 
 - [typhoon/README.md at master · poseidon/typhoon](https://github.com/poseidon/typhoon/blob/master/README.md) 
 - [Debian 10 Set Up OpenVPN Server In 5 Minutes - nixCraft](https://www.cyberciti.biz/faq/debian-10-set-up-openvpn-server-in-5-minutes/) 
+- [OKD - The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift.](https://www.okd.io/) 
 ### July 12, 2019 
 - [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 

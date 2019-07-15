@@ -18,6 +18,7 @@
 - [OKD - The Origin Community Distribution of Kubernetes that powers Red Hat OpenShift.](https://www.okd.io/) 
 - [Installing OpenShift 4.1 Using Libvirt and KVM – Red Hat Services Speak](https://servicesblog.redhat.com/2019/07/11/installing-openshift-4-1-using-libvirt-and-kvm/) 
 - [JSMpeg – Decode it like it's 1999](https://jsmpeg.com/) 
+- [infracloudio/botkube: App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices](https://github.com/infracloudio/botkube?utm_sq=g3kb8d9oar) 
 ### July 12, 2019 
 - [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 

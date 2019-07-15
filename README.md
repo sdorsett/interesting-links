@@ -21,6 +21,7 @@
 - [infracloudio/botkube: App that helps you monitor your Kubernetes cluster, debug critical deployments & gives recommendations for standard practices](https://github.com/infracloudio/botkube?utm_sq=g3kb8d9oar) 
 - [Loki, the tail and grep for Kubernetes · Banzai Cloud](https://banzaicloud.com/blog/k8s-logging-loki/) 
 - [kinvolk/lokomotive-kubernetes: Lokomotive is a 100% open-source Kubernetes distribution from the folks at Kinvolk](https://github.com/kinvolk/lokomotive-kubernetes?utm_sq=g3kb57xr2m) 
+- [Installation (Linux, Containerized, or Kubernetes)](https://coreos.com/matchbox/docs/latest/deployment.html) 
 ### July 12, 2019 
 - [The Ultimate vSphere Virtual Machine Migration Guide - Ultimate vSphere Migration Guide](https://chipzoller.gitbook.io/vspheremigration/) 
 ### July 11, 2019 

@@ -9,6 +9,9 @@
 
 
 
+
+### July 18, 2019 
+- [JHero23/ruby-sinatra-starter-app: A starter project for Ruby On Sinatra web app projects to introduce programmers to Ruby programming](https://github.com/JHero23/ruby-sinatra-starter-app) 
 ### July 16, 2019 
 - [How to Set Up a Prometheus, Grafana and Alertmanager Monitoring Stack on DigitalOcean Kubernetes | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-prometheus-grafana-and-alertmanager-monitoring-stack-on-digitalocean-kubernetes) 
 ### July 15, 2019 

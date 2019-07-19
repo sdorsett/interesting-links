@@ -18,6 +18,7 @@
 - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html) 
 - [How To Flush Contents Of a Memcached Server Using Command Line - nixCraft](https://www.cyberciti.biz/faq/linux-unix-flush-contents-of-memcached-instance/) 
 - [Metrology/README.md at master · usnistgov/Metrology](https://github.com/usnistgov/Metrology/blob/master/Reaper/README.md) 
+- [Go In 5 Minutes - Short, helpful screencasts for professional Go developers](https://www.goin5minutes.com/screencast/episode_27_intro_to_modules/) 
 ### July 18, 2019 
 - [JHero23/ruby-sinatra-starter-app: A starter project for Ruby On Sinatra web app projects to introduce programmers to Ruby programming](https://github.com/JHero23/ruby-sinatra-starter-app) 
 - [knadh/listmonk: High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.](https://github.com/knadh/listmonk) 

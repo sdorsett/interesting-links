@@ -22,6 +22,7 @@
 - [hashicorp/hands-on-with-vault-on-kubernetes: Hands-on with Vault on Kubernetes Tutorial](https://github.com/hashicorp/hands-on-with-vault-on-kubernetes) 
 - [Kubernetes Deployments: The Ultimate Guide - Semaphore](https://semaphoreci.com/blog/kubernetes-deployment) 
 - [Automate vSphere Virtual Machine and OVA Appliance Deployments Using Ansible – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/07/18/automate-vsphere-virtual-machine-and-ova-appliance-deployments-using-ansible/) 
+- [Syncthing](https://syncthing.net/) 
 ### July 18, 2019 
 - [JHero23/ruby-sinatra-starter-app: A starter project for Ruby On Sinatra web app projects to introduce programmers to Ruby programming](https://github.com/JHero23/ruby-sinatra-starter-app) 
 - [knadh/listmonk: High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.](https://github.com/knadh/listmonk) 

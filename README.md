@@ -16,6 +16,7 @@
 - [yamamoto-febc/terraform-provider-rke: Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)](https://github.com/yamamoto-febc/terraform-provider-rke) 
 - [mcapuccini/terraform-openstack-rke: Terraform module to deploy Rancher Kubernetes Engine on OpenStack.](https://github.com/mcapuccini/terraform-openstack-rke) 
 - [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html) 
+- [How To Flush Contents Of a Memcached Server Using Command Line - nixCraft](https://www.cyberciti.biz/faq/linux-unix-flush-contents-of-memcached-instance/) 
 ### July 18, 2019 
 - [JHero23/ruby-sinatra-starter-app: A starter project for Ruby On Sinatra web app projects to introduce programmers to Ruby programming](https://github.com/JHero23/ruby-sinatra-starter-app) 
 - [knadh/listmonk: High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.](https://github.com/knadh/listmonk) 

@@ -14,6 +14,7 @@
 
 ### July 21, 2019 
 - [reneschoonrok/Kubernetes-3d-visualizer: Interact with your kubernetes cluster rendered in 3d using threejs and css3d](https://github.com/reneschoonrok/Kubernetes-3d-visualizer) 
+- [kubernetes-sigs/k8s-container-image-promoter: A tool to promote Docker images from one registry to another, based on a declarative YAML manifest](https://github.com/kubernetes-sigs/k8s-container-image-promoter) 
 ### July 19, 2019 
 - [brotandgames/ciao: HTTP checks & tests (private & public) monitoring - check the status of your URL](https://github.com/brotandgames/ciao) 
 - [yamamoto-febc/terraform-provider-rke: Terraform provider plugin for deploy kubernetes cluster by RKE(Rancher Kubernetes Engine)](https://github.com/yamamoto-febc/terraform-provider-rke) 

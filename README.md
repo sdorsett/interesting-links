@@ -12,6 +12,9 @@
 
 
 
+
+### July 26, 2019 
+- [Kubernetes Operators with Ansible Deep Dive: Part 1](https://www.ansible.com/blog/kubernetes-operators-ansible-deep-dive-part-1) 
 ### July 21, 2019 
 - [reneschoonrok/Kubernetes-3d-visualizer: Interact with your kubernetes cluster rendered in 3d using threejs and css3d](https://github.com/reneschoonrok/Kubernetes-3d-visualizer) 
 - [kubernetes-sigs/k8s-container-image-promoter: A tool to promote Docker images from one registry to another, based on a declarative YAML manifest](https://github.com/kubernetes-sigs/k8s-container-image-promoter) 

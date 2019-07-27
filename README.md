@@ -13,6 +13,9 @@
 
 
 
+
+### July 27, 2019 
+- [Cookbook · stedolan/jq Wiki](https://github.com/stedolan/jq/wiki/Cookbook) 
 ### July 26, 2019 
 - [Kubernetes Operators with Ansible Deep Dive: Part 1](https://www.ansible.com/blog/kubernetes-operators-ansible-deep-dive-part-1) 
 - [Kubeval](https://kubeval.instrumenta.dev/) 

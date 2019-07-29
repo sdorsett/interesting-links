@@ -1,22 +1,7 @@
 # interesting-links
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### July 29, 2019 
-- [jbeda/kinecraft: Start to a Minecraft k8s operator](https://github.com/jbeda/kinecraft?utm_source=DevOps%27ish&utm_campaign=9fa31e596e-DEVOPSISH_138&utm_medium=email&utm_term=0_eab566bc9f-9fa31e596e-45838997) 
+- [jbeda/kinecraft: Start to a Minecraft k8s operator](https://github.com/jbeda/kinecraft
 ### July 27, 2019 
 - [Cookbook · stedolan/jq Wiki](https://github.com/stedolan/jq/wiki/Cookbook) 
 ### July 26, 2019 

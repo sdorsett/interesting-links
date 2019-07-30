@@ -1,5 +1,8 @@
 # interesting-links
 
+
+### July 30, 2019 
+- [lucperkins/strato: An all-in-one data service for microservices, FaaS functions, etc. gRPC and HTTP interfaces.](https://github.com/lucperkins/strato) 
 ### July 29, 2019 
 - [jbeda/kinecraft: Start to a Minecraft k8s operator](https://github.com/jbeda/kinecraft
 ### July 27, 2019 

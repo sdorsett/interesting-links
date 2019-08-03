@@ -4,6 +4,7 @@
 
 ### August 2, 2019 
 - [First steps with Govmomi](https://thebsdbox.co.uk/2019/07/04/First-steps-with-Govmomi/) 
+- [Enforcing a resource tagging strategy on AWS with Pulumi D2SI Blog](https://blog.d2si.io/2019/07/22/aws-tagging-strategy-pulumi/) 
 ### July 30, 2019 
 - [lucperkins/strato: An all-in-one data service for microservices, FaaS functions, etc. gRPC and HTTP interfaces.](https://github.com/lucperkins/strato) 
 ### July 29, 2019 

@@ -7,6 +7,7 @@
 - [Enforcing a resource tagging strategy on AWS with Pulumi D2SI Blog](https://blog.d2si.io/2019/07/22/aws-tagging-strategy-pulumi/) 
 - [How to write idempotent Bash scripts · Fatih Arslan](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/) 
 - [Goodbye Docker: Purging is Such Sweet Sorrow – zwischenzugs](https://zwischenzugs.com/2019/07/27/goodbye-docker-purging-is-such-sweet-sorrow/) 
+- [Automate vSphere Virtual Machine and OVA Appliance Deployments Using Ansible – SimplyGeek.co.uk](https://www.simplygeek.co.uk/2019/07/18/automate-vsphere-virtual-machine-and-ova-appliance-deployments-using-ansible/) 
 ### July 30, 2019 
 - [lucperkins/strato: An all-in-one data service for microservices, FaaS functions, etc. gRPC and HTTP interfaces.](https://github.com/lucperkins/strato) 
 ### July 29, 2019 

@@ -1,6 +1,9 @@
 # interesting-links
 
 
+
+### August 2, 2019 
+- [First steps with Govmomi](https://thebsdbox.co.uk/2019/07/04/First-steps-with-Govmomi/) 
 ### July 30, 2019 
 - [lucperkins/strato: An all-in-one data service for microservices, FaaS functions, etc. gRPC and HTTP interfaces.](https://github.com/lucperkins/strato) 
 ### July 29, 2019 

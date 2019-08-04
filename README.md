@@ -5,6 +5,7 @@
 
 ### August 4, 2019 
 - [Fast and flexible observability with canonical log lines](https://stripe.com/gb/blog/canonical-log-lines) 
+- [Writing Your First Kubernetes Operator - Faun - Medium](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234) 
 ### August 2, 2019 
 - [First steps with Govmomi](https://thebsdbox.co.uk/2019/07/04/First-steps-with-Govmomi/) 
 - [Enforcing a resource tagging strategy on AWS with Pulumi D2SI Blog](https://blog.d2si.io/2019/07/22/aws-tagging-strategy-pulumi/) 

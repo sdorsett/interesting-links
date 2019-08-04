@@ -14,6 +14,7 @@
 - [Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko](https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger) 
 - [Setting up reverse proxies with NGINX | Enable SysAdmin](https://www.redhat.com/sysadmin/setting-reverse-proxies-nginx) 
 - [Decoding a Kubernetes Service Account Token - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/07/31/decoding-a-kubernetes-service-account-token/) 
+- [jedisct1/dsvpn: A Dead Simple VPN.](https://github.com/jedisct1/dsvpn) 
 ### August 2, 2019 
 - [First steps with Govmomi](https://thebsdbox.co.uk/2019/07/04/First-steps-with-Govmomi/) 
 - [Enforcing a resource tagging strategy on AWS with Pulumi D2SI Blog](https://blog.d2si.io/2019/07/22/aws-tagging-strategy-pulumi/) 

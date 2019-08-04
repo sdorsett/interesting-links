@@ -10,6 +10,7 @@
 - [Learn a little jq, awk and sed – Letters To A New Developer](https://letterstoanewdeveloper.com/2019/07/29/learn-a-little-jq-awk-and-sed/) 
 - [TailorDev/Watson: A wonderful CLI to track your time!](https://github.com/TailorDev/Watson) 
 - [deadpixi/mtm: Perhaps the smallest useful terminal multiplexer in the world.](https://github.com/deadpixi/mtm) 
+- [Auth0 Blog - Kubernetes Tutorial - Step by Step Introduction to Basic Concepts](https://auth0.com/blog/amp/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/) 
 ### August 2, 2019 
 - [First steps with Govmomi](https://thebsdbox.co.uk/2019/07/04/First-steps-with-Govmomi/) 
 - [Enforcing a resource tagging strategy on AWS with Pulumi D2SI Blog](https://blog.d2si.io/2019/07/22/aws-tagging-strategy-pulumi/) 

@@ -3,6 +3,9 @@
 
 
 
+
+### August 8, 2019 
+- [2 factor authentication for SSH](https://jjasghar.github.io/blog/2019/08/07/2-factor-authentication-for-ssh/) 
 ### August 4, 2019 
 - [Fast and flexible observability with canonical log lines](https://stripe.com/gb/blog/canonical-log-lines) 
 - [Writing Your First Kubernetes Operator - Faun - Medium](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234) 

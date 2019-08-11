@@ -14,6 +14,7 @@
 - [Syslog : The Complete System Administrator Guide – devconnected](https://devconnected.com/syslog-the-complete-system-administrator-guide/) 
 - [zalando-incubator/kopf: A Python framework to write Kubernetes operators in just few lines of code.](https://github.com/zalando-incubator/kopf) 
 - [lsix/README.md at master · hackerb9/lsix](https://github.com/hackerb9/lsix/blob/master/README.md) 
+- [Verifying Service Mesh TLS in Kubernetes, Using ksniff and Wireshark](https://blog.getambassador.io/verifying-service-mesh-tls-in-kubernetes-using-ksniff-and-wireshark-454b1e3f4dc9) 
 ### August 8, 2019 
 - [2 factor authentication for SSH](https://jjasghar.github.io/blog/2019/08/07/2-factor-authentication-for-ssh/) 
 ### August 4, 2019 

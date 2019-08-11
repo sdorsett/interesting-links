@@ -8,6 +8,7 @@
 ### August 11, 2019 
 - [Garden –](https://www.kartar.net/2019/08/garden/) 
 - [Running end-to-end tests on your Kubernetes cluster with Kind and Brigade](https://radu-matei.com/blog/kubernetes-e2e-kind-brigade/) 
+- [sampler/README.md at master · sqshq/sampler](https://github.com/sqshq/sampler/blob/master/README.md) 
 ### August 8, 2019 
 - [2 factor authentication for SSH](https://jjasghar.github.io/blog/2019/08/07/2-factor-authentication-for-ssh/) 
 ### August 4, 2019 

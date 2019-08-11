@@ -11,6 +11,7 @@
 - [sampler/README.md at master · sqshq/sampler](https://github.com/sqshq/sampler/blob/master/README.md) 
 - [Writing a Kubernetes Operator in Python without frameworks and SDK](https://medium.com/flant-com/kubernetes-operator-in-python-451f2d2e33f3) 
 - [octant/README.md at master · vmware/octant](https://github.com/vmware/octant/blob/master/README.md) 
+- [Syslog : The Complete System Administrator Guide – devconnected](https://devconnected.com/syslog-the-complete-system-administrator-guide/) 
 ### August 8, 2019 
 - [2 factor authentication for SSH](https://jjasghar.github.io/blog/2019/08/07/2-factor-authentication-for-ssh/) 
 ### August 4, 2019 

@@ -17,6 +17,7 @@
 - [Verifying Service Mesh TLS in Kubernetes, Using ksniff and Wireshark](https://blog.getambassador.io/verifying-service-mesh-tls-in-kubernetes-using-ksniff-and-wireshark-454b1e3f4dc9) 
 - [GTFOBins](https://gtfobins.github.io/) 
 - [$ docker build -f Mockerfile.yaml .](https://matt-rickard.com/building-a-new-dockerfile-frontend/) 
+- [Health Checks like a Pro - AppsFlyer - Medium](https://medium.com/appsflyer/health-checks-like-a-pro-3fa362942883) 
 ### August 8, 2019 
 - [2 factor authentication for SSH](https://jjasghar.github.io/blog/2019/08/07/2-factor-authentication-for-ssh/) 
 ### August 4, 2019 

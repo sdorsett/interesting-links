@@ -5,6 +5,9 @@
 
 
 
+
+### August 12, 2019 
+- [docker-debug/README.md at master · zeromake/docker-debug · GitHub](https://github.com/zeromake/docker-debug/blob/master/README.md) 
 ### August 11, 2019 
 - [Garden –](https://www.kartar.net/2019/08/garden/) 
 - [Running end-to-end tests on your Kubernetes cluster with Kind and Brigade](https://radu-matei.com/blog/kubernetes-e2e-kind-brigade/) 

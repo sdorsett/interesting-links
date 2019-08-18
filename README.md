@@ -9,6 +9,7 @@
 
 ### August 18, 2019 
 - [schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero?utm_source=DevOps%27ish&utm_campaign=916ec23130-DEVOPSISH_141&utm_medium=email&utm_term=0_eab566bc9f-916ec23130-45838997) 
+- [vmware/tern: Open Source compliance for containers](https://github.com/vmware/tern?utm_source=DevOps%27ish&utm_campaign=916ec23130-DEVOPSISH_141&utm_medium=email&utm_term=0_eab566bc9f-916ec23130-45838997) 
 ### August 12, 2019 
 - [docker-debug/README.md at master · zeromake/docker-debug · GitHub](https://github.com/zeromake/docker-debug/blob/master/README.md) 
 ### August 11, 2019 

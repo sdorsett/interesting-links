@@ -7,6 +7,9 @@
 
 
 
+
+### August 20, 2019 
+- [Kubernetes Journey — Up and running out of the cloud — Master and Worker](https://itnext.io/kubernetes-journey-up-and-running-out-of-the-cloud-master-and-worker-6328775b347f) 
 ### August 18, 2019 
 - [schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero?utm_source=DevOps%27ish&utm_campaign=916ec23130-DEVOPSISH_141&utm_medium=email&utm_term=0_eab566bc9f-916ec23130-45838997) 
 - [vmware/tern: Open Source compliance for containers](https://github.com/vmware/tern?utm_source=DevOps%27ish&utm_campaign=916ec23130-DEVOPSISH_141&utm_medium=email&utm_term=0_eab566bc9f-916ec23130-45838997) 

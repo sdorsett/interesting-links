@@ -11,6 +11,7 @@
 
 ### August 23, 2019 
 - [Kubernetes Visually - With VMware Octant - The IT Hollow](https://theithollow.com/2019/08/20/kubernetes-visually-with-vmware-octant/) 
+- [A quick look at Google's Kaniko project](https://blog.alexellis.io/quick-look-at-google-kaniko/) 
 ### August 20, 2019 
 - [Kubernetes Journey — Up and running out of the cloud — Master and Worker](https://itnext.io/kubernetes-journey-up-and-running-out-of-the-cloud-master-and-worker-6328775b347f) 
 - [GitHub - GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko) 

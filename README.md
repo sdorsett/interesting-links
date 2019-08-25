@@ -5,6 +5,7 @@
 - [Learn Kubernetes during your Coffee Break - Kubernetes Camp](https://k8s.camp/) 
 - [A journey from containerization to orchestration and beyond](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/) 
 - [google/kf: Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.](https://github.com/google/kf) 
+- [walmartlabs/kubeman: The Hero that Kubernetes deserves](https://github.com/walmartlabs/kubeman) 
 ### August 23, 2019 
 - [Kubernetes Visually - With VMware Octant - The IT Hollow](https://theithollow.com/2019/08/20/kubernetes-visually-with-vmware-octant/) 
 - [A quick look at Google's Kaniko project](https://blog.alexellis.io/quick-look-at-google-kaniko/) 

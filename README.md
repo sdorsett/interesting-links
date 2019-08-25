@@ -7,6 +7,7 @@
 - [google/kf: Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.](https://github.com/google/kf) 
 - [walmartlabs/kubeman: The Hero that Kubernetes deserves](https://github.com/walmartlabs/kubeman) 
 - [Introducing nushell](http://www.jonathanturner.org/2019/08/introducing-nushell.html) 
+- [stellarproject/atlas: Simple DNS Service](https://github.com/stellarproject/atlas) 
 ### August 23, 2019 
 - [Kubernetes Visually - With VMware Octant - The IT Hollow](https://theithollow.com/2019/08/20/kubernetes-visually-with-vmware-octant/) 
 - [A quick look at Google's Kaniko project](https://blog.alexellis.io/quick-look-at-google-kaniko/) 

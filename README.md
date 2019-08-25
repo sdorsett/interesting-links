@@ -13,6 +13,7 @@
 ### August 25, 2019 
 - [NDP Software :: Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) 
 - [Learn Kubernetes during your Coffee Break - Kubernetes Camp](https://k8s.camp/) 
+- [A journey from containerization to orchestration and beyond](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/?utm_source=DevOps%27ish&utm_campaign=061b106387-DEVOPSISH_142&utm_medium=email&utm_term=0_eab566bc9f-061b106387-45838997) 
 ### August 23, 2019 
 - [Kubernetes Visually - With VMware Octant - The IT Hollow](https://theithollow.com/2019/08/20/kubernetes-visually-with-vmware-octant/) 
 - [A quick look at Google's Kaniko project](https://blog.alexellis.io/quick-look-at-google-kaniko/) 

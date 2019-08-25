@@ -9,6 +9,7 @@
 - [Introducing nushell](http://www.jonathanturner.org/2019/08/introducing-nushell.html) 
 - [stellarproject/atlas: Simple DNS Service](https://github.com/stellarproject/atlas) 
 - [pivotal/kpack: Build Service resource controllers](https://github.com/pivotal/kpack) 
+- [Introducing kpack, a Kubernetes Native Container Build Service](https://content.pivotal.io/blog/introducing-kpack-a-kubernetes-native-container-build-service) 
 ### August 23, 2019 
 - [Kubernetes Visually - With VMware Octant - The IT Hollow](https://theithollow.com/2019/08/20/kubernetes-visually-with-vmware-octant/) 
 - [A quick look at Google's Kaniko project](https://blog.alexellis.io/quick-look-at-google-kaniko/) 

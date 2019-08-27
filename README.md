@@ -1,5 +1,8 @@
 # interesting-links
 
+
+### August 27, 2019 
+- [GitHub - jjasghar/vcenter-3-tier-terraform: An example of using terraform to spin up a 3 tier app](https://github.com/jjasghar/vcenter-3-tier-terraform) 
 ### August 25, 2019 
 - [NDP Software :: Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) 
 - [Learn Kubernetes during your Coffee Break - Kubernetes Camp](https://k8s.camp/) 

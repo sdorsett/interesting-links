@@ -6,6 +6,7 @@
 - [Mutual Auto-Unseal Two Vault clusters in Kubernetes](https://itnext.io/mutual-auto-unseal-two-vault-clusters-in-kubernetes-465516da98f8) 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) 
 - [kubernetes-sigs/cluster-api: Home for the Cluster Management API work, a subproject of sig-cluster-lifecycle](https://github.com/kubernetes-sigs/cluster-api) 
+- [Bootstrapping a Kubernetes Cluster on AWS with Cluster API - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/08/27/bootstrapping-a-kubernetes-cluster-on-aws-with-clusterapi/) 
 ### August 27, 2019 
 - [GitHub - jjasghar/vcenter-3-tier-terraform: An example of using terraform to spin up a 3 tier app](https://github.com/jjasghar/vcenter-3-tier-terraform) 
 ### August 25, 2019 

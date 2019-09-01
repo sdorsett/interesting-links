@@ -9,6 +9,7 @@
 - [Bootstrapping a Kubernetes Cluster on AWS with Cluster API - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/08/27/bootstrapping-a-kubernetes-cluster-on-aws-with-clusterapi/) 
 - [fcsonline/drill: Drill is a HTTP load testing application written in Rust inspired by Ansible syntax](https://github.com/fcsonline/drill) 
 - [An Introduction to Kubernetes Cluster API - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/08/26/an-introduction-to-kubernetes-cluster-api/) 
+- [abonas/kubeclient: A Ruby client for Kubernetes REST API](https://github.com/abonas/kubeclient) 
 ### August 27, 2019 
 - [GitHub - jjasghar/vcenter-3-tier-terraform: An example of using terraform to spin up a 3 tier app](https://github.com/jjasghar/vcenter-3-tier-terraform) 
 ### August 25, 2019 

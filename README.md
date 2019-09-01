@@ -14,6 +14,7 @@
 - [Introducing DepC: the OVH platform for computing QoS | OVHcloud Blog](https://www.ovh.com/blog/introducing-depc-the-ovh-platform-for-computing-qos/) 
 - [Sugar Labs](https://sugarlabs.org/) 
 - [aquasecurity/trivy: A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/aquasecurity/trivy) 
+- [Courses - Kubernetes Academy](https://kubernetes.academy/courses) 
 ### August 27, 2019 
 - [GitHub - jjasghar/vcenter-3-tier-terraform: An example of using terraform to spin up a 3 tier app](https://github.com/jjasghar/vcenter-3-tier-terraform) 
 ### August 25, 2019 

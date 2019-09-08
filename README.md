@@ -6,6 +6,7 @@
 ### September 8, 2019 
 - [Creating a PostgreSQL Cluster with Kubernetes CRDs](https://info.crunchydata.com/blog/creating-a-postgresql-cluster-with-kubernetes-crds) 
 - [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29) 
+- [Dqlite - High-Availability SQLite](https://dqlite.io/?utm_source=DevOps%27ish&utm_campaign=cad666148a-DEVOPSISH_144&utm_medium=email&utm_term=0_eab566bc9f-cad666148a-45838997) 
 ### September 1, 2019 
 - [Mutual Auto-Unseal Two Vault clusters in Kubernetes](https://itnext.io/mutual-auto-unseal-two-vault-clusters-in-kubernetes-465516da98f8) 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) 

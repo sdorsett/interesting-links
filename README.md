@@ -2,6 +2,9 @@
 
 
 
+
+### September 8, 2019 
+- [Creating a PostgreSQL Cluster with Kubernetes CRDs](https://info.crunchydata.com/blog/creating-a-postgresql-cluster-with-kubernetes-crds) 
 ### September 1, 2019 
 - [Mutual Auto-Unseal Two Vault clusters in Kubernetes](https://itnext.io/mutual-auto-unseal-two-vault-clusters-in-kubernetes-465516da98f8) 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) 

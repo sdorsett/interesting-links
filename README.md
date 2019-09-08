@@ -9,6 +9,7 @@
 - [Dqlite - High-Availability SQLite](https://dqlite.io/) 
 - [Curl Cookbook](https://catonmat.net/cookbooks/curl) 
 - [Introduction - The Cluster API Book](https://cluster-api.sigs.k8s.io/introduction.html) 
+- [timberio/vector: A High-Performance, Logs, Metrics, & Events Router](https://github.com/timberio/vector) 
 ### September 1, 2019 
 - [Mutual Auto-Unseal Two Vault clusters in Kubernetes](https://itnext.io/mutual-auto-unseal-two-vault-clusters-in-kubernetes-465516da98f8) 
 - [kubernetes-sigs/cluster-api-provider-openstack](https://github.com/kubernetes-sigs/cluster-api-provider-openstack) 

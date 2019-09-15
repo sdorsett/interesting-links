@@ -3,6 +3,9 @@
 
 
 
+
+### September 15, 2019 
+- [If you’re not using SSH certificates you’re doing SSH wrong - smallstep](https://smallstep.com/blog/use-ssh-certificates/?utm_source=DevOps%27ish&utm_campaign=8bd4b37eb5-DEVOPSISH_145&utm_medium=email&utm_term=0_eab566bc9f-8bd4b37eb5-45838997) 
 ### September 8, 2019 
 - [Creating a PostgreSQL Cluster with Kubernetes CRDs](https://info.crunchydata.com/blog/creating-a-postgresql-cluster-with-kubernetes-crds) 
 - [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29) 

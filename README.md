@@ -9,6 +9,7 @@
 - [Kubernetes and Python | SRCco.de](https://srcco.de/posts/kubernetes-and-python.html) 
 - [Input Output Redirection on Linux Explained – devconnected](https://devconnected.com/input-output-redirection-on-linux-explained/) 
 - [kubesphere/kubesphere: Easy-to-use Production Ready Container Management Platform](https://github.com/kubesphere/kubesphere) 
+- [ameerthehacker/kubelive: Kubernetes command line tool to provide live data about the cluster and it's resources](https://github.com/ameerthehacker/kubelive) 
 ### September 8, 2019 
 - [Creating a PostgreSQL Cluster with Kubernetes CRDs](https://info.crunchydata.com/blog/creating-a-postgresql-cluster-with-kubernetes-crds) 
 - [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29) 

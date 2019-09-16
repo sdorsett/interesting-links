@@ -4,6 +4,9 @@
 
 
 
+
+### September 16, 2019 
+- [Github Actions That Commit to Github · garethr.dev](https://garethr.dev/2019/09/github-actions-that-commit-to-github/) 
 ### September 15, 2019 
 - [If you’re not using SSH certificates you’re doing SSH wrong - smallstep](https://smallstep.com/blog/use-ssh-certificates) 
 - [Kubernetes and Python | SRCco.de](https://srcco.de/posts/kubernetes-and-python.html) 

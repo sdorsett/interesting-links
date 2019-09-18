@@ -5,6 +5,9 @@
 
 
 
+
+### September 18, 2019 
+- [GitHub - ChrisPhillips-cminion/LogEar: LogEar is a container that runs in kubernetes and allows access to the log of a single other container via a webpage. Multiple instances can be run if multiple container logs are required. LogEar works by calling the kubernetes API to access the logs on demand. The user initiates a request via HTTPs and this triggers the LogEar Go application inside of its container. The log is then returned to the HTTP requestor.](https://github.com/ChrisPhillips-cminion/LogEar) 
 ### September 16, 2019 
 - [Github Actions That Commit to Github · garethr.dev](https://garethr.dev/2019/09/github-actions-that-commit-to-github/) 
 ### September 15, 2019 

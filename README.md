@@ -6,6 +6,9 @@
 
 
 
+
+### September 19, 2019 
+- [Tcpdump Examples - 22 Tactical Commands | HackerTarget.com](https://hackertarget.com/tcpdump-examples/) 
 ### September 18, 2019 
 - [GitHub - ChrisPhillips-cminion/LogEar: LogEar is a container that runs in kubernetes and allows access to the log of a single other container via a webpage. Multiple instances can be run if multiple container logs are required. LogEar works by calling the kubernetes API to access the logs on demand. The user initiates a request via HTTPs and this triggers the LogEar Go application inside of its container. The log is then returned to the HTTP requestor.](https://github.com/ChrisPhillips-cminion/LogEar) 
 ### September 16, 2019 

@@ -10,6 +10,7 @@
 
 ### September 20, 2019 
 - [PokéAPI](https://pokeapi.co/) 
+- [terraform-provider-pokemon/README.md at master · salaxander/terraform-provider-pokemon · GitHub](https://github.com/salaxander/terraform-provider-pokemon/blob/master/README.md) 
 ### September 19, 2019 
 - [Tcpdump Examples - 22 Tactical Commands | HackerTarget.com](https://hackertarget.com/tcpdump-examples/) 
 ### September 18, 2019 

@@ -14,6 +14,7 @@
 - [Study guide for the Certified Kubernetes Administrator (CKA) exam](https://blog.autsoft.hu/certified-kubernetes-administrator/) 
 - [GitHub - Mirantis/k8s-netchecker-server: Basic network checker service to check DNS and connectivity in kubernetes cluster](https://github.com/Mirantis/k8s-netchecker-server) 
 - [mimic/README.md at master · bwplotka/mimic · GitHub](https://github.com/bwplotka/mimic/blob/master/README.md) 
+- [Terraform Puppet Provisioner – Green Reed Technology](https://www.greenreedtech.com/terraform-puppet-provisioner/) 
 ### September 23, 2019 
 - [Shaper Tools](https://www.shapertools.com/) 
 ### September 20, 2019 

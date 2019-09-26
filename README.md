@@ -9,6 +9,9 @@
 
 
 
+
+### September 26, 2019 
+- [Study guide for the Certified Kubernetes Administrator (CKA) exam](https://blog.autsoft.hu/certified-kubernetes-administrator/) 
 ### September 23, 2019 
 - [Shaper Tools](https://www.shapertools.com/) 
 ### September 20, 2019 

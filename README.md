@@ -10,6 +10,9 @@
 
 
 
+
+### September 27, 2019 
+- [Presto | Distributed SQL Query Engine for Big Data](https://prestodb.github.io/) 
 ### September 26, 2019 
 - [Study guide for the Certified Kubernetes Administrator (CKA) exam](https://blog.autsoft.hu/certified-kubernetes-administrator/) 
 - [GitHub - Mirantis/k8s-netchecker-server: Basic network checker service to check DNS and connectivity in kubernetes cluster](https://github.com/Mirantis/k8s-netchecker-server) 

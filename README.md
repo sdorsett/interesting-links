@@ -15,6 +15,7 @@
 - [GitHub - Mirantis/k8s-netchecker-server: Basic network checker service to check DNS and connectivity in kubernetes cluster](https://github.com/Mirantis/k8s-netchecker-server) 
 - [mimic/README.md at master · bwplotka/mimic · GitHub](https://github.com/bwplotka/mimic/blob/master/README.md) 
 - [Terraform Puppet Provisioner – Green Reed Technology](https://www.greenreedtech.com/terraform-puppet-provisioner/) 
+- [Exploring Cluster API v1alpha2 Manifests - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/09/26/exploring-cluster-api-v1alpha2-manifests/) 
 ### September 23, 2019 
 - [Shaper Tools](https://www.shapertools.com/) 
 ### September 20, 2019 

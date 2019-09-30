@@ -14,6 +14,7 @@
 
 ### September 30, 2019 
 - [cinc · GitLab](https://gitlab.com/cinc-project) 
+- [A beginner's guide to network troubleshooting in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux) 
 ### September 27, 2019 
 - [Presto | Distributed SQL Query Engine for Big Data](https://prestodb.github.io/) 
 ### September 26, 2019 

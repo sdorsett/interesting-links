@@ -15,6 +15,7 @@
 ### September 30, 2019 
 - [cinc · GitLab](https://gitlab.com/cinc-project) 
 - [A beginner's guide to network troubleshooting in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux) 
+- [Blog @ Codonomics: Essential Vim For CKAD Or CKA Exam](https://blog.codonomics.com/2019/09/essential-vim-for-ckad-or-cka-exam.html) 
 ### September 27, 2019 
 - [Presto | Distributed SQL Query Engine for Big Data](https://prestodb.github.io/) 
 ### September 26, 2019 

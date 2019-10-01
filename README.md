@@ -17,6 +17,7 @@
 - [GitHub - AliyunContainerService/kube-eventer: kube-eventer emit kubernetes events to sinks](https://github.com/AliyunContainerService/kube-eventer) 
 - [Blog @ Codonomics: Essential Tmux for CKAD or CKA Exam](https://blog.codonomics.com/2019/09/essential-tmux-for-ckad-or-cka-exam.html) 
 - [The Kubernetes Learning Resources List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/htmlview) 
+- [Writing a Kubernetes Operator in Python without frameworks and SDK](https://medium.com/flant-com/kubernetes-operator-in-python-451f2d2e33f3) 
 ### September 30, 2019 
 - [cinc · GitLab](https://gitlab.com/cinc-project) 
 - [A beginner's guide to network troubleshooting in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux) 

@@ -15,6 +15,7 @@
 
 ### October 1, 2019 
 - [GitHub - AliyunContainerService/kube-eventer: kube-eventer emit kubernetes events to sinks](https://github.com/AliyunContainerService/kube-eventer) 
+- [Blog @ Codonomics: Essential Tmux for CKAD or CKA Exam](https://blog.codonomics.com/2019/09/essential-tmux-for-ckad-or-cka-exam.html) 
 ### September 30, 2019 
 - [cinc · GitLab](https://gitlab.com/cinc-project) 
 - [A beginner's guide to network troubleshooting in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/beginners-guide-network-troubleshooting-linux) 

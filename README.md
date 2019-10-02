@@ -13,6 +13,9 @@
 
 
 
+
+### October 2, 2019 
+- [Automating VDI Template Creation with VMware Code Stream and HashiCorp Packer – Part 1: Building Windows | virtualhobbit](https://virtualhobbit.com/2019/10/01/automating-vdi-template-creation-with-vmware-code-stream-and-hashicorp-packer-part-1-building-windows/) 
 ### October 1, 2019 
 - [GitHub - AliyunContainerService/kube-eventer: kube-eventer emit kubernetes events to sinks](https://github.com/AliyunContainerService/kube-eventer) 
 - [Blog @ Codonomics: Essential Tmux for CKAD or CKA Exam](https://blog.codonomics.com/2019/09/essential-tmux-for-ckad-or-cka-exam.html) 

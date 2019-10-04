@@ -20,6 +20,7 @@
 - [Building containers in Jenkins with Kaniko](https://brokenco.de/2019/10/03/kanikosan.html) 
 - [GitHub - weaveworks/wksctl: Open Source Weaveworks Kubernetes System](https://github.com/weaveworks/wksctl) 
 - [WKSctl - A New OSS Kubernetes Manager using GitOps](https://www.weave.works/blog/wksctl-a-new-oss-kubernetes-manager-using-gitops) 
+- [GitHub - alexellis/inlets-operator: Get a public Kubernetes LoadBalancer for your local cluster](https://github.com/alexellis/inlets-operator) 
 ### October 2, 2019 
 - [Automating VDI Template Creation with VMware Code Stream and HashiCorp Packer – Part 1: Building Windows | virtualhobbit](https://virtualhobbit.com/2019/10/01/automating-vdi-template-creation-with-vmware-code-stream-and-hashicorp-packer-part-1-building-windows/) 
 ### October 1, 2019 

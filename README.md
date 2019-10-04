@@ -22,6 +22,7 @@
 - [WKSctl - A New OSS Kubernetes Manager using GitOps](https://www.weave.works/blog/wksctl-a-new-oss-kubernetes-manager-using-gitops) 
 - [GitHub - alexellis/inlets-operator: Get a public Kubernetes LoadBalancer for your local cluster](https://github.com/alexellis/inlets-operator) 
 - [Get a LoadBalancer for your private Kubernetes cluster](https://blog.alexellis.io/ingress-for-your-local-kubernetes-cluster/) 
+- [GitHub - alexellis/inlets: Expose your local endpoints to the Internet](https://github.com/alexellis/inlets) 
 ### October 2, 2019 
 - [Automating VDI Template Creation with VMware Code Stream and HashiCorp Packer – Part 1: Building Windows | virtualhobbit](https://virtualhobbit.com/2019/10/01/automating-vdi-template-creation-with-vmware-code-stream-and-hashicorp-packer-part-1-building-windows/) 
 ### October 1, 2019 

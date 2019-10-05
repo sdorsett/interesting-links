@@ -18,6 +18,7 @@
 
 ### October 5, 2019 
 - [Cruise Open Sources DSL Framework for Kubernetes - Container Journal](https://containerjournal.com/topics/container-ecosystems/cruise-open-sources-dsl-framework-for-kubernetes/) 
+- [70 Best Kubernetes Tutorials](https://www.aquasec.com/wiki/plugins/servlet/mobile?contentId=9601366#content/view/9601366) 
 ### October 4, 2019 
 - [A Gentle Introduction to Bayes Theorem for Machine Learning](https://machinelearningmastery.com/bayes-theorem-for-machine-learning/) 
 - [Building containers in Jenkins with Kaniko](https://brokenco.de/2019/10/03/kanikosan.html) 

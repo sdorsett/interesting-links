@@ -16,6 +16,9 @@
 
 
 
+
+### October 6, 2019 
+- [Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller) 
 ### October 5, 2019 
 - [Cruise Open Sources DSL Framework for Kubernetes - Container Journal](https://containerjournal.com/topics/container-ecosystems/cruise-open-sources-dsl-framework-for-kubernetes/) 
 - [70 Best Kubernetes Tutorials](https://www.aquasec.com/wiki/plugins/servlet/mobile?contentId=9601366#content/view/9601366) 

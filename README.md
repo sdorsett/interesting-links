@@ -20,6 +20,7 @@
 
 ### October 10, 2019 
 - [GitHub - kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder) 
+- [ClusterAPI for vSphere, now with CNS support - Blah, Cloud.](https://blah.cloud/kubernetes/clusterapi-for-vsphere-now-with-cns-support/) 
 ### October 6, 2019 
 - [Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller) 
 ### October 5, 2019 

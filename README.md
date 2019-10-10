@@ -26,6 +26,7 @@
 - [kpack/README.md at master · pivotal/kpack · GitHub](https://github.com/pivotal/kpack/blob/master/README.md) 
 - [Install LXD pure-container hypervisor on Ubuntu 18.04 LTS - nixCraft](https://www.cyberciti.biz/faq/install-lxd-pure-container-hypervisor-on-ubuntu-18-04-lts/) 
 - [Running rootless Podman as a non-root user | Enable Sysadmin](https://www.redhat.com/sysadmin/rootless-podman-makes-sense) 
+- [GitHub - instrumenta/conftest: Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/instrumenta/conftest) 
 ### October 6, 2019 
 - [Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller) 
 ### October 5, 2019 

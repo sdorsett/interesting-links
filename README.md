@@ -23,6 +23,7 @@
 - [ClusterAPI for vSphere, now with CNS support - Blah, Cloud.](https://blah.cloud/kubernetes/clusterapi-for-vsphere-now-with-cns-support/) 
 - [GitHub - vmware/pyvmomi-community-samples: A place for community contributed samples for the pyVmomi library.](https://github.com/vmware/pyvmomi-community-samples) 
 - [Announcing the Terraform Plugin SDK](https://www.hashicorp.com/blog/announcing-the-terraform-plugin-sdk) 
+- [kpack/README.md at master · pivotal/kpack · GitHub](https://github.com/pivotal/kpack/blob/master/README.md) 
 ### October 6, 2019 
 - [Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller) 
 ### October 5, 2019 

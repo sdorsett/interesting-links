@@ -27,6 +27,7 @@
 - [Install LXD pure-container hypervisor on Ubuntu 18.04 LTS - nixCraft](https://www.cyberciti.biz/faq/install-lxd-pure-container-hypervisor-on-ubuntu-18-04-lts/) 
 - [Running rootless Podman as a non-root user | Enable Sysadmin](https://www.redhat.com/sysadmin/rootless-podman-makes-sense) 
 - [GitHub - instrumenta/conftest: Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/instrumenta/conftest) 
+- [GitHub - chuckha/kubeyaml: Validate kubernetes yaml documents against the swagger definitions](https://github.com/chuckha/kubeyaml) 
 ### October 6, 2019 
 - [Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller) 
 ### October 5, 2019 

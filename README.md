@@ -28,6 +28,7 @@
 - [Running rootless Podman as a non-root user | Enable Sysadmin](https://www.redhat.com/sysadmin/rootless-podman-makes-sense) 
 - [GitHub - instrumenta/conftest: Write tests against structured configuration data using the Open Policy Agent Rego query language](https://github.com/instrumenta/conftest) 
 - [GitHub - chuckha/kubeyaml: Validate kubernetes yaml documents against the swagger definitions](https://github.com/chuckha/kubeyaml) 
+- [12 Kubernetes configuration best practices | StackRox](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/) 
 ### October 6, 2019 
 - [Inside of Kubernetes Controller - Speaker Deck](https://speakerdeck.com/govargo/inside-of-kubernetes-controller) 
 ### October 5, 2019 

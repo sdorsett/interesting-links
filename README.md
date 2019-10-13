@@ -25,6 +25,7 @@
 - [karydia/karydia: Kubernetes Security Walnut](https://github.com/karydia/karydia) 
 - [digitalocean/clusterlint: A best practices checker for Kubernetes clusters. 🤠](https://github.com/digitalocean/clusterlint) 
 - [Adventures in the Terraform DSL, Part VIII: The Puppet provisioner | Alex Harvey](https://alexharv074.github.io//2019/10/12/adventures-in-the-terraform-dsl-part-viii-the-puppet-provisioner.html) 
+- [Firekube - Fast and Secure Kubernetes Clusters Using Weave Ignite](https://www.weave.works/blog/firekube-fast-and-secure-kubernetes-clusters-using-weave-ignite) 
 ### October 10, 2019 
 - [GitHub - kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder) 
 - [ClusterAPI for vSphere, now with CNS support - Blah, Cloud.](https://blah.cloud/kubernetes/clusterapi-for-vsphere-now-with-cns-support/) 

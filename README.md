@@ -22,6 +22,7 @@
 ### October 13, 2019 
 - [20+ basic Algorithms Problems from Coding Interviews - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76) 
 - [salesforce/sloop: Kubernetes History Visualization](https://github.com/salesforce/sloop) 
+- [karydia/karydia: Kubernetes Security Walnut](https://github.com/karydia/karydia) 
 ### October 10, 2019 
 - [GitHub - kubernetes-sigs/kubebuilder: Kubebuilder - SDK for building Kubernetes APIs using CRDs](https://github.com/kubernetes-sigs/kubebuilder) 
 - [ClusterAPI for vSphere, now with CNS support - Blah, Cloud.](https://blah.cloud/kubernetes/clusterapi-for-vsphere-now-with-cns-support/) 

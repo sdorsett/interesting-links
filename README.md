@@ -22,6 +22,7 @@
 
 ### October 16, 2019 
 - [Kubernetes Web UIs in 2019 | SRCco.de](https://srcco.de/posts/kubernetes-web-uis-in-2019.html) 
+- [Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.3.0 documentation](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 
 ### October 13, 2019 
 - [20+ basic Algorithms Problems from Coding Interviews - DEV Community 👩‍💻👨‍💻](https://dev.to/javinpaul/20-basic-algorithms-problems-from-coding-interviews-4o76) 
 - [salesforce/sloop: Kubernetes History Visualization](https://github.com/salesforce/sloop) 

@@ -20,6 +20,9 @@
 
 
 
+
+### October 20, 2019 
+- [The beginners guide to creating Kubernetes manifests -- Prefetch Technologies](https://prefetch.net/blog/2019/10/16/the-beginners-guide-to-creating-kubernetes-manifests/) 
 ### October 16, 2019 
 - [Kubernetes Web UIs in 2019 | SRCco.de](https://srcco.de/posts/kubernetes-web-uis-in-2019.html) 
 - [Deep Learning with PyTorch: A 60 Minute Blitz — PyTorch Tutorials 1.3.0 documentation](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) 

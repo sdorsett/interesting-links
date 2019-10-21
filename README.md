@@ -25,6 +25,7 @@
 ### October 21, 2019 
 - [See A Satellite Tonight](https://james.darpinian.com/satellites/) 
 - [GitHub - mrlesmithjr/packer-builder: Packer Builder - Making Packer Building More Consumable](https://github.com/mrlesmithjr/packer-builder) 
+- [Using Kustomize with Kubeadm Configuration Files - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/10/16/using-kustomize-with-kubeadm-configuration-files/) 
 ### October 20, 2019 
 - [The beginners guide to creating Kubernetes manifests -- Prefetch Technologies](https://prefetch.net/blog/2019/10/16/the-beginners-guide-to-creating-kubernetes-manifests/) 
 ### October 16, 2019 

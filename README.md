@@ -28,6 +28,7 @@
 - [GitHub - mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) 
 - [GitHub - mrlesmithjr/packer-templates](https://github.com/mrlesmithjr/packer-templates) 
 - [GitHub - knrt10/kubernetes-basicLearning: Understand kubernetes step by step. A simple repo for beginners](https://github.com/knrt10/kubernetes-basicLearning) 
+- [GitHub - kubernetes-sigs/kustomize: Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize) 
 ### October 24, 2019 
 - [IOT: Pushing data to OVHcloud metrics timeseries from Arduino | OVHcloud Blog](https://www.ovh.com/blog/iot-pushing-data-to-ovhcloud-metrics-timeseries-from-arduino/) 
 ### October 21, 2019 

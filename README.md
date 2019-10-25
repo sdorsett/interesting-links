@@ -29,6 +29,7 @@
 - [GitHub - mrlesmithjr/packer-templates](https://github.com/mrlesmithjr/packer-templates) 
 - [GitHub - knrt10/kubernetes-basicLearning: Understand kubernetes step by step. A simple repo for beginners](https://github.com/knrt10/kubernetes-basicLearning) 
 - [GitHub - kubernetes-sigs/kustomize: Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize) 
+- [Migrating from Docker to Podman :: QuLogic](https://qulogic.gitlab.io/posts/2019-10-20-migrating-to-podman/) 
 ### October 24, 2019 
 - [IOT: Pushing data to OVHcloud metrics timeseries from Arduino | OVHcloud Blog](https://www.ovh.com/blog/iot-pushing-data-to-ovhcloud-metrics-timeseries-from-arduino/) 
 ### October 21, 2019 

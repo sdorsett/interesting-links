@@ -23,6 +23,9 @@
 
 
 
+
+### October 25, 2019 
+- [GitHub - mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) 
 ### October 24, 2019 
 - [IOT: Pushing data to OVHcloud metrics timeseries from Arduino | OVHcloud Blog](https://www.ovh.com/blog/iot-pushing-data-to-ovhcloud-metrics-timeseries-from-arduino/) 
 ### October 21, 2019 

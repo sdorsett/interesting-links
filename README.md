@@ -31,6 +31,7 @@
 - [GitHub - kubernetes-sigs/kustomize: Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize) 
 - [Migrating from Docker to Podman :: QuLogic](https://qulogic.gitlab.io/posts/2019-10-20-migrating-to-podman/) 
 - [Argo: Workflow Engine for Kubernetes - ITNEXT](https://itnext.io/argo-workflow-engine-for-kubernetes-7ae81eda1cc5) 
+- [GitHub - itaysk/kubectl-neat: Clean up Kuberntes yaml and json output to make it readable](https://github.com/itaysk/kubectl-neat?utm_sq=g6liv9l8av) 
 ### October 24, 2019 
 - [IOT: Pushing data to OVHcloud metrics timeseries from Arduino | OVHcloud Blog](https://www.ovh.com/blog/iot-pushing-data-to-ovhcloud-metrics-timeseries-from-arduino/) 
 ### October 21, 2019 

@@ -28,6 +28,7 @@
 ### October 28, 2019 
 - [Comparing Ingress controllers for Kubernetes - Flant - Medium](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) 
 - [dapr/README.md at master · dapr/dapr · GitHub](https://github.com/dapr/dapr/blob/master/README.md) 
+- [ClusterAPI — A Guide on How to Get Started - Product Development at Condé Nast International - Medium](https://medium.com/condenastengineering/clusterapi-a-guide-on-how-to-get-started-ff9a81262945) 
 ### October 25, 2019 
 - [GitHub - mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) 
 - [GitHub - mrlesmithjr/packer-templates](https://github.com/mrlesmithjr/packer-templates) 

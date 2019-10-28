@@ -24,6 +24,9 @@
 
 
 
+
+### October 28, 2019 
+- [Comparing Ingress controllers for Kubernetes - Flant - Medium](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) 
 ### October 25, 2019 
 - [GitHub - mrlesmithjr/vagrant-box-templates](https://github.com/mrlesmithjr/vagrant-box-templates) 
 - [GitHub - mrlesmithjr/packer-templates](https://github.com/mrlesmithjr/packer-templates) 

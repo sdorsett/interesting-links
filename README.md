@@ -28,6 +28,7 @@
 
 ### October 30, 2019 
 - [corkscrew/README.md at master · bryanpkc/corkscrew · GitHub](https://github.com/bryanpkc/corkscrew/blob/master/README.md) 
+- [Invoking the Kubernetes API in Node.js | Enda Phelan](https://endaphelan.me/guides/kubernetes/invoking-the-kubernetes-api-in-node/) 
 ### October 28, 2019 
 - [Comparing Ingress controllers for Kubernetes - Flant - Medium](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) 
 - [dapr/README.md at master · dapr/dapr · GitHub](https://github.com/dapr/dapr/blob/master/README.md) 

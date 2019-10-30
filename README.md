@@ -33,6 +33,7 @@
 - [GitHub - 3scale/kourier: 3scale Kourier is an Ingress for Knative Serving](https://github.com/3scale/kourier) 
 - [Programmatically Creating Kubernetes Manifests - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2019/10/29/programmatically-creating-kubernetes-manifests/) 
 - [How to prepare and pass Certified Kubernetes Administrator(CKA) exam](https://medium.com/@sovmirich/preparing-and-passing-the-certified-kubernetes-administrator-cka-exam-4a76fa4b1c4) 
+- [Linstor storage with Kubernetes | has_many :codes](https://vitobotta.com/2019/08/07/linstor-storage-with-kubernetes/) 
 ### October 28, 2019 
 - [Comparing Ingress controllers for Kubernetes - Flant - Medium](https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b) 
 - [dapr/README.md at master · dapr/dapr · GitHub](https://github.com/dapr/dapr/blob/master/README.md) 

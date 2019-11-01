@@ -26,6 +26,9 @@
 
 
 
+
+### November 1, 2019 
+- [Speak & Spell Texas Instruments simulator - Speak and Spell - retro toy emulator](https://www.speaknspell.co.uk/speaknspell.html) 
 ### October 30, 2019 
 - [corkscrew/README.md at master · bryanpkc/corkscrew · GitHub](https://github.com/bryanpkc/corkscrew/blob/master/README.md) 
 - [Invoking the Kubernetes API in Node.js | Enda Phelan](https://endaphelan.me/guides/kubernetes/invoking-the-kubernetes-api-in-node/) 

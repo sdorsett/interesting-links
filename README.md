@@ -33,6 +33,7 @@
 - [jlesquembre/kubeprompt: Kubernetes prompt](https://github.com/jlesquembre/kubeprompt) 
 - [Deploy Traefik as Ingress Controller - Phrenetic Coding](https://phrenetic.se/deploy-traefik-as-ingress-controller/) 
 - [OCIBuilder: An Easy Button for Building OCI Container Images | BlackRock Engineering](http://rockthecode.io/blog/ocibuilder-an-easy-button-for-building-oci-container-images/) 
+- [ocibuilder/ocibuilder: A tool to build OCI compliant images](https://github.com/ocibuilder/ocibuilder) 
 ### November 1, 2019 
 - [Speak & Spell Texas Instruments simulator - Speak and Spell - retro toy emulator](https://www.speaknspell.co.uk/speaknspell.html) 
 ### October 30, 2019 

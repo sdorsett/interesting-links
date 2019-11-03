@@ -30,6 +30,7 @@
 
 ### November 3, 2019 
 - [mxssl/sre-interview-prep-guide: Site Reliability Engineer Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide) 
+- [jlesquembre/kubeprompt: Kubernetes prompt](https://github.com/jlesquembre/kubeprompt) 
 ### November 1, 2019 
 - [Speak & Spell Texas Instruments simulator - Speak and Spell - retro toy emulator](https://www.speaknspell.co.uk/speaknspell.html) 
 ### October 30, 2019 

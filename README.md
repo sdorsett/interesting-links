@@ -29,6 +29,9 @@
 
 
 
+
+### November 6, 2019 
+- [GitHub - josenk/terraform-provider-esxi: Terraform-provider-esxi plugin](https://github.com/josenk/terraform-provider-esxi) 
 ### November 5, 2019 
 - [GitHub - ovh/utask: µTask is an automation engine that models and executes business processes declared as yaml. ✏️📋](https://github.com/ovh/utask) 
 ### November 3, 2019 

@@ -30,6 +30,9 @@
 
 
 
+
+### November 7, 2019 
+- [Building Container Images with Img - Giant Swarm](https://blog.giantswarm.io/building-container-images-with-img/) 
 ### November 6, 2019 
 - [GitHub - josenk/terraform-provider-esxi: Terraform-provider-esxi plugin](https://github.com/josenk/terraform-provider-esxi) 
 ### November 5, 2019 

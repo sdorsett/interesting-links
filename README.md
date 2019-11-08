@@ -38,6 +38,7 @@
 - [ynqa/ktop: top for k8s](https://github.com/ynqa/ktop) 
 - [Intermediate Python Tutorials – Real Python](https://realpython.com/tutorials/intermediate/) 
 - [bayard-search/bayard: Bayard is a full-text search and indexing server written in Rust.](https://github.com/bayard-search/bayard) 
+- [ngs-lang/ngs: Next Generation Shell (NGS)](https://github.com/ngs-lang/ngs) 
 ### November 6, 2019 
 - [GitHub - josenk/terraform-provider-esxi: Terraform-provider-esxi plugin](https://github.com/josenk/terraform-provider-esxi) 
 ### November 5, 2019 

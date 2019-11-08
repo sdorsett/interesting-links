@@ -33,6 +33,7 @@
 
 ### November 7, 2019 
 - [Building Container Images with Img - Giant Swarm](https://blog.giantswarm.io/building-container-images-with-img/) 
+- [(76) Automating "Network Ready for Use" Testing - YouTube](https://www.youtube.com/watch?reload=9&v=2_tZVWMVEUQ&feature=youtu.be) 
 ### November 6, 2019 
 - [GitHub - josenk/terraform-provider-esxi: Terraform-provider-esxi plugin](https://github.com/josenk/terraform-provider-esxi) 
 ### November 5, 2019 

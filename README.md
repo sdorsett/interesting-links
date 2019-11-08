@@ -36,6 +36,7 @@
 - [(76) Automating "Network Ready for Use" Testing - YouTube](https://www.youtube.com/watch?reload=9&v=2_tZVWMVEUQ&feature=youtu.be) 
 - [Getting started with Knative | Hubert Ströbitzer - YouTube](https://www.youtube.com/watch?time_continue=2207&v=uTc4lwqBCb8) 
 - [ynqa/ktop: top for k8s](https://github.com/ynqa/ktop) 
+- [Intermediate Python Tutorials – Real Python](https://realpython.com/tutorials/intermediate/) 
 ### November 6, 2019 
 - [GitHub - josenk/terraform-provider-esxi: Terraform-provider-esxi plugin](https://github.com/josenk/terraform-provider-esxi) 
 ### November 5, 2019 

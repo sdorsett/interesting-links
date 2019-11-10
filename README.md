@@ -37,6 +37,7 @@
 - [Stop Bashing Bash | Conjur](https://www.conjur.org/blog/stop-bashing-bash/) 
 - [sampointer/dy: Construct YAML from a directory tree](https://github.com/sampointer/dy) 
 - [Tikam02/DevOps-Guide: DevOps Guide from basic to advanced with Interview Questions and Notes 🔥](https://github.com/Tikam02/DevOps-Guide?utm_source=DevOps%27ish&utm_campaign=2a7f0f9f45-DEVOPSISH_153&utm_medium=email&utm_term=0_eab566bc9f-2a7f0f9f45-45838997) 
+- [gobuffalo/packr: The simple and easy way to embed static files into Go binaries.](https://github.com/gobuffalo/packr) 
 ### November 7, 2019 
 - [Building Container Images with Img - Giant Swarm](https://blog.giantswarm.io/building-container-images-with-img/) 
 - [(76) Automating "Network Ready for Use" Testing - YouTube](https://www.youtube.com/watch?reload=9&v=2_tZVWMVEUQ&feature=youtu.be) 

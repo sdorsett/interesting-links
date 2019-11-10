@@ -35,6 +35,7 @@
 ### November 10, 2019 
 - [Test-Driven Development (TDD) for Infrastructure - Speaker Deck](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) 
 - [Stop Bashing Bash | Conjur](https://www.conjur.org/blog/stop-bashing-bash/) 
+- [sampointer/dy: Construct YAML from a directory tree](https://github.com/sampointer/dy) 
 ### November 7, 2019 
 - [Building Container Images with Img - Giant Swarm](https://blog.giantswarm.io/building-container-images-with-img/) 
 - [(76) Automating "Network Ready for Use" Testing - YouTube](https://www.youtube.com/watch?reload=9&v=2_tZVWMVEUQ&feature=youtu.be) 

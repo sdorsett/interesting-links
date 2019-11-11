@@ -32,6 +32,9 @@
 
 
 
+
+### November 11, 2019 
+- [Connection Kit | Ableton](https://www.ableton.com/en/packs/connection-kit/) 
 ### November 10, 2019 
 - [Test-Driven Development (TDD) for Infrastructure - Speaker Deck](https://speakerdeck.com/joatmon08/test-driven-development-tdd-for-infrastructure) 
 - [Stop Bashing Bash | Conjur](https://www.conjur.org/blog/stop-bashing-bash/) 

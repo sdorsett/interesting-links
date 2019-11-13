@@ -33,6 +33,9 @@
 
 
 
+
+### November 13, 2019 
+- [System design hack: Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/) 
 ### November 11, 2019 
 - [Connection Kit | Ableton](https://www.ableton.com/en/packs/connection-kit/) 
 ### November 10, 2019 

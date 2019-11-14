@@ -34,6 +34,9 @@
 
 
 
+
+### November 14, 2019 
+- [Kubernetes for Full-Stack Developers, a self-guided course. | DigitalOcean](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) 
 ### November 13, 2019 
 - [System design hack: Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/) 
 ### November 11, 2019 

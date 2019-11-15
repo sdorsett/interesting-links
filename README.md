@@ -41,6 +41,7 @@
 - [Shell script to set up an LXD (Linux Containers) VM lab for testing purpose – nixCraft](https://bash.cyberciti.biz/virtualization/shell-script-to-setup-an-lxd-linux-containers-vm-lab-for-testing-purpose/) 
 - [70 Best Kubernetes Tutorials](https://www.aquasec.com/wiki/plugins/servlet/mobile?contentId=9601366#content/view/9601366) 
 - [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/) 
+- [Kubernetes production best practices](https://learnk8s.io/production-best-practices/) 
 ### November 13, 2019 
 - [System design hack: Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/) 
 ### November 11, 2019 

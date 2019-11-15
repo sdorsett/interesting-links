@@ -38,6 +38,7 @@
 
 ### November 15, 2019 
 - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/) 
+- [ishantanu/awesome-kubectl-plugins: Curated list of kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins#package-manager) 
 ### November 14, 2019 
 - [Kubernetes for Full-Stack Developers, a self-guided course. | DigitalOcean](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) 
 - [OpenShift 4.2 vSphere Install with Static IPs – Red Hat OpenShift Blog](https://blog.openshift.com/openshift-4-2-vsphere-install-with-static-ips/) 

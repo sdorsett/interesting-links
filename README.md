@@ -37,6 +37,7 @@
 
 ### November 14, 2019 
 - [Kubernetes for Full-Stack Developers, a self-guided course. | DigitalOcean](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers) 
+- [OpenShift 4.2 vSphere Install with Static IPs – Red Hat OpenShift Blog](https://blog.openshift.com/openshift-4-2-vsphere-install-with-static-ips/) 
 ### November 13, 2019 
 - [System design hack: Postgres is a great pub/sub & job server](https://layerci.com/blog/postgres-is-the-answer/) 
 ### November 11, 2019 

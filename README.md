@@ -40,6 +40,7 @@
 ### November 18, 2019 
 - [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) 
 - [The Language Agnostic, All-Purpose, Incredible, Makefile | Mindlessness](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) 
+- [Muzzle - silence embarrassing notifications](https://muzzleapp.com/) 
 ### November 15, 2019 
 - [Kubernetes production best practices](https://learnk8s.io/production-best-practices/) 
 - [ishantanu/awesome-kubectl-plugins: Curated list of kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins#package-manager) 

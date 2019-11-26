@@ -41,6 +41,7 @@
 ### November 26, 2019 
 - [Facebook Teams With Microsoft On Visual Studio Code's Remote Extensions - Slashdot](https://developers.slashdot.org/story/19/11/23/0117253/facebook-teams-with-microsoft-on-visual-studio-codes-remote-extensions?utm_source=rss1.0mainlinkanon&utm_medium=feed) 
 - [To run or not to run a database on Kubernetes: What to consider | Google Cloud Blog](https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider?utm_sq=g89fel0v2a) 
+- [How to set up a serious Kubernetes terminal - freeCodeCamp.org - Medium](https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4) 
 ### November 18, 2019 
 - [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) 
 - [The Language Agnostic, All-Purpose, Incredible, Makefile | Mindlessness](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) 

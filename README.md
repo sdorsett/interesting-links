@@ -45,6 +45,7 @@
 - [lamw/photonos-appliance](https://github.com/lamw/photonos-appliance) 
 - [Running Nested ESXi, NSX-V or NSX-T on top of NSX-T](https://www.virtuallyghetto.com/2019/11/running-nested-esxi-nsx-v-or-nsx-t-on-top-of-nsx-t.html) 
 - [Debug Services - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/?utm_sq=g89fua9i4d) 
+- [rumblesan/slowradio: A slow radio station](https://github.com/rumblesan/slowradio) 
 ### November 18, 2019 
 - [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) 
 - [The Language Agnostic, All-Purpose, Incredible, Makefile | Mindlessness](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) 

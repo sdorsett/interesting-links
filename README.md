@@ -41,6 +41,7 @@
 
 ### November 27, 2019 
 - [Know Kubernetes — Pictorially - Tarka Labs Blog - Medium](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0) 
+- [Continuous Improvements in Ansible and Kubernetes Automation](https://www.ansible.com/blog/continuous-improvements-in-ansible-and-kubernetes-automation?utm_source=DevOps%27ish&utm_campaign=3e0a36200e-EMAIL_CAMPAIGN_2019_11_24_02_47&utm_medium=email&utm_term=0_eab566bc9f-3e0a36200e-45838997) 
 ### November 26, 2019 
 - [Facebook Teams With Microsoft On Visual Studio Code's Remote Extensions - Slashdot](https://developers.slashdot.org/story/19/11/23/0117253/facebook-teams-with-microsoft-on-visual-studio-codes-remote-extensions?utm_source=rss1.0mainlinkanon&utm_medium=feed) 
 - [To run or not to run a database on Kubernetes: What to consider | Google Cloud Blog](https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider?utm_sq=g89fel0v2a) 

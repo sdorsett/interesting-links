@@ -38,6 +38,9 @@
 
 
 
+
+### November 27, 2019 
+- [Know Kubernetes — Pictorially - Tarka Labs Blog - Medium](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0) 
 ### November 26, 2019 
 - [Facebook Teams With Microsoft On Visual Studio Code's Remote Extensions - Slashdot](https://developers.slashdot.org/story/19/11/23/0117253/facebook-teams-with-microsoft-on-visual-studio-codes-remote-extensions?utm_source=rss1.0mainlinkanon&utm_medium=feed) 
 - [To run or not to run a database on Kubernetes: What to consider | Google Cloud Blog](https://cloud.google.com/blog/products/databases/to-run-or-not-to-run-a-database-on-kubernetes-what-to-consider?utm_sq=g89fel0v2a) 

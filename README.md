@@ -47,6 +47,7 @@
 - [Xpenology: The Definitive Guide (2019 Update)](https://xpenology.org/) 
 - [xpenology-docker/README.md at master · segator/xpenology-docker · GitHub](https://github.com/segator/xpenology-docker/blob/master/README.md) 
 - [Setting up a vSphere lab with CoreDNS in Docker – The Fluffy Admin](http://thefluffyadmin.net/?p=1427) 
+- [GitHub - BBVA/kvm: Simple Docker KVM container](https://github.com/BBVA/kvm) 
 ### November 27, 2019 
 - [Know Kubernetes — Pictorially - Tarka Labs Blog - Medium](https://medium.com/tarkalabs/know-kubernetes-pictorially-f6e6a0052dd0) 
 - [Continuous Improvements in Ansible and Kubernetes Automation](https://www.ansible.com/blog/continuous-improvements-in-ansible-and-kubernetes-automation?utm_source=DevOps%27ish&utm_campaign=3e0a36200e-EMAIL_CAMPAIGN_2019_11_24_02_47&utm_medium=email&utm_term=0_eab566bc9f-3e0a36200e-45838997) 

@@ -40,6 +40,9 @@
 
 
 
+
+### December 1, 2019 
+- [GitHub - localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!](https://github.com/localstack/localstack) 
 ### November 29, 2019 
 - [The beginners guide to creating Kubernetes manifests -- Prefetch Technologies](https://prefetch.net/blog/2019/10/16/the-beginners-guide-to-creating-kubernetes-manifests/) 
 - [Audit VM configuration changes using the vCenter Event Broker - Opvizor | Opvizor](https://www.opvizor.com/audit-vm-configuration-changes-using-the-vcenter-event-broker) 

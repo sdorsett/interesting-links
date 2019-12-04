@@ -41,6 +41,9 @@
 
 
 
+
+### December 3, 2019 
+- [GitHub - knrt10/kubernetes-basicLearning: Understand kubernetes step by step. A simple repo for beginners](https://github.com/knrt10/kubernetes-basicLearning) 
 ### December 1, 2019 
 - [GitHub - localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!](https://github.com/localstack/localstack) 
 - [GitHub - laurent22/joplin: Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/](https://github.com/laurent22/joplin?utm_source=DevOps%27ish&utm_campaign=d8be9201df-DEVOPSISH_156&utm_medium=email&utm_term=0_eab566bc9f-d8be9201df-45838997) 

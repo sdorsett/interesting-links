@@ -42,6 +42,9 @@
 
 
 
+
+### December 4, 2019 
+- [jq play](https://jqplay.org/jq?q=.&j=%22Hello%2C%20world!%22#) 
 ### December 3, 2019 
 - [GitHub - knrt10/kubernetes-basicLearning: Understand kubernetes step by step. A simple repo for beginners](https://github.com/knrt10/kubernetes-basicLearning) 
 ### December 1, 2019 

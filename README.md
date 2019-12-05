@@ -47,6 +47,7 @@
 ### December 5, 2019 
 - [Metaflow](https://metaflow.org/) 
 - [Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) 
+- [Automated Testing for Terraform, Docker, Packer, Kubernetes, and More](https://www.infoq.com/presentations/automated-testing-terraform-docker-packer/) 
 ### December 4, 2019 
 - [jq play](https://jqplay.org/jq?q=.&j=%22Hello%2C%20world!%22#) 
 ### December 3, 2019 

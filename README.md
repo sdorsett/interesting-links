@@ -52,6 +52,7 @@
 - [AWS DeepComposer](https://aws.amazon.com/deepcomposer/) 
 - [Lucid Index](https://selfhostedsource.tech/) 
 - [Leanote](http://leanote.org/) 
+- [GitHub - zadam/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium) 
 ### December 5, 2019 
 - [Metaflow](https://metaflow.org/) 
 - [Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) 

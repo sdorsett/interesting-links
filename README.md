@@ -50,6 +50,7 @@
 - [GitHub - cloudyuga/kubecon19-NA: Videos and slides on Kubecon'19 San Diego](https://github.com/cloudyuga/kubecon19-NA) 
 - [Infrastructure as Code, 2nd Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920294382.do) 
 - [AWS DeepComposer](https://aws.amazon.com/deepcomposer/) 
+- [Lucid Index](https://selfhostedsource.tech/) 
 ### December 5, 2019 
 - [Metaflow](https://metaflow.org/) 
 - [Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) 

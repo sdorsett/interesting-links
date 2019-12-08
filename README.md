@@ -55,6 +55,7 @@
 - [GitHub - zadam/trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium) 
 - [sysadvent: Day 5 - Break up your Terraform project before it breaks you](https://sysadvent.blogspot.com/2019/12/day-5-break-up-your-terraform-project.html?m=1) 
 - [SSH to remote hosts though a proxy or bastion with ProxyJump | Enable Sysadmin](https://www.redhat.com/sysadmin/ssh-proxy-bastion-proxyjump) 
+- [Structuring Your Project — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/) 
 ### December 5, 2019 
 - [Metaflow](https://metaflow.org/) 
 - [Google - Site Reliability Engineering](https://landing.google.com/sre/resources/practicesandprocesses/art-of-slos/) 

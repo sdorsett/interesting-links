@@ -48,6 +48,7 @@
 
 ### December 13, 2019 
 - [Announcing ctr.run: on-demand Docker builds - Scope - Medium](https://medium.com/scopedev/announcing-ctr-run-710d4c881ccf) 
+- [Docker File From Image | Reverse-engineer a Dockerfile from a Docker image.](https://laniksj.github.io/dfimage/) 
 ### December 7, 2019 
 - [AI Weirdness • Play AI Dungeon 2. Become a dragon. Eat the moon.](https://aiweirdness.com/post/189511103367/play-ai-dungeon-2-become-a-dragon-eat-the-moon) 
 - [GitHub - cloudyuga/kubecon19-NA: Videos and slides on Kubecon'19 San Diego](https://github.com/cloudyuga/kubecon19-NA) 

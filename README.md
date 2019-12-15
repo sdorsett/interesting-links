@@ -46,6 +46,9 @@
 
 
 
+
+### December 15, 2019 
+- [Jan-Piet Mens :: On building an Ansible training environment on FreeBSD](https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd/) 
 ### December 13, 2019 
 - [Announcing ctr.run: on-demand Docker builds - Scope - Medium](https://medium.com/scopedev/announcing-ctr-run-710d4c881ccf) 
 - [Docker File From Image | Reverse-engineer a Dockerfile from a Docker image.](https://laniksj.github.io/dfimage/) 

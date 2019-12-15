@@ -49,6 +49,7 @@
 
 ### December 15, 2019 
 - [Jan-Piet Mens :: On building an Ansible training environment on FreeBSD](https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd/) 
+- [docker-slim/docker-slim: DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)](https://github.com/docker-slim/docker-slim) 
 ### December 13, 2019 
 - [Announcing ctr.run: on-demand Docker builds - Scope - Medium](https://medium.com/scopedev/announcing-ctr-run-710d4c881ccf) 
 - [Docker File From Image | Reverse-engineer a Dockerfile from a Docker image.](https://laniksj.github.io/dfimage/) 

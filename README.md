@@ -52,6 +52,7 @@
 - [VEBA | Patrick Kremer](http://www.patrickkremer.com/veba/) 
 - [Cleafy/sxkdvm: SXKDVM - OSX Docker KVM / Run an OSX KVM virtual machine inside a Docker container.](https://github.com/Cleafy/sxkdvm) 
 - [kholia/OSX-KVM: Run macOS on QEMU/KVM. No support is provided at the moment.](https://github.com/kholia/OSX-KVM) 
+- [ananace/flexvolume-git-live: Live git checkouts as a flexvolume driver for Kubernetes](https://github.com/ananace/flexvolume-git-live) 
 ### December 15, 2019 
 - [Jan-Piet Mens :: On building an Ansible training environment on FreeBSD](https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd/) 
 - [docker-slim/docker-slim: DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)](https://github.com/docker-slim/docker-slim) 

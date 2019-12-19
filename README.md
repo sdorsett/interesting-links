@@ -47,6 +47,9 @@
 
 
 
+
+### December 18, 2019 
+- [VEBA | Patrick Kremer](http://www.patrickkremer.com/veba/) 
 ### December 15, 2019 
 - [Jan-Piet Mens :: On building an Ansible training environment on FreeBSD](https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd/) 
 - [docker-slim/docker-slim: DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)](https://github.com/docker-slim/docker-slim) 

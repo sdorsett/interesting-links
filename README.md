@@ -53,6 +53,7 @@
 - [Learning Python from Scratch - DEV Community](https://dev.to/azure/learning-python-from-scratch-getting-started-windows-40e9) 
 - [jellyfin/README.md at master · jellyfin/jellyfin · GitHub](https://github.com/jellyfin/jellyfin/blob/master/README.md) 
 - [GitHub - jellyfin/jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin) 
+- [GitHub - sl1pm4t/k2tf: Kubernetes YAML to Terraform HCL converter](https://github.com/sl1pm4t/k2tf) 
 ### December 18, 2019 
 - [VEBA | Patrick Kremer](http://www.patrickkremer.com/veba/) 
 - [Cleafy/sxkdvm: SXKDVM - OSX Docker KVM / Run an OSX KVM virtual machine inside a Docker container.](https://github.com/Cleafy/sxkdvm) 

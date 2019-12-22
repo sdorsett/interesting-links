@@ -52,6 +52,7 @@
 
 ### December 22, 2019 
 - [(76) The Path Less Traveled: Abusing Kubernetes Defaults - YouTube](https://www.youtube.com/watch?v=HmoVSmTIOxM&utm_source=DevOps%27ish&utm_campaign=947c0c7c20-DEVOPSISH_159&utm_medium=email&utm_term=0_eab566bc9f-947c0c7c20-45838997) 
+- [Ansible for Kubernetes - a book by Jeff Geerling](https://www.ansibleforkubernetes.com/?utm_source=DevOps%27ish&utm_campaign=947c0c7c20-DEVOPSISH_159&utm_medium=email&utm_term=0_eab566bc9f-947c0c7c20-45838997) 
 ### December 20, 2019 
 - [Learning Python from Scratch - DEV Community](https://dev.to/azure/learning-python-from-scratch-getting-started-windows-40e9) 
 - [jellyfin/README.md at master · jellyfin/jellyfin · GitHub](https://github.com/jellyfin/jellyfin/blob/master/README.md) 

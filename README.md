@@ -53,6 +53,7 @@
 
 ### December 23, 2019 
 - [stacker/README.md at master · anuvu/stacker · GitHub](https://github.com/anuvu/stacker/blob/master/README.md) 
+- [Guide to Build a CRUD API with Postgresql and Node.js With OpenFaaS - Civo.com](https://www.civo.com/learn/guide-to-build-a-crud-api-with-postgresl-and-node-js-with-openfaas) 
 ### December 22, 2019 
 - [(76) The Path Less Traveled: Abusing Kubernetes Defaults - YouTube](https://www.youtube.com/watch?v=HmoVSmTIOxM&utm_source=DevOps%27ish&utm_campaign=947c0c7c20-DEVOPSISH_159&utm_medium=email&utm_term=0_eab566bc9f-947c0c7c20-45838997) 
 - [Ansible for Kubernetes - a book by Jeff Geerling](https://www.ansibleforkubernetes.com/?utm_source=DevOps%27ish&utm_campaign=947c0c7c20-DEVOPSISH_159&utm_medium=email&utm_term=0_eab566bc9f-947c0c7c20-45838997) 

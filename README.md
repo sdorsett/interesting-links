@@ -56,6 +56,7 @@
 - [GitHub - packet-labs/iot](https://github.com/packet-labs/iot) 
 - [TinyGo 0.11 released with @Adafruit #PyBadge support #Go #TinyGo #Programming « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/12/24/tinygo-0-11-released-with-adafruit-pybadge-support-go-tinygo-programming/) 
 - [Free for developers](https://free-for.dev/#/) 
+- [Provision k3s on the fly with k3sup](https://sysadmins.co.za/provision-k3s-on-the-fly-with-k3sup/) 
 ### December 23, 2019 
 - [stacker/README.md at master · anuvu/stacker · GitHub](https://github.com/anuvu/stacker/blob/master/README.md) 
 - [Guide to Build a CRUD API with Postgresql and Node.js With OpenFaaS - Civo.com](https://www.civo.com/learn/guide-to-build-a-crud-api-with-postgresl-and-node-js-with-openfaas) 

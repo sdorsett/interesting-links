@@ -57,6 +57,7 @@
 - [Inlets](https://github.com/inlets/) 
 - [google/kf: Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.](https://github.com/google/kf) 
 - [chubaofs/chubaofs: A distributed storage system for cloud native applications to separate storage from compute.](https://github.com/chubaofs/chubaofs) 
+- [Bringing On-prem Kubernetes to Cloud Parity](https://charlescary.com/bringing-on-prem-kubernetes-to-cloud-parity/?utm_source=DevOps%27ish&utm_campaign=dd7c9d2d5a-DEVOPSISH_160&utm_medium=email&utm_term=0_eab566bc9f-dd7c9d2d5a-45838997) 
 ### December 26, 2019 
 - [GitHub - packet-labs/iot](https://github.com/packet-labs/iot) 
 - [TinyGo 0.11 released with @Adafruit #PyBadge support #Go #TinyGo #Programming « Adafruit Industries – Makers, hackers, artists, designers and engineers!](https://blog.adafruit.com/2019/12/24/tinygo-0-11-released-with-adafruit-pybadge-support-go-tinygo-programming/) 

@@ -57,6 +57,7 @@
 ### January 1, 2020 
 - [sugarkube/sugarkube: Ephemeral Kubernetes clusters](https://github.com/sugarkube/sugarkube) 
 - [Dapr - portable, event-driven, serverless runtime.](https://dapr.io/) 
+- [Inlets](https://github.com/inlets/) 
 ### December 29, 2019 
 - [Inlets](https://github.com/inlets/) 
 - [google/kf: Feels like Cloud Foundry. Runs on Kubernetes. Powered by Knative and Istio.](https://github.com/google/kf) 

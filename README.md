@@ -5,6 +5,7 @@
 - [Pretty git log in one line](https://ma.ttias.be/pretty-git-log-in-one-line/) 
 - [Getting Started with the Rust Programming Language - NetworkStatic | Brent Salisbury's Blog](http://networkstatic.net/getting-started-with-the-rust-programming-language/) 
 - [Debug Services - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/) 
+- [Get TLS for OpenFaaS the easy way with k3sup](https://blog.alexellis.io/tls-the-easy-way-with-openfaas-and-k3sup/) 
 ### January 1, 2020 
 - [sugarkube/sugarkube: Ephemeral Kubernetes clusters](https://github.com/sugarkube/sugarkube) 
 - [Dapr - portable, event-driven, serverless runtime.](https://dapr.io/) 

@@ -59,6 +59,7 @@
 - [cormachogan/vtopology: vtopology runs a combination of bash and Powershell/PowerCLI for displaying vSphere topology](https://github.com/cormachogan/vtopology) 
 - [Pretty git log in one line](https://ma.ttias.be/pretty-git-log-in-one-line/) 
 - [Getting Started with the Rust Programming Language - NetworkStatic | Brent Salisbury's Blog](http://networkstatic.net/getting-started-with-the-rust-programming-language/) 
+- [Debug Services - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/) 
 ### January 1, 2020 
 - [sugarkube/sugarkube: Ephemeral Kubernetes clusters](https://github.com/sugarkube/sugarkube) 
 - [Dapr - portable, event-driven, serverless runtime.](https://dapr.io/) 

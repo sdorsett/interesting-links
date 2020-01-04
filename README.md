@@ -7,6 +7,7 @@
 - [Debug Services - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-service/) 
 - [Get TLS for OpenFaaS the easy way with k3sup](https://blog.alexellis.io/tls-the-easy-way-with-openfaas-and-k3sup/) 
 - [Get TLS for OpenFaaS the easy way with k3sup](https://blog.alexellis.io/tls-the-easy-way-with-openfaas-and-k3sup/) 
+- [sheetfu/README.rst at master · socialpoint-labs/sheetfu](https://github.com/socialpoint-labs/sheetfu/blob/master/README.rst) 
 ### January 1, 2020 
 - [sugarkube/sugarkube: Ephemeral Kubernetes clusters](https://github.com/sugarkube/sugarkube) 
 - [Dapr - portable, event-driven, serverless runtime.](https://dapr.io/) 

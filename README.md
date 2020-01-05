@@ -3,6 +3,7 @@
 
 ### January 4, 2020 
 - [alexellis/go-execute: Automate commands with Go](https://github.com/alexellis/go-execute) 
+- [alexellis/faasd: faasd - serverless with containerd 🐳](https://github.com/alexellis/faasd) 
 ### January 3, 2020 
 - [cormachogan/vtopology: vtopology runs a combination of bash and Powershell/PowerCLI for displaying vSphere topology](https://github.com/cormachogan/vtopology) 
 - [Pretty git log in one line](https://ma.ttias.be/pretty-git-log-in-one-line/) 

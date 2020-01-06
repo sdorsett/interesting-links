@@ -5,6 +5,7 @@
 
 ### January 6, 2020 
 - [GitHub - synthesio/infra-ovh-ansible-module: An Ansible module that communicates with OVH API.](https://github.com/synthesio/infra-ovh-ansible-module) 
+- [media.ccc.de - The Great Escape of ESXi](https://media.ccc.de/v/36c3-10505-the_great_escape_of_esxi) 
 ### January 5, 2020 
 - [RQ: Simple job queues for Python](https://python-rq.org/) 
 ### January 4, 2020 

@@ -1,6 +1,9 @@
 # interesting-links
 
 
+
+### January 5, 2020 
+- [RQ: Simple job queues for Python](https://python-rq.org/) 
 ### January 4, 2020 
 - [alexellis/go-execute: Automate commands with Go](https://github.com/alexellis/go-execute) 
 - [alexellis/faasd: faasd - serverless with containerd 🐳](https://github.com/alexellis/faasd) 

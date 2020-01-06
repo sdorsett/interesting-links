@@ -2,6 +2,9 @@
 
 
 
+
+### January 6, 2020 
+- [GitHub - synthesio/infra-ovh-ansible-module: An Ansible module that communicates with OVH API.](https://github.com/synthesio/infra-ovh-ansible-module) 
 ### January 5, 2020 
 - [RQ: Simple job queues for Python](https://python-rq.org/) 
 ### January 4, 2020 

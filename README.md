@@ -9,6 +9,7 @@
 - [rakyll/govalidate: Validates your Go installation and dependencies.](https://github.com/rakyll/govalidate) 
 - [What exactly is being sent to Ubuntu in the MOTD?](https://ma.ttias.be/what-exactly-being-sent-ubuntu-motd/) 
 - [Broot](https://dystroy.org/broot/) 
+- [cube2222/jql: Easy JSON Query Processor with a Lispy syntax in Go](https://github.com/cube2222/jql) 
 ### January 6, 2020 
 - [GitHub - synthesio/infra-ovh-ansible-module: An Ansible module that communicates with OVH API.](https://github.com/synthesio/infra-ovh-ansible-module) 
 - [media.ccc.de - The Great Escape of ESXi](https://media.ccc.de/v/36c3-10505-the_great_escape_of_esxi) 

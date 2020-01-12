@@ -13,6 +13,7 @@
 - [Home - Rhasspy (pronounced RAH-SPEE) is an open source, fully offline voice assistant toolkit for many languages that works well with Home Assistant, Hass.io, and Node-RED.](https://rhasspy.readthedocs.io/en/latest/) 
 - [tchiotludo/kafkahq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...](https://github.com/tchiotludo/kafkahq) 
 - [satwikkansal/wtfpython: Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!](https://github.com/satwikkansal/wtfpython) 
+- [beenje/pi_openvpn: Ansible playbook to install OpenVPN on a Raspberry Pi](https://github.com/beenje/pi_openvpn) 
 ### January 6, 2020 
 - [GitHub - synthesio/infra-ovh-ansible-module: An Ansible module that communicates with OVH API.](https://github.com/synthesio/infra-ovh-ansible-module) 
 - [media.ccc.de - The Great Escape of ESXi](https://media.ccc.de/v/36c3-10505-the_great_escape_of_esxi) 

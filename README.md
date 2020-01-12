@@ -5,7 +5,7 @@
 
 
 ### January 12, 2020 
-- [kubectl tree: Visualize Kubernetes object ownership](https://ahmet.im/blog/kubectl-tree/?utm_source=DevOps%27ish&utm_campaign=868217865e-DEVOPSISH_162&utm_medium=email&utm_term=0_eab566bc9f-868217865e-45838997) 
+- [kubectl tree: Visualize Kubernetes object ownership](https://ahmet.im/blog/kubectl-tree/) 
 ### January 6, 2020 
 - [GitHub - synthesio/infra-ovh-ansible-module: An Ansible module that communicates with OVH API.](https://github.com/synthesio/infra-ovh-ansible-module) 
 - [media.ccc.de - The Great Escape of ESXi](https://media.ccc.de/v/36c3-10505-the_great_escape_of_esxi) 

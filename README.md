@@ -4,6 +4,9 @@
 
 
 
+
+### January 14, 2020 
+- [GitHub - trodemaster/packer-win-pc: packer.io templates & scripts for building private cloud optimized Windows OS images](https://github.com/trodemaster/packer-win-pc) 
 ### January 12, 2020 
 - [kubectl tree: Visualize Kubernetes object ownership](https://ahmet.im/blog/kubectl-tree/) 
 - [rakyll/govalidate: Validates your Go installation and dependencies.](https://github.com/rakyll/govalidate) 

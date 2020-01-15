@@ -9,6 +9,7 @@
 ### January 15, 2020 
 - [Work Is Work | codahale.com](https://codahale.com//work-is-work/) 
 - [The SQL Murder Mystery](https://mystery.knightlab.com/) 
+- [GitHub - trodemaster/packer-windows-10-insider: Packer template for windows 10 insider builds on VMware](https://github.com/trodemaster/packer-windows-10-insider) 
 ### January 14, 2020 
 - [GitHub - trodemaster/packer-win-pc: packer.io templates & scripts for building private cloud optimized Windows OS images](https://github.com/trodemaster/packer-win-pc) 
 ### January 12, 2020 

@@ -11,6 +11,7 @@
 - [The SQL Murder Mystery](https://mystery.knightlab.com/) 
 - [GitHub - trodemaster/packer-windows-10-insider: Packer template for windows 10 insider builds on VMware](https://github.com/trodemaster/packer-windows-10-insider) 
 - [Yocto Project – It's not an embedded Linux distribution – it creates a custom one for you](https://www.yoctoproject.org/) 
+- [Git Cheat Sheet for Beginners and Intermediates](https://bolajiayodeji.com/git-cheat-sheet-for-beginners-and-intermediates-cjvs6xuq4004uijs1s2rane3s) 
 ### January 14, 2020 
 - [GitHub - trodemaster/packer-win-pc: packer.io templates & scripts for building private cloud optimized Windows OS images](https://github.com/trodemaster/packer-win-pc) 
 ### January 12, 2020 

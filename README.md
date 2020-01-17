@@ -7,6 +7,9 @@
 
 
 
+
+### January 17, 2020 
+- [GitHub - terraform-providers/terraform-provider-ovh: Terraform OVH provider](https://github.com/terraform-providers/terraform-provider-ovh) 
 ### January 16, 2020 
 - [RetroPie and X-Arcade Tankstick - The perfect Retro Arcade (plus keybindings and config and how-to) - Scott Hanselman](https://www.hanselman.com/blog/RetroPieAndXArcadeTankstickThePerfectRetroArcadePlusKeybindingsAndConfigAndHowto.aspx) 
 ### January 15, 2020 

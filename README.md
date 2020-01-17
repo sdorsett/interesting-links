@@ -6,6 +6,9 @@
 
 
 
+
+### January 16, 2020 
+- [RetroPie and X-Arcade Tankstick - The perfect Retro Arcade (plus keybindings and config and how-to) - Scott Hanselman](https://www.hanselman.com/blog/RetroPieAndXArcadeTankstickThePerfectRetroArcadePlusKeybindingsAndConfigAndHowto.aspx) 
 ### January 15, 2020 
 - [Work Is Work | codahale.com](https://codahale.com//work-is-work/) 
 - [The SQL Murder Mystery](https://mystery.knightlab.com/) 

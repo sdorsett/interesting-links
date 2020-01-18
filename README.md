@@ -8,6 +8,9 @@
 
 
 
+
+### January 18, 2020 
+- [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 ### January 17, 2020 
 - [GitHub - terraform-providers/terraform-provider-ovh: Terraform OVH provider](https://github.com/terraform-providers/terraform-provider-ovh) 
 - [GitHub - ovh/terraform-ovh-commons: This repo contains commons resources to interact with OVH Public Cloud using Terraform.](https://github.com/ovh/terraform-ovh-commons) 

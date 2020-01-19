@@ -17,6 +17,7 @@
 - [jnoller/kubernaughty: IO, resource contention notes, docs and tools](https://github.com/jnoller/kubernaughty) 
 - [How Useful Is Ansible in a Cloud-Native Kubernetes Environment?](https://www.ansible.com/blog/how-useful-is-ansible-in-a-cloud-native-kubernetes-environment) 
 - [ibuildthecloud/k3c: Lightweight local container engine for container development](https://github.com/ibuildthecloud/k3c) 
+- [Auto-restart a crashed service in systemd](https://ma.ttias.be/auto-restart-crashed-service-systemd/) 
 ### January 18, 2020 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 - [Kubetools - Curated List of Kubernetes Tools | dockerlabs](http://dockerlabs.collabnix.com/kubernetes/kubetools/) 

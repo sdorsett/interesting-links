@@ -12,6 +12,7 @@
 
 ### January 19, 2020 
 - [netblue30/firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail?utm_source=DevOps%27ish&utm_campaign=049021ffb9-DEVOPSISH_163&utm_medium=email&utm_term=0_eab566bc9f-049021ffb9-45838997) 
+- [PrivateBin/PrivateBin: A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.](https://github.com/PrivateBin/PrivateBin?utm_source=DevOps%27ish&utm_campaign=049021ffb9-DEVOPSISH_163&utm_medium=email&utm_term=0_eab566bc9f-049021ffb9-45838997) 
 ### January 18, 2020 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 - [Kubetools - Curated List of Kubernetes Tools | dockerlabs](http://dockerlabs.collabnix.com/kubernetes/kubetools/) 

@@ -15,6 +15,7 @@
 - [PrivateBin/PrivateBin: A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.](https://github.com/PrivateBin/PrivateBin) 
 - [KubeVault v0.3.0 - Tools for running HashiCorp Vault on Kubernetes](https://blog.byte.builders/post/kubevault-v0.3.0) 
 - [jnoller/kubernaughty: IO, resource contention notes, docs and tools](https://github.com/jnoller/kubernaughty) 
+- [How Useful Is Ansible in a Cloud-Native Kubernetes Environment?](https://www.ansible.com/blog/how-useful-is-ansible-in-a-cloud-native-kubernetes-environment) 
 ### January 18, 2020 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 - [Kubetools - Curated List of Kubernetes Tools | dockerlabs](http://dockerlabs.collabnix.com/kubernetes/kubetools/) 

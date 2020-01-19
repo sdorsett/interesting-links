@@ -18,6 +18,7 @@
 - [How Useful Is Ansible in a Cloud-Native Kubernetes Environment?](https://www.ansible.com/blog/how-useful-is-ansible-in-a-cloud-native-kubernetes-environment) 
 - [ibuildthecloud/k3c: Lightweight local container engine for container development](https://github.com/ibuildthecloud/k3c) 
 - [Auto-restart a crashed service in systemd](https://ma.ttias.be/auto-restart-crashed-service-systemd/) 
+- [How to Run Commands on Multiple Linux Hosts Using PSSH](https://www.freecodecamp.org/news/running-commands-linux-hosts-using-pssh/) 
 ### January 18, 2020 
 - [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments) 
 - [Kubetools - Curated List of Kubernetes Tools | dockerlabs](http://dockerlabs.collabnix.com/kubernetes/kubetools/) 

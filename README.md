@@ -13,6 +13,7 @@
 
 ### January 22, 2020 
 - [pulsar-express, a web interface for Apache Pulsar - DEV Community 👩‍💻👨‍💻](https://dev.to/bbonnin/pulsar-express-a-web-interface-for-apache-pulsar-1lm) 
+- [(76) Serverless Functions with Alex Ellis of OpenFaaS: DevOps and Docker Live Show (Ep 68) - YouTube](https://www.youtube.com/watch?time_continue=328&v=5zDvjIkMf9I&feature=emb_logo) 
 ### January 19, 2020 
 - [netblue30/firejail: Linux namespaces and seccomp-bpf sandbox](https://github.com/netblue30/firejail) 
 - [PrivateBin/PrivateBin: A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.](https://github.com/PrivateBin/PrivateBin) 

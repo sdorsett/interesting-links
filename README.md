@@ -12,6 +12,9 @@
 
 
 
+
+### January 26, 2020 
+- [Introducing Trackman. Execute commands as a workflow.](https://blog.cloud66.com/introducing-trackman-execute-commands-as-a-workflow/) 
 ### January 23, 2020 
 - [Get HTTPS for your local endpoints with inlets and Caddy](https://blog.alexellis.io/https-inlets-local-endpoints/) 
 ### January 22, 2020 

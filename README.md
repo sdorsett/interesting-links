@@ -22,6 +22,7 @@
 - [drwetter/testssl.sh: Testing TLS/SSL encryption anywhere on any port](https://github.com/drwetter/testssl.sh) 
 - [https://people.redhat.com/~rjones/goals/README](https://people.redhat.com/~rjones/goals/README) 
 - [TLDR pages](https://tldr.sh/) 
+- [Big list of http static server one-liners](https://gist.github.com/willurd/5720255) 
 ### January 23, 2020 
 - [Get HTTPS for your local endpoints with inlets and Caddy](https://blog.alexellis.io/https-inlets-local-endpoints/) 
 ### January 22, 2020 

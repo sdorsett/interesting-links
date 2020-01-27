@@ -16,8 +16,8 @@
 ### January 26, 2020 
 - [Introducing Trackman. Execute commands as a workflow.](https://blog.cloud66.com/introducing-trackman-execute-commands-as-a-workflow/) 
 - [brendandburns/configula: Experimental configuration generator inspired by JSX](https://github.com/brendandburns/configula) 
-- [mimecast/dtail: DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.](https://github.com/mimecast/dtail?utm_source=DevOps%27ish&utm_campaign=4b410bc580-DEVOPSISH_164&utm_medium=email&utm_term=0_eab566bc9f-4b410bc580-45838997) 
-- [sighupio/permission-manager: Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW](https://github.com/sighupio/permission-manager?utm_source=DevOps%27ish&utm_campaign=4b410bc580-DEVOPSISH_164&utm_medium=email&utm_term=0_eab566bc9f-4b410bc580-45838997) 
+- [mimecast/dtail: DTail is a distributed DevOps tool for tailing, grepping, catting logs and other text files on many remote machines at once.](https://github.com/mimecast/dtail) 
+- [sighupio/permission-manager: Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW](https://github.com/sighupio/permission-manager) 
 - [bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization](https://github.com/bregman-arie/devops-exercises) 
 ### January 23, 2020 
 - [Get HTTPS for your local endpoints with inlets and Caddy](https://blog.alexellis.io/https-inlets-local-endpoints/) 

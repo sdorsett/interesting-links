@@ -20,6 +20,7 @@
 - [sighupio/permission-manager: Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management, Web UI FTW](https://github.com/sighupio/permission-manager) 
 - [bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization](https://github.com/bregman-arie/devops-exercises) 
 - [drwetter/testssl.sh: Testing TLS/SSL encryption anywhere on any port](https://github.com/drwetter/testssl.sh) 
+- [https://people.redhat.com/~rjones/goals/README](https://people.redhat.com/~rjones/goals/README) 
 ### January 23, 2020 
 - [Get HTTPS for your local endpoints with inlets and Caddy](https://blog.alexellis.io/https-inlets-local-endpoints/) 
 ### January 22, 2020 

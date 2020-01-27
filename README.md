@@ -24,6 +24,7 @@
 - [TLDR pages](https://tldr.sh/) 
 - [Big list of http static server one-liners](https://gist.github.com/willurd/5720255) 
 - [Scaling Uber’s Hadoop Distributed File System for Growth](https://eng.uber.com/scaling-hdfs/) 
+- [Pi-hole and OpenVPN Server](https://docs.pi-hole.net/guides/vpn/overview/) 
 ### January 23, 2020 
 - [Get HTTPS for your local endpoints with inlets and Caddy](https://blog.alexellis.io/https-inlets-local-endpoints/) 
 ### January 22, 2020 

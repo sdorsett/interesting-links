@@ -13,6 +13,9 @@
 
 
 
+
+### January 30, 2020 
+- [GitHub - ovh/celery-director: Simple and rapid framework to build workflows using Celery](https://github.com/ovh/celery-director) 
 ### January 26, 2020 
 - [Introducing Trackman. Execute commands as a workflow.](https://blog.cloud66.com/introducing-trackman-execute-commands-as-a-workflow/) 
 - [brendandburns/configula: Experimental configuration generator inspired by JSX](https://github.com/brendandburns/configula) 

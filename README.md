@@ -16,6 +16,7 @@
 
 ### January 30, 2020 
 - [GitHub - ovh/celery-director: Simple and rapid framework to build workflows using Celery](https://github.com/ovh/celery-director) 
+- [GitHub - ovh/celery-dyrygent: Celery extension which allows to orchestrate 100/1000/10000 tasks combined into a complex workflow](https://github.com/ovh/celery-dyrygent) 
 ### January 26, 2020 
 - [Introducing Trackman. Execute commands as a workflow.](https://blog.cloud66.com/introducing-trackman-execute-commands-as-a-workflow/) 
 - [brendandburns/configula: Experimental configuration generator inspired by JSX](https://github.com/brendandburns/configula) 

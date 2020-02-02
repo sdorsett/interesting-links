@@ -21,6 +21,7 @@
 - [ibuildthecloud/klum: Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum) 
 - [fabiolb/fabio: Consul Load-Balancing made simple](https://github.com/fabiolb/fabio) 
 - [shellhub-io/shellhub: ShellHub enables teams to easily access any Linux device behind firewall and NAT.](https://github.com/shellhub-io/shellhub) 
+- [whalebrew/whalebrew: Homebrew, but with Docker images](https://github.com/whalebrew/whalebrew) 
 ### January 30, 2020 
 - [GitHub - ovh/celery-director: Simple and rapid framework to build workflows using Celery](https://github.com/ovh/celery-director) 
 - [GitHub - ovh/celery-dyrygent: Celery extension which allows to orchestrate 100/1000/10000 tasks combined into a complex workflow](https://github.com/ovh/celery-dyrygent) 

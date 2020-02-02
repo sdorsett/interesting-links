@@ -18,6 +18,7 @@
 ### February 2, 2020 
 - [KubeOperator/webkubectl: Run kubectl command in Web Browser.](https://github.com/KubeOperator/webkubectl) 
 - [Behringer Neutron Patches](https://patch-library.net/patches?device=behringer-neutron) 
+- [ibuildthecloud/klum: Kubernetes Lazy User Manager](https://github.com/ibuildthecloud/klum) 
 ### January 30, 2020 
 - [GitHub - ovh/celery-director: Simple and rapid framework to build workflows using Celery](https://github.com/ovh/celery-director) 
 - [GitHub - ovh/celery-dyrygent: Celery extension which allows to orchestrate 100/1000/10000 tasks combined into a complex workflow](https://github.com/ovh/celery-dyrygent) 

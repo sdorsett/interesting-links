@@ -17,6 +17,9 @@
 
 
 
+
+### February 10, 2020 
+- [Alternatives for deprecated 'kubectl run' commands :: Kubernetes training](https://www.k8s-school.fr/resources/blog/1-kubectl-run-deprecated/) 
 ### February 9, 2020 
 - [cfgmgmtcamp 2020 - Slides - jen20.dev](https://jen20.dev/post/cfgmgmtcamp-2020-terraform-without-the-mess/) 
 - [k14s - Kubernetes Tools that follow Unix philosophy to be simple, and composable](https://k14s.io/) 

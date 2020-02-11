@@ -18,6 +18,9 @@
 
 
 
+
+### February 11, 2020 
+- [Examples of how to test the impact of the v1.16 API deprecations · GitHub](https://gist.github.com/jimangel/0014770713cdca8b363816930ef2520f) 
 ### February 10, 2020 
 - [Alternatives for deprecated 'kubectl run' commands :: Kubernetes training](https://www.k8s-school.fr/resources/blog/1-kubectl-run-deprecated/) 
 ### February 9, 2020 

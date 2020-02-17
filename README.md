@@ -23,6 +23,7 @@
 
 ### February 16, 2020 
 - [Quick Post: Visual Studio Code is now my Default SSH Client and Linux file Editor! - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/visual-studio-code-ssh-client/) 
+- [Refactoring Terraform, The Right Way. - DoiT International](https://blog.doit-intl.com/refactor-terraform-into-modules-the-right-way-7bce4d57d66a) 
 ### February 13, 2020 
 - [My Hugo and Visual Studio Workflow · vNinja.net](https://vninja.net/2020/02/12/my-hugo-workflow/) 
 - [Entangle Welcome](https://entangle-photo.org/) 

@@ -24,6 +24,7 @@
 
 ### February 17, 2020 
 - [wallabag/wallabag: wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.](https://github.com/wallabag/wallabag) 
+- [Create and use OpenStack snapshots | OVHcloud Blog](https://www.ovh.com/blog/create-and-use-openstack-snapshots/) 
 ### February 16, 2020 
 - [Quick Post: Visual Studio Code is now my Default SSH Client and Linux file Editor! - VIRTUALIZATION IS LIFE!](https://anthonyspiteri.net/visual-studio-code-ssh-client/) 
 - [Refactoring Terraform, The Right Way. - DoiT International](https://blog.doit-intl.com/refactor-terraform-into-modules-the-right-way-7bce4d57d66a) 

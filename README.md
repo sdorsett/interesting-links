@@ -24,6 +24,9 @@
 
 
 
+
+### February 29, 2020 
+- [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplinapp.org/) 
 ### February 25, 2020 
 - [GitHub - rydogs/kubecle: Useful UI for Kubernettes](https://github.com/rydogs/kubecle) 
 ### February 23, 2020 

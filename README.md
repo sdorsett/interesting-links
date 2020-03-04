@@ -28,6 +28,7 @@
 
 ### March 4, 2020 
 - [Andrea Piseri / icons · GitLab](https://gitlab.com/ap29600/icons) 
+- [GitHub - alexellis/derek: Derek - reduce fatigue by automating GitHub](https://github.com/alexellis/derek) 
 ### February 29, 2020 
 - [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplinapp.org/) 
 - [Preparing for the CKA exam: Tips & Resources](https://myedes.io/cka-exam-tips/) 

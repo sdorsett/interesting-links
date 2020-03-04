@@ -31,6 +31,7 @@
 - [GitHub - alexellis/derek: Derek - reduce fatigue by automating GitHub](https://github.com/alexellis/derek) 
 - [Linux check the physical health of a USB stick [ Flash drive ] - nixCraft](https://www.cyberciti.biz/faq/linux-check-the-physical-health-of-a-usb-stick-flash-drive/) 
 - [15 Tips To Ace the CKAD and CKA Exam - BB Tutorials & Thoughts - Medium](https://medium.com/bb-tutorials-and-thoughts/15-tips-to-ace-the-ckad-and-cka-exam-eb59ab5406d2) 
+- [Printful: On-Demand Print & Embroidery Fulfillment and Warehousing Services](https://www.printful.com/) 
 ### February 29, 2020 
 - [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplinapp.org/) 
 - [Preparing for the CKA exam: Tips & Resources](https://myedes.io/cka-exam-tips/) 

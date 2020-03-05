@@ -31,6 +31,7 @@
 - [A batch script to monitor a kubernetes pod status, it shows windows toast notification when the pod status changes. Change the NAME to your pod name. · GitHub](https://gist.github.com/Thecarisma/7f611cbca629c6004295b7c19ee1d4e0) 
 - [GitHub - aforensics/HiddenVM: HiddenVM — Use any desktop OS without leaving a trace.](https://github.com/aforensics/HiddenVM) 
 - [GitHub - vmware/tern: Open Source compliance for containers](https://github.com/vmware/tern) 
+- [My First Kubernetes Clusters with Rancher | Blog Linoproject.net](https://blog.linoproject.net/my-first-kuernetes-clusters-with-rancher/) 
 ### March 4, 2020 
 - [Andrea Piseri / icons · GitLab](https://gitlab.com/ap29600/icons) 
 - [GitHub - alexellis/derek: Derek - reduce fatigue by automating GitHub](https://github.com/alexellis/derek) 

@@ -27,6 +27,9 @@
 
 
 
+
+### March 8, 2020 
+- [replit/clui: CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.](https://github.com/replit/clui) 
 ### March 5, 2020 
 - [A batch script to monitor a kubernetes pod status, it shows windows toast notification when the pod status changes. Change the NAME to your pod name. · GitHub](https://gist.github.com/Thecarisma/7f611cbca629c6004295b7c19ee1d4e0) 
 - [GitHub - aforensics/HiddenVM: HiddenVM — Use any desktop OS without leaving a trace.](https://github.com/aforensics/HiddenVM) 

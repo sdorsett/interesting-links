@@ -29,6 +29,9 @@
 
 
 
+
+### March 12, 2020 
+- [Postgres EXPLAIN Visualizer 2 (pev2)](https://dalibo.github.io/pev2/#/) 
 ### March 11, 2020 
 - [bottlerocket-os/bottlerocket: An operating system designed for hosting containers](https://github.com/bottlerocket-os/bottlerocket) 
 - [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin) 

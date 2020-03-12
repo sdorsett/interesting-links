@@ -31,6 +31,7 @@
 
 ### March 11, 2020 
 - [bottlerocket-os/bottlerocket: An operating system designed for hosting containers](https://github.com/bottlerocket-os/bottlerocket) 
+- [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin) 
 ### March 8, 2020 
 - [replit/clui: CLUI is a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.](https://github.com/replit/clui) 
 - [Inside the GitHub Load Balancer - HAProxy Technologies](https://www.haproxy.com/user-spotlight-series/inside-the-github-load-balancer/) 

@@ -33,6 +33,7 @@
 
 ### March 15, 2020 
 - [monitoror/monitoror: Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.](https://github.com/monitoror/monitoror) 
+- [jimsalterjrs/sanoid: Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.](https://github.com/jimsalterjrs/sanoid) 
 ### March 12, 2020 
 - [Postgres EXPLAIN Visualizer 2 (pev2)](https://dalibo.github.io/pev2/#/) 
 ### March 11, 2020 

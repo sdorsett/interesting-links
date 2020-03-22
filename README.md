@@ -1,37 +1,5 @@
 # interesting-links
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### March 22, 2020 
 - [curl write-out JSON | daniel.haxx.se](https://daniel.haxx.se/blog/2020/03/17/curl-write-out-json/) 
 - [iSH](https://ish.app/) 
@@ -44,6 +12,10 @@
 - [https://mosermichael.github.io/jq-illustrated/dir/content.html](https://mosermichael.github.io/jq-illustrated/dir/content.html) 
 - [Balthazar – Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) 
 - [Make Videochat available - installation of jitsi on Debian](https://jalogisch.de/2020/make-videochat-available-installation-of-jitsi-on-debian/) 
+- [Managing Your k8s Cluster via DaemonSets](https://starkandwayne.com/blog/managing-your-kubernetes-cluster-with-daemonsets/)
+- [GitHub - spotify/backstage: Backstage is an open platform for building developer portals https://backstage.io](https://github.com/spotify/backstage)
+- [GitHub - docker/build-push-action: Build+push official Docker GitHub action](https://github.com/docker/build-push-action)
+
 ### March 15, 2020 
 - [monitoror/monitoror: Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.](https://github.com/monitoror/monitoror) 
 - [jimsalterjrs/sanoid: Policy-driven snapshot management and replication tools. Using ZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.) Primarily intended for Linux, but BSD use is supported and reasonably frequently tested.](https://github.com/jimsalterjrs/sanoid) 

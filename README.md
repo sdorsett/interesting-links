@@ -1,5 +1,8 @@
 # interesting-links
 
+
+### March 26, 2020 
+- [Welcome to nornir’s documentation! — nornir 2.4.0 documentation](https://nornir.readthedocs.io/en/latest/) 
 ### March 22, 2020 
 - [curl write-out JSON | daniel.haxx.se](https://daniel.haxx.se/blog/2020/03/17/curl-write-out-json/) 
 - [iSH](https://ish.app/) 

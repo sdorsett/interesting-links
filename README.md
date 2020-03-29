@@ -5,6 +5,7 @@
 ### March 29, 2020 
 - [paulczar/helmfile-starter-kit: Starter kit showing an opinionated helmfile workflow](https://github.com/paulczar/helmfile-starter-kit) 
 - [14 Kubernetes interview questions: For hiring managers and job seekers | The Enterprisers Project](https://enterprisersproject.com/article/2020/3/14-kubernetes-interview-questions) 
+- [darkbitio/mkit: MKIT is a Managed Kubernetes Inspection Tool that validates several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.](https://github.com/darkbitio/mkit) 
 ### March 26, 2020 
 - [Welcome to nornir’s documentation! — nornir 2.4.0 documentation](https://nornir.readthedocs.io/en/latest/) 
 ### March 22, 2020 

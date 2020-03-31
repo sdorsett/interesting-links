@@ -5,6 +5,7 @@
 
 ### March 30, 2020 
 - [Zetta.IO - Creating Images with Packer](https://www.zetta.io/en/help/articles-tutorials/creating-images-packer/) 
+- [Create a custom OpenStack image with Packer | OVH Guides](https://docs.ovh.com/gb/en/public-cloud/packer-openstack-builder/) 
 ### March 29, 2020 
 - [paulczar/helmfile-starter-kit: Starter kit showing an opinionated helmfile workflow](https://github.com/paulczar/helmfile-starter-kit) 
 - [14 Kubernetes interview questions: For hiring managers and job seekers | The Enterprisers Project](https://enterprisersproject.com/article/2020/3/14-kubernetes-interview-questions) 

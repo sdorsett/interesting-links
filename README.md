@@ -9,6 +9,7 @@
 - [rancher/fleet: Manage large fleets of Kubernetes clusters](https://github.com/rancher/fleet) 
 - [kubevious/kubevious: Kubevious project, application centric Kubernetes UI](https://github.com/kubevious/kubevious) 
 - [TimeToogo/ff-proxy: A UDP to TCP proxy server for sending HTTP requests with zero latency](https://github.com/TimeToogo/ff-proxy) 
+- [Sidekick - A High Performance, Sidecar Load Balancer from MinIO](https://blog.min.io/introducing-sidekick-a-high-performance-load-balancer/) 
 ### March 30, 2020 
 - [Zetta.IO - Creating Images with Packer](https://www.zetta.io/en/help/articles-tutorials/creating-images-packer/) 
 - [Create a custom OpenStack image with Packer | OVH Guides](https://docs.ovh.com/gb/en/public-cloud/packer-openstack-builder/) 

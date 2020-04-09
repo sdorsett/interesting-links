@@ -4,6 +4,9 @@
 
 
 
+
+### April 9, 2020 
+- [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed) 
 ### April 5, 2020 
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt) 
 - [rancher/fleet: Manage large fleets of Kubernetes clusters](https://github.com/rancher/fleet) 

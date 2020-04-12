@@ -9,6 +9,7 @@
 
 ### April 12, 2020 
 - [Controlling outbound traffic from Kubernetes](https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes) 
+- [Percona XtraBackup: Backup and Restore of a Single Table or Database - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/10/percona-xtrabackup-backup-and-restore-of-a-single-table-or-database/) 
 ### April 10, 2020 
 - [3Dsynth Behringer Model D and Neutron Stand | 3Dsynth | Reverb](https://reverb.com/item/27218626-3dsynth-behringer-model-d-and-neutron-stand?gclid=CjwKCAjwssD0BRBIEiwA-JP5rCnVahO4Onb-t0B-V0pp4lIDlDYBL4FU7Y9fQ1U_UT7YRG6fjUTA2RoCFtgQAvD_BwE&merchant_id=161834228&pla=1&utm_campaign=6482957710&utm_medium=cpc&utm_source=google) 
 ### April 9, 2020 

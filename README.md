@@ -13,6 +13,7 @@
 - [GitHub - alexellis/awesome-baremetal: Bare-metal is awesome. Let's share our favourite tools.](https://github.com/alexellis/awesome-baremetal) 
 - [GitHub - aaronjanse/3mux: Terminal multiplexer inspired by i3](https://github.com/aaronjanse/3mux) 
 - [Troubleshoot using the proc filesystem on Linux | Opensource.com](https://opensource.com/article/20/4/proc-filesystem) 
+- [Wireguard VPN: Typical Setup - The poetry of (in)security](https://www.ckn.io/blog/2017/11/14/wireguard-vpn-typical-setup/) 
 ### April 12, 2020 
 - [Controlling outbound traffic from Kubernetes](https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes) 
 - [Percona XtraBackup: Backup and Restore of a Single Table or Database - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/10/percona-xtrabackup-backup-and-restore-of-a-single-table-or-database/) 

@@ -7,6 +7,9 @@
 
 
 
+
+### April 19, 2020 
+- [Fedora Silverblue is an amazing immutable desktop | Just another Linux geek](https://blog.christophersmart.com/2020/04/11/fedora-silverblue-is-an-amazing-immutable-desktop/) 
 ### April 12, 2020 
 - [Controlling outbound traffic from Kubernetes](https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes) 
 - [Percona XtraBackup: Backup and Restore of a Single Table or Database - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/10/percona-xtrabackup-backup-and-restore-of-a-single-table-or-database/) 

@@ -18,6 +18,7 @@
 - [AATHITH/kubesort: repo for kubesort](https://github.com/AATHITH/kubesort) 
 - [aristocratos/bashtop: Linux resource monitor](https://github.com/aristocratos/bashtop) 
 - [openfaas/faasd: faasd - serverless with containerd and CNI 🐳](https://github.com/openfaas/faasd) 
+- [vladaionescu/earthly: Build automation for the container era](https://github.com/vladaionescu/earthly) 
 ### April 22, 2020 
 - [Proxmox - powerful open-source server solutions](https://www.proxmox.com/en/) 
 ### April 19, 2020 

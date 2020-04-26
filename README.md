@@ -12,6 +12,7 @@
 
 ### April 26, 2020 
 - [Ramblings from Jessie: The Art of Automation](https://blog.jessfraz.com/post/the-art-of-automation/) 
+- [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) 
 ### April 22, 2020 
 - [Proxmox - powerful open-source server solutions](https://www.proxmox.com/en/) 
 ### April 19, 2020 

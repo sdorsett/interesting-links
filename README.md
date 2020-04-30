@@ -14,6 +14,7 @@
 ### April 30, 2020 
 - [Deploying a highly-available K3s with K3sup](https://ma.ttias.be/deploying-highly-available-k3s-k3sup/) 
 - [A batch script to monitor a kubernetes pod status, it shows windows toast notification when the pod status changes. Change the NAME to your pod name. · GitHub](https://gist.github.com/Thecarisma/7f611cbca629c6004295b7c19ee1d4e0) 
+- [GitHub - alexellis/derek: Derek reduces fatigue by automating GitHub](https://github.com/alexellis/derek) 
 ### April 26, 2020 
 - [Ramblings from Jessie: The Art of Automation](https://blog.jessfraz.com/post/the-art-of-automation/) 
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) 

@@ -20,6 +20,7 @@
 - [GitHub - trodemaster/packer-windows-10-insider: Packer template for windows 10 insider builds on VMware](https://github.com/trodemaster/packer-windows-10-insider) 
 - [GitHub - sl1pm4t/k2tf: Kubernetes YAML to Terraform HCL converter](https://github.com/sl1pm4t/k2tf) 
 - [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/) 
+- [15 Tips To Ace the CKAD and CKA Exam - BB Tutorials & Thoughts - Medium](https://medium.com/bb-tutorials-and-thoughts/15-tips-to-ace-the-ckad-and-cka-exam-eb59ab5406d2) 
 ### April 26, 2020 
 - [Ramblings from Jessie: The Art of Automation](https://blog.jessfraz.com/post/the-art-of-automation/) 
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) 

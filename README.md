@@ -17,6 +17,7 @@
 - [GitHub - alexellis/derek: Derek reduces fatigue by automating GitHub](https://github.com/alexellis/derek) 
 - [Linux check the physical health of a USB stick [ Flash drive ] - nixCraft](https://www.cyberciti.biz/faq/linux-check-the-physical-health-of-a-usb-stick-flash-drive/) 
 - [Git Explorer](https://gitexplorer.com/) 
+- [GitHub - trodemaster/packer-windows-10-insider: Packer template for windows 10 insider builds on VMware](https://github.com/trodemaster/packer-windows-10-insider) 
 ### April 26, 2020 
 - [Ramblings from Jessie: The Art of Automation](https://blog.jessfraz.com/post/the-art-of-automation/) 
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Writings](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) 

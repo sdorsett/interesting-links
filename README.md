@@ -12,6 +12,9 @@
 
 
 
+
+### May 8, 2020 
+- [Learn Kubernetes Basics - Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/) 
 ### May 3, 2020 
 - [WireGuard on K8s (road-warrior-style VPN server)](https://blog.levine.sh/14058/wireguard-on-k8s-road-warrior-style-vpn-server) 
 - [Tmux for mere mortals](https://zserge.com/posts/tmux/) 

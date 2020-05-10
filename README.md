@@ -16,6 +16,7 @@
 
 ### May 10, 2020 
 - [Product for Internal Platforms - Camille Fournier - Medium](https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142) 
+- [Logging w/ journald: Why use it & how it performs vs syslog - Sematext](https://sematext.com/blog/journald-logging-tutorial/) 
 ### May 8, 2020 
 - [Learn Kubernetes Basics - Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/) 
 ### May 3, 2020 

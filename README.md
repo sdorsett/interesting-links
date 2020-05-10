@@ -20,6 +20,7 @@
 - [Open Sourcing Tinkerbell - Packet Bare Metal Blog](https://www.packet.com/blog/open-sourcing-tinkerbell/) 
 - [Tinkerbell :: Tinkerbell](https://tinkerbell.org/) 
 - [eerkunt/terraform-compliance: a lightweight, security focused, BDD test framework against terraform.](https://github.com/eerkunt/terraform-compliance) 
+- [ramitsurana/awesome-kubernetes: A curated list for awesome kubernetes sources](https://github.com/ramitsurana/awesome-kubernetes) 
 ### May 8, 2020 
 - [Learn Kubernetes Basics - Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/) 
 ### May 3, 2020 

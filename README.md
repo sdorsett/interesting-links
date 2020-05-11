@@ -14,6 +14,9 @@
 
 
 
+
+### May 11, 2020 
+- [WSL2+K3d: an HA Arkade game :: ~/wsl.dev — Get your Linux On](https://wsl.dev/wsl2-k3d-arkade/) 
 ### May 10, 2020 
 - [Product for Internal Platforms - Camille Fournier - Medium](https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142) 
 - [Logging w/ journald: Why use it & how it performs vs syslog - Sematext](https://sematext.com/blog/journald-logging-tutorial/) 

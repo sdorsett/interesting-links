@@ -15,6 +15,9 @@
 
 
 
+
+### May 12, 2020 
+- [Logging with Fluent Bit & InfluxDB - The Devs Tech - Medium](https://medium.com/the-devs-tech/logging-with-fluent-bit-influxdb-282c9bc35245) 
 ### May 11, 2020 
 - [WSL2+K3d: an HA Arkade game :: ~/wsl.dev — Get your Linux On](https://wsl.dev/wsl2-k3d-arkade/) 
 - [WSL2+ZFS: High 5 from the Kernel :: ~/wsl.dev — Get your Linux On](https://wsl.dev/wsl2-kernel-zfs/) 

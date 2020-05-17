@@ -16,6 +16,9 @@
 
 
 
+
+### May 17, 2020 
+- [How to Quickly Launch Ubuntu Virtual Machine with Multipass](https://www.maketecheasier.com/multipass-launch-ubuntu-virtual-machine/) 
 ### May 12, 2020 
 - [Logging with Fluent Bit & InfluxDB - The Devs Tech - Medium](https://medium.com/the-devs-tech/logging-with-fluent-bit-influxdb-282c9bc35245) 
 ### May 11, 2020 

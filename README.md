@@ -20,6 +20,7 @@
 ### May 17, 2020 
 - [How to Quickly Launch Ubuntu Virtual Machine with Multipass](https://www.maketecheasier.com/multipass-launch-ubuntu-virtual-machine/) 
 - [cdk8s](https://cdk8s.io/) 
+- [awslabs/cdk8s: Define Kubernetes native apps and abstractions using object-oriented programming](https://github.com/awslabs/cdk8s) 
 ### May 12, 2020 
 - [Logging with Fluent Bit & InfluxDB - The Devs Tech - Medium](https://medium.com/the-devs-tech/logging-with-fluent-bit-influxdb-282c9bc35245) 
 ### May 11, 2020 

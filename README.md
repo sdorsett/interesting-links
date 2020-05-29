@@ -20,6 +20,9 @@
 
 
 
+
+### May 29, 2020 
+- [Building Virtual Machines with Packer on ESXi 6 — Nick Charlton](https://nickcharlton.net/posts/using-packer-esxi-6.html) 
 ### May 24, 2020 
 - [subspacecommunity/subspace: A fork of the simple WireGuard VPN server GUI community maintained](https://github.com/subspacecommunity/subspace) 
 - [Composing in the Caddyfile - Wiki - Caddy Community](https://caddy.community/t/composing-in-the-caddyfile/8291) 

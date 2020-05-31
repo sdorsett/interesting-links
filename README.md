@@ -21,6 +21,9 @@
 
 
 
+
+### May 31, 2020 
+- [Resolving the AddTrust External CA Root certificate expiration - Oh Dear blog](https://ohdear.app/blog/resolving-the-addtrust-external-ca-root-certificate-expiration) 
 ### May 29, 2020 
 - [Building Virtual Machines with Packer on ESXi 6 — Nick Charlton](https://nickcharlton.net/posts/using-packer-esxi-6.html) 
 ### May 24, 2020 

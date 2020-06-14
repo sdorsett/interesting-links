@@ -26,6 +26,7 @@
 ### June 14, 2020 
 - [neutrinolabs/xrdp: xrdp: an open source RDP server](https://github.com/neutrinolabs/xrdp) 
 - [cloudflare/utahfs: UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.](https://github.com/cloudflare/utahfs) 
+- [VSCodium/vscodium: binary releases of VS Code without MS branding/telemetry/licensing](https://github.com/VSCodium/vscodium) 
 ### May 31, 2020 
 - [Resolving the AddTrust External CA Root certificate expiration - Oh Dear blog](https://ohdear.app/blog/resolving-the-addtrust-external-ca-root-certificate-expiration) 
 ### May 29, 2020 

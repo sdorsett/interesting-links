@@ -28,6 +28,7 @@
 - [cloudflare/utahfs: UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.](https://github.com/cloudflare/utahfs) 
 - [VSCodium/vscodium: binary releases of VS Code without MS branding/telemetry/licensing](https://github.com/VSCodium/vscodium) 
 - [Linux / Unix logtop: Realtime Log Line Rate Analyser - nixCraft](https://www.cyberciti.biz/faq/linux-unix-logtop-realtime-log-line-rate-analyser/) 
+- [theryangeary/choose: A human-friendly and fast alternative to cut and (sometimes) awk](https://github.com/theryangeary/choose) 
 ### May 31, 2020 
 - [Resolving the AddTrust External CA Root certificate expiration - Oh Dear blog](https://ohdear.app/blog/resolving-the-addtrust-external-ca-root-certificate-expiration) 
 ### May 29, 2020 

@@ -27,6 +27,7 @@
 ### June 21, 2020 
 - [resgateio/resgate: A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.](https://github.com/resgateio/resgate) 
 - [gitrows/gitrows: A lightweight module for using git as a database](https://github.com/gitrows/gitrows) 
+- [practical-python/Contents.md at main · dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python/blob/main/Notes/Contents.md) 
 ### June 14, 2020 
 - [neutrinolabs/xrdp: xrdp: an open source RDP server](https://github.com/neutrinolabs/xrdp) 
 - [cloudflare/utahfs: UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.](https://github.com/cloudflare/utahfs) 

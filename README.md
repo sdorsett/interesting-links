@@ -27,6 +27,7 @@
 
 ### June 23, 2020 
 - [(13) import asyncio: Learn Python's AsyncIO #1 - The Async Ecosystem - YouTube](https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB) 
+- [PendingDNS](https://pendingdns.com/) 
 ### June 21, 2020 
 - [resgateio/resgate: A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.](https://github.com/resgateio/resgate) 
 - [gitrows/gitrows: A lightweight module for using git as a database](https://github.com/gitrows/gitrows) 

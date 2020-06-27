@@ -25,6 +25,9 @@
 
 
 
+
+### June 26, 2020 
+- [Thread by @danielepolencic: THREAD: How to quarantine a Pod in Kubernetes. This technique helps you with debugging running Pods in production. The Pod is detached from…](https://threadreaderapp.com/thread/1275786970610843648.html) 
 ### June 23, 2020 
 - [(13) import asyncio: Learn Python's AsyncIO #1 - The Async Ecosystem - YouTube](https://www.youtube.com/watch?v=Xbl7XjFYsN4&list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB) 
 - [PendingDNS](https://pendingdns.com/) 

@@ -26,6 +26,9 @@
 
 
 
+
+### June 28, 2020 
+- [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) 
 ### June 26, 2020 
 - [Thread by @danielepolencic: THREAD: How to quarantine a Pod in Kubernetes. This technique helps you with debugging running Pods in production. The Pod is detached from…](https://threadreaderapp.com/thread/1275786970610843648.html) 
 - [sethvargo/go-envconfig: A Go library for parsing struct tags from environment variables.](https://github.com/sethvargo/go-envconfig) 

@@ -35,6 +35,7 @@
 - [Zettlr/Zettlr: A Markdown Editor for the 21st century.](https://github.com/Zettlr/Zettlr) 
 - [Mastering JQ: Part 1 - CodeFaster](https://codefaster.substack.com/p/mastering-jq-part-1-59c) 
 - [Deploying a static website with Ansible | Enable Sysadmin](https://www.redhat.com/sysadmin/deploying-static-website-ansible) 
+- [How to use FIDO2 USB authenticators with SSH - Stavros' Stuff](https://www.stavros.io/posts/u2f-fido2-with-ssh/) 
 ### June 28, 2020 
 - [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) 
 - [kudobuilder/kuttl: KUbernetes Test TooL (kuttl)](https://github.com/kudobuilder/kuttl) 

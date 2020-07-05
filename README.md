@@ -31,6 +31,7 @@
 ### July 5, 2020 
 - [Using kubectl via an SSH Tunnel - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2020/06/16/using-kubectl-via-an-ssh-tunnel/) 
 - [Overview | BeeMesh](https://www.beemesh.io/) 
+- [maxgoedjen/secretive: Store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive) 
 ### June 28, 2020 
 - [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) 
 - [kudobuilder/kuttl: KUbernetes Test TooL (kuttl)](https://github.com/kudobuilder/kuttl) 

@@ -37,6 +37,7 @@
 - [Deploying a static website with Ansible | Enable Sysadmin](https://www.redhat.com/sysadmin/deploying-static-website-ansible) 
 - [How to use FIDO2 USB authenticators with SSH - Stavros' Stuff](https://www.stavros.io/posts/u2f-fido2-with-ssh/) 
 - [5 modern alternatives to essential Linux command-line tools | Opensource.com](https://opensource.com/article/20/6/modern-linux-command-line-tools) 
+- [Use Unix Pipes to Improve Chromecast Playback - Alex DeLorenzo](https://alexdelorenzo.dev/linux/2020/03/14/pipes.html) 
 ### June 28, 2020 
 - [Calico for Kubernetes networking: the basics & examples](https://medium.com/flant-com/calico-for-kubernetes-networking-792b41e19d69) 
 - [kudobuilder/kuttl: KUbernetes Test TooL (kuttl)](https://github.com/kudobuilder/kuttl) 

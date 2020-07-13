@@ -34,6 +34,7 @@
 - [Porter: An Open Source Cloud Native Load Balancer in CNCF Landscape | by KubeSphere | Jul, 2020 | ITNEXT](https://itnext.io/porter-an-open-source-load-balancer-designed-for-bare-metal-kubernetes-clusters-870e1313b7f0) 
 - [appvia/krane: Kubernetes RBAC static Analysis & visualisation tool](https://github.com/appvia/krane) 
 - [goodwithtech/dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start](https://github.com/goodwithtech/dockle) 
+- [B-Software/Ward: Simple and minimalistic server dashboard](https://github.com/B-Software/Ward) 
 ### July 5, 2020 
 - [Using kubectl via an SSH Tunnel - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2020/06/16/using-kubectl-via-an-ssh-tunnel/) 
 - [Overview | BeeMesh](https://www.beemesh.io/) 

@@ -28,6 +28,9 @@
 
 
 
+
+### July 12, 2020 
+- [A bit of a Vector –](https://www.kartar.net/2020/05/a-bit-of-a-vector/) 
 ### July 5, 2020 
 - [Using kubectl via an SSH Tunnel - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2020/06/16/using-kubectl-via-an-ssh-tunnel/) 
 - [Overview | BeeMesh](https://www.beemesh.io/) 

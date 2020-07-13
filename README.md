@@ -36,6 +36,7 @@
 - [goodwithtech/dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start](https://github.com/goodwithtech/dockle) 
 - [B-Software/Ward: Simple and minimalistic server dashboard](https://github.com/B-Software/Ward) 
 - [Stono/kconmon: A Kubernetes node connectivity monitoring tool](https://github.com/Stono/kconmon) 
+- [timberio/vector: A lightweight and ultra-fast tool for building observability pipelines](https://github.com/timberio/vector) 
 ### July 5, 2020 
 - [Using kubectl via an SSH Tunnel - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking](https://blog.scottlowe.org/2020/06/16/using-kubectl-via-an-ssh-tunnel/) 
 - [Overview | BeeMesh](https://www.beemesh.io/) 

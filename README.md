@@ -36,6 +36,7 @@
 - [Accelerated Feedback Loops when Developing for Kubernetes with Conftest // Plex Engineering](https://engineering.plex.com/posts/kubernetes-policy-conftest/?utm_sq=gg2lalouw1) 
 - [Helm Is Not Enough, You Also Need Kustomize | by Arun Ramakani | ITNEXT](https://itnext.io/helm-is-not-enough-you-also-need-kustomize-82bae896816e) 
 - [Golang basics - grab JSON from an API](https://blog.alexellis.io/golang-json-api-client/) 
+- [Creating a kubeconfig file for a self-hosted Kubernetes cluster](http://docs.shippable.com/deploy/tutorial/create-kubeconfig-for-self-hosted-kubernetes-cluster/) 
 ### July 12, 2020 
 - [A bit of a Vector –](https://www.kartar.net/2020/05/a-bit-of-a-vector/) 
 - [Porter: An Open Source Cloud Native Load Balancer in CNCF Landscape | by KubeSphere | Jul, 2020 | ITNEXT](https://itnext.io/porter-an-open-source-load-balancer-designed-for-bare-metal-kubernetes-clusters-870e1313b7f0) 

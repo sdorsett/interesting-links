@@ -29,6 +29,9 @@
 
 
 
+
+### July 13, 2020 
+- [How to list all the targets on a Makefile](https://diamantidis.github.io/tips/2020/07/01/list-makefile-targets) 
 ### July 12, 2020 
 - [A bit of a Vector –](https://www.kartar.net/2020/05/a-bit-of-a-vector/) 
 - [Porter: An Open Source Cloud Native Load Balancer in CNCF Landscape | by KubeSphere | Jul, 2020 | ITNEXT](https://itnext.io/porter-an-open-source-load-balancer-designed-for-bare-metal-kubernetes-clusters-870e1313b7f0) 

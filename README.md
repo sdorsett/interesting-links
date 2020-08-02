@@ -37,6 +37,7 @@
 - [ventoy/Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy) 
 - [Stupid Bash tricks: History, reusing arguments, files and directories, functions, and more | Enable Sysadmin](https://www.redhat.com/sysadmin/stupid-bash-tricks) 
 - [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/) 
+- [Monitoring your own infrastructure using Grafana, InfluxDB, and CollectD — SerHack blog](https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/) 
 ### July 26, 2020 
 - [Stono/kconmon: A Kubernetes node connectivity monitoring tool](https://github.com/Stono/kconmon) 
 ### July 13, 2020 

@@ -31,6 +31,9 @@
 
 
 
+
+### August 2, 2020 
+- [DevSecCon24 - 2020 - YouTube](https://www.youtube.com/playlist?list=PLKWDDWZ_ETtCzvLD-RG8UkVtrjlSSvBS2) 
 ### July 26, 2020 
 - [Stono/kconmon: A Kubernetes node connectivity monitoring tool](https://github.com/Stono/kconmon) 
 ### July 13, 2020 

@@ -39,6 +39,7 @@
 - [Clarity Theme for Hugo Released | Neon Mirrors](https://neonmirrors.net/post/2020-07/clarity-theme-for-hugo-released/) 
 - [Kubernetes production best practices](https://learnk8s.io/production-best-practices) 
 - [daitangio/misterio: Docker-compose based Ansible alternative. It hates spiders](https://github.com/daitangio/misterio) 
+- [How To Set up SSH Keys on a Linux / Unix System - nixCraft](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/) 
 ### August 2, 2020 
 - [DevSecCon24 - 2020 - YouTube](https://www.youtube.com/playlist?list=PLKWDDWZ_ETtCzvLD-RG8UkVtrjlSSvBS2) 
 - [ventoy/Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy) 

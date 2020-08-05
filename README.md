@@ -36,6 +36,7 @@
 ### August 4, 2020 
 - [Kubernetes: Automatic Let’s Encrypt Certificates for Services | by Sebastian | Aug, 2020 | Medium](https://medium.com/@admantium/kubernetes-automatic-lets-encrypt-certificates-for-services-2a5f4aa7f886) 
 - [tsugliani/packer-vsphere-debian-appliances: My VMware vSphere Debian Appliances](https://github.com/tsugliani/packer-vsphere-debian-appliances) 
+- [Clarity Theme for Hugo Released | Neon Mirrors](https://neonmirrors.net/post/2020-07/clarity-theme-for-hugo-released/) 
 ### August 2, 2020 
 - [DevSecCon24 - 2020 - YouTube](https://www.youtube.com/playlist?list=PLKWDDWZ_ETtCzvLD-RG8UkVtrjlSSvBS2) 
 - [ventoy/Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy) 

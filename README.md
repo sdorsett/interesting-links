@@ -40,6 +40,7 @@
 - [Kubernetes production best practices](https://learnk8s.io/production-best-practices) 
 - [daitangio/misterio: Docker-compose based Ansible alternative. It hates spiders](https://github.com/daitangio/misterio) 
 - [How To Set up SSH Keys on a Linux / Unix System - nixCraft](https://www.cyberciti.biz/faq/how-to-set-up-ssh-keys-on-linux-unix/) 
+- [SSH Agent Forwarding: How to use SSH properly and what is SSH Agent Forwarding - DEV](https://dev.to/levivm/how-to-use-ssh-and-ssh-agent-forwarding-more-secure-ssh-2c32) 
 ### August 2, 2020 
 - [DevSecCon24 - 2020 - YouTube](https://www.youtube.com/playlist?list=PLKWDDWZ_ETtCzvLD-RG8UkVtrjlSSvBS2) 
 - [ventoy/Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy) 

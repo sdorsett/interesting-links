@@ -38,6 +38,7 @@
 - [tsugliani/packer-vsphere-debian-appliances: My VMware vSphere Debian Appliances](https://github.com/tsugliani/packer-vsphere-debian-appliances) 
 - [Clarity Theme for Hugo Released | Neon Mirrors](https://neonmirrors.net/post/2020-07/clarity-theme-for-hugo-released/) 
 - [Kubernetes production best practices](https://learnk8s.io/production-best-practices) 
+- [daitangio/misterio: Docker-compose based Ansible alternative. It hates spiders](https://github.com/daitangio/misterio) 
 ### August 2, 2020 
 - [DevSecCon24 - 2020 - YouTube](https://www.youtube.com/playlist?list=PLKWDDWZ_ETtCzvLD-RG8UkVtrjlSSvBS2) 
 - [ventoy/Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy) 

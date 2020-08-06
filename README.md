@@ -33,6 +33,9 @@
 
 
 
+
+### August 6, 2020 
+- [swade1987/gitops-with-kustomize: An example repo structure for GitOps with Kustomize](https://github.com/swade1987/gitops-with-kustomize) 
 ### August 4, 2020 
 - [Kubernetes: Automatic Let’s Encrypt Certificates for Services | by Sebastian | Aug, 2020 | Medium](https://medium.com/@admantium/kubernetes-automatic-lets-encrypt-certificates-for-services-2a5f4aa7f886) 
 - [tsugliani/packer-vsphere-debian-appliances: My VMware vSphere Debian Appliances](https://github.com/tsugliani/packer-vsphere-debian-appliances) 

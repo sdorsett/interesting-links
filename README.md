@@ -34,6 +34,9 @@
 
 
 
+
+### August 9, 2020 
+- [mendersoftware/mender: Mender over-the-air software updater client.](https://github.com/mendersoftware/mender) 
 ### August 6, 2020 
 - [swade1987/gitops-with-kustomize: An example repo structure for GitOps with Kustomize](https://github.com/swade1987/gitops-with-kustomize) 
 ### August 4, 2020 

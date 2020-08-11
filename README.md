@@ -35,6 +35,9 @@
 
 
 
+
+### August 10, 2020 
+- [An Introduction to ZFS A Place to Start | ServeTheHome](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/) 
 ### August 9, 2020 
 - [mendersoftware/mender: Mender over-the-air software updater client.](https://github.com/mendersoftware/mender) 
 ### August 6, 2020 

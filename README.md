@@ -40,6 +40,7 @@
 - [An Introduction to ZFS A Place to Start | ServeTheHome](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/) 
 - [bloomberg/goldpinger: Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.](https://github.com/bloomberg/goldpinger) 
 - [Anstack.com - The easiest and fastest way to deploy an OKD 4.5 cluster in a Libvirt/KVM host](https://www.anstack.com/blog/2020/07/31/the-fastest-and-simplest-way-to-deploy-okd-openshift-4-5.html) 
+- [Why Should You Learn Vim in 2020 | Pragmatic Pineapple 🍍](https://pragmaticpineapple.com/why-should-you-learn-vim-in-2020/) 
 ### August 9, 2020 
 - [mendersoftware/mender: Mender over-the-air software updater client.](https://github.com/mendersoftware/mender) 
 ### August 6, 2020 

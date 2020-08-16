@@ -39,6 +39,7 @@
 
 ### August 16, 2020 
 - [christian-korneck/docker-pushrm: "Docker Push Readme" - a Docker CLI plugin to update container repo docs](https://github.com/christian-korneck/docker-pushrm) 
+- [cortexproject/cortex: A horizontally scalable, highly available, multi-tenant, long term Prometheus.](https://github.com/cortexproject/cortex) 
 ### August 10, 2020 
 - [An Introduction to ZFS A Place to Start | ServeTheHome](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/) 
 - [bloomberg/goldpinger: Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.](https://github.com/bloomberg/goldpinger) 

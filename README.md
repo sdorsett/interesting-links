@@ -37,6 +37,9 @@
 
 
 
+
+### August 22, 2020 
+- [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/) 
 ### August 16, 2020 
 - [christian-korneck/docker-pushrm: "Docker Push Readme" - a Docker CLI plugin to update container repo docs](https://github.com/christian-korneck/docker-pushrm) 
 - [cortexproject/cortex: A horizontally scalable, highly available, multi-tenant, long term Prometheus.](https://github.com/cortexproject/cortex) 

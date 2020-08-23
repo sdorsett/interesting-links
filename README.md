@@ -38,6 +38,9 @@
 
 
 
+
+### August 23, 2020 
+- [aquasecurity/trivy: A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI](https://github.com/aquasecurity/trivy) 
 ### August 22, 2020 
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/) 
 ### August 16, 2020 

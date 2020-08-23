@@ -46,6 +46,7 @@
 - [Uzay-G/archivy: Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your knowledge bank.](https://github.com/Uzay-G/archivy) 
 - [TimeToogo/tunshell: Remote shell into ephemeral environments 🐚 🦀](https://github.com/TimeToogo/tunshell) 
 - [mikecao/umami: Umami is a simple, fast, website analytics alternative to Google Analytics.](https://github.com/mikecao/umami) 
+- [k14s/ytt: YAML templating tool that works on YAML structure instead of text](https://github.com/k14s/ytt) 
 ### August 22, 2020 
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/) 
 ### August 16, 2020 

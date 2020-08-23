@@ -48,6 +48,7 @@
 - [mikecao/umami: Umami is a simple, fast, website analytics alternative to Google Analytics.](https://github.com/mikecao/umami) 
 - [k14s/ytt: YAML templating tool that works on YAML structure instead of text](https://github.com/k14s/ytt) 
 - [NGINX Config | DigitalOcean](https://www.digitalocean.com/community/tools/nginx) 
+- [Tutorial: Set up a Secure and Highly Available etcd Cluster – The New Stack](https://thenewstack.io/tutorial-set-up-a-secure-and-highly-available-etcd-cluster/) 
 ### August 22, 2020 
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/) 
 ### August 16, 2020 

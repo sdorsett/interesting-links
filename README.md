@@ -46,6 +46,7 @@
 - [Kubernetes 101 - Blog | luminousmen](https://luminousmen.com/post/kubernetes-101) 
 - [Using sysctls in a Kubernetes Cluster | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/sysctl-cluster/) 
 - [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) 
+- [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/) 
 ### August 30, 2020 
 - [werf/werf: GitOps delivery tool](https://github.com/werf/werf) 
 ### August 23, 2020 

@@ -48,6 +48,7 @@
 - [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/) 
 - [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/) 
 - [beefsack/webify: Turn shell commands into web services](https://github.com/beefsack/webify) 
+- [almarklein/mypaas: Run your own PaaS using Docker, Traefik, and great analytics](https://github.com/almarklein/mypaas) 
 ### August 30, 2020 
 - [werf/werf: GitOps delivery tool](https://github.com/werf/werf) 
 ### August 23, 2020 

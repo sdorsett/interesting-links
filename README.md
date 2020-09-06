@@ -40,6 +40,9 @@
 
 
 
+
+### September 6, 2020 
+- [Consuming Upstream Content in Your Software or Service – Steve Lasker](https://stevelasker.blog/2020/09/01/consuming-upstream-content/) 
 ### August 30, 2020 
 - [werf/werf: GitOps delivery tool](https://github.com/werf/werf) 
 ### August 23, 2020 

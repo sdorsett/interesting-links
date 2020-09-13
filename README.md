@@ -46,6 +46,7 @@
 - [CloudOps - Kubernetes Operators 101](https://www.cloudops.com/blog/kubernetes-operators-101/) 
 - [Kubernetes YAML Generator](https://k8syaml.com/) 
 - [Kubernetes YAML Generator](https://k8syaml.com/) 
+- [Twitch - Scaleable Multiplayer Game Design with OpenShift](https://www.twitch.tv/videos/736160724) 
 ### September 6, 2020 
 - [Consuming Upstream Content in Your Software or Service – Steve Lasker](https://stevelasker.blog/2020/09/01/consuming-upstream-content/) 
 - [Kubernetes 101 - Blog | luminousmen](https://luminousmen.com/post/kubernetes-101) 

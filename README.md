@@ -47,6 +47,7 @@
 - [Kubernetes YAML Generator](https://k8syaml.com/) 
 - [Kubernetes YAML Generator](https://k8syaml.com/) 
 - [Twitch - Scaleable Multiplayer Game Design with OpenShift](https://www.twitch.tv/videos/736160724) 
+- [Introducing GitHub Container Registry - The GitHub Blog](https://github.blog/2020-09-01-introducing-github-container-registry/) 
 ### September 6, 2020 
 - [Consuming Upstream Content in Your Software or Service – Steve Lasker](https://stevelasker.blog/2020/09/01/consuming-upstream-content/) 
 - [Kubernetes 101 - Blog | luminousmen](https://luminousmen.com/post/kubernetes-101) 

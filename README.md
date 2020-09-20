@@ -49,6 +49,7 @@
 - [skeeto/endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh) 
 - [davesnx/query-json: Faster and simpler implementation of jq in Reason Native](https://github.com/davesnx/query-json) 
 - [Relativty an Open-source VR headset for $200](https://www.relativty.com/) 
+- [Building Pastebin for text using NGINX and Lua – Usama Ejaz](https://usamaejaz.com/nginx-lua-pastebin/) 
 ### September 13, 2020 
 - [CloudOps - Kubernetes Operators 101](https://www.cloudops.com/blog/kubernetes-operators-101/) 
 - [Kubernetes YAML Generator](https://k8syaml.com/) 

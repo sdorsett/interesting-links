@@ -52,6 +52,7 @@
 - [Building Pastebin for text using NGINX and Lua – Usama Ejaz](https://usamaejaz.com/nginx-lua-pastebin/) 
 - [n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/) 
 - [Your Media, Your Way - Emby](https://emby.media/about.html) 
+- [Raspberry Pi as a local server for self hosting applications - News from Chris](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/) 
 ### September 13, 2020 
 - [CloudOps - Kubernetes Operators 101](https://www.cloudops.com/blog/kubernetes-operators-101/) 
 - [Kubernetes YAML Generator](https://k8syaml.com/) 

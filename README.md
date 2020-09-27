@@ -48,6 +48,7 @@
 - [jetstack/version-checker: Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.](https://github.com/jetstack/version-checker) 
 - [Portus](http://port.us.org/) 
 - [muesli/duf: Disk Usage/Free Utility](https://github.com/muesli/duf) 
+- [AkihiroSuda/sshocker: ssh + reverse sshfs + port forwarder, in Docker-like CLI](https://github.com/AkihiroSuda/sshocker) 
 ### September 20, 2020 
 - [gnebbia/kb: A minimalist knowledge base manager](https://github.com/gnebbia/kb) 
 - [sdushantha/tmpmail: ✉️ A temporary email right from your terminal](https://github.com/sdushantha/tmpmail) 

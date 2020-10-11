@@ -49,6 +49,7 @@
 - [GitHub - matejak/argbash: Bash argument parsing code generator](https://github.com/matejak/argbash) 
 - [GitHub - nidhaloff/igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel) 
 - [GitHub - storax/kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom) 
+- [GitHub - storax/kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom) 
 ### September 27, 2020 
 - [jetstack/version-checker: Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.](https://github.com/jetstack/version-checker) 
 - [Portus](http://port.us.org/) 

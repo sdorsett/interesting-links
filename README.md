@@ -1,5 +1,8 @@
 # interesting-links
 
+
+### October 17, 2020 
+- [diracdeltas/spleeter4max: separate audio in ableton into stems using Spleeter](https://github.com/diracdeltas/spleeter4max) 
 ### October 11, 2020 
 - [GitHub - matejak/argbash: Bash argument parsing code generator](https://github.com/matejak/argbash) 
 - [GitHub - nidhaloff/igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel) 

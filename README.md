@@ -5,6 +5,7 @@
 ### October 18, 2020 
 - [camptocamp/puppetca-issuer: Cert-manager issuer for the Puppet Certificate Authority](https://github.com/camptocamp/puppetca-issuer) 
 - [exelban/stats: macOS system monitor in your menu bar](https://github.com/exelban/stats) 
+- [sassman/t-rec-rs: Blazingly fast terminal recorder that generates animated gif images for the web written in rust](https://github.com/sassman/t-rec-rs) 
 ### October 17, 2020 
 - [diracdeltas/spleeter4max: separate audio in ableton into stems using Spleeter](https://github.com/diracdeltas/spleeter4max) 
 - [deezer/spleeter: Deezer source separation library including pretrained models.](https://github.com/deezer/spleeter) 

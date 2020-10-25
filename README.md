@@ -6,6 +6,7 @@
 ### October 25, 2020 
 - [Schedule jobs with systemd timers, a cron alternative - DEV](https://dev.to/bowmanjd/schedule-jobs-with-systemd-timers-a-cron-alternative-15l8) 
 - [dankilman/multiplex: View output of multiple processes, in parallel, in the console, with an interactive TUI](https://github.com/dankilman/multiplex) 
+- [crowdsecurity/crowdsec: Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.](https://github.com/crowdsecurity/crowdsec) 
 ### October 18, 2020 
 - [camptocamp/puppetca-issuer: Cert-manager issuer for the Puppet Certificate Authority](https://github.com/camptocamp/puppetca-issuer) 
 - [exelban/stats: macOS system monitor in your menu bar](https://github.com/exelban/stats) 

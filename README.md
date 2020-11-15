@@ -3,6 +3,9 @@
 
 
 
+
+### November 15, 2020 
+- [TwinProduction/gatus: ⛑ Gatus - Automated service health dashboard](https://github.com/TwinProduction/gatus) 
 ### October 25, 2020 
 - [Schedule jobs with systemd timers, a cron alternative - DEV](https://dev.to/bowmanjd/schedule-jobs-with-systemd-timers-a-cron-alternative-15l8) 
 - [dankilman/multiplex: View output of multiple processes, in parallel, in the console, with an interactive TUI](https://github.com/dankilman/multiplex) 

@@ -6,6 +6,7 @@
 
 ### November 15, 2020 
 - [TwinProduction/gatus: ⛑ Gatus - Automated service health dashboard](https://github.com/TwinProduction/gatus) 
+- [c9fe/22120: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.](https://github.com/c9fe/22120) 
 ### October 25, 2020 
 - [Schedule jobs with systemd timers, a cron alternative - DEV](https://dev.to/bowmanjd/schedule-jobs-with-systemd-timers-a-cron-alternative-15l8) 
 - [dankilman/multiplex: View output of multiple processes, in parallel, in the console, with an interactive TUI](https://github.com/dankilman/multiplex) 

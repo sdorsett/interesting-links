@@ -8,6 +8,7 @@
 ### November 22, 2020 
 - [dog](https://dns.lookup.dog/) 
 - [inovex/illuminatio: The kubernetes network policy validator.](https://github.com/inovex/illuminatio) 
+- [Tailwind CSS v2.0 – Tailwind CSS](https://blog.tailwindcss.com/tailwindcss-v2) 
 ### November 15, 2020 
 - [TwinProduction/gatus: ⛑ Gatus - Automated service health dashboard](https://github.com/TwinProduction/gatus) 
 - [c9fe/22120: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.](https://github.com/c9fe/22120) 

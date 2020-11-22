@@ -11,6 +11,7 @@
 - [Tailwind CSS v2.0 – Tailwind CSS](https://blog.tailwindcss.com/tailwindcss-v2) 
 - [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.](https://tailwindcss.com/) 
 - [alyssaxuu/screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity) 
+- [psql command line tutorial and cheat sheet | postgres](https://tomcam.github.io/postgres/) 
 ### November 15, 2020 
 - [TwinProduction/gatus: ⛑ Gatus - Automated service health dashboard](https://github.com/TwinProduction/gatus) 
 - [c9fe/22120: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.](https://github.com/c9fe/22120) 

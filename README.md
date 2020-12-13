@@ -6,6 +6,9 @@
 
 
 
+
+### December 13, 2020 
+- [Do you care about the quality of your infrastructure code? | last9](https://medium.com/last9/infrastructure-as-code-as-software-a5e4b2b93e8e) 
 ### November 29, 2020 
 - [loadimpact/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6) 
 ### November 22, 2020 

@@ -10,6 +10,7 @@
 
 ### December 20, 2020 
 - [upptime/upptime: ⬆️ Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime) 
+- [external-secrets/kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets) 
 ### December 13, 2020 
 - [Do you care about the quality of your infrastructure code? | last9](https://medium.com/last9/infrastructure-as-code-as-software-a5e4b2b93e8e) 
 - [jaredallard/localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/jaredallard/localizer) 

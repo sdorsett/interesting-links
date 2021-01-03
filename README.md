@@ -11,6 +11,7 @@
 
 ### January 3, 2021 
 - [rtyler/zap: A simple cross-platform configuration management and orchestration tool](https://github.com/rtyler/zap) 
+- [Turn Photos into Cartoons Using Python | by Tazki Anida | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e) 
 ### December 20, 2020 
 - [upptime/upptime: ⬆️ Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime) 
 - [external-secrets/kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets) 

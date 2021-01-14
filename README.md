@@ -12,6 +12,7 @@
 
 ### January 13, 2021 
 - [Takes an input directory containing wave files and splices them together into a morphagene reel](https://gist.github.com/knandersen/0f41fc132e584bc66958adca590aed12) 
+- [Allows you to use Ableton projects and exports as reels for the Make Noise Morphagene eurorack module.](https://gist.github.com/knandersen/a1da6859e3ef84f3c0ce1979536d85c8) 
 ### January 3, 2021 
 - [rtyler/zap: A simple cross-platform configuration management and orchestration tool](https://github.com/rtyler/zap) 
 - [Turn Photos into Cartoons Using Python | by Tazki Anida | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e) 

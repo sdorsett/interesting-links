@@ -13,6 +13,7 @@
 
 ### February 7, 2021 
 - [GitHub - vorteil/vorteil: turn your applications and containers into micro virtual machines](https://github.com/vorteil/vorteil) 
+- [GitHub - kubenav/kubenav: kubenav is the navigator for your Kubernetes clusters right in your pocket.](https://github.com/kubenav/kubenav) 
 ### January 13, 2021 
 - [Takes an input directory containing wave files and splices them together into a morphagene reel](https://gist.github.com/knandersen/0f41fc132e584bc66958adca590aed12) 
 - [Allows you to use Ableton projects and exports as reels for the Make Noise Morphagene eurorack module.](https://gist.github.com/knandersen/a1da6859e3ef84f3c0ce1979536d85c8) 

@@ -11,6 +11,9 @@
 
 
 
+
+### June 6, 2021 
+- [Killer Shell - CKS CKA CKAD Simulator](https://killer.sh/) 
 ### February 7, 2021 
 - [GitHub - vorteil/vorteil: turn your applications and containers into micro virtual machines](https://github.com/vorteil/vorteil) 
 - [GitHub - kubenav/kubenav: kubenav is the navigator for your Kubernetes clusters right in your pocket.](https://github.com/kubenav/kubenav) 

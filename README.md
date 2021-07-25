@@ -12,6 +12,9 @@
 
 
 
+
+### July 25, 2021 
+- [schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero) 
 ### June 6, 2021 
 - [Killer Shell - CKS CKA CKAD Simulator](https://killer.sh/) 
 ### February 7, 2021 

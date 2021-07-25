@@ -15,6 +15,7 @@
 
 ### July 25, 2021 
 - [schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero) 
+- [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n) 
 ### June 6, 2021 
 - [Killer Shell - CKS CKA CKAD Simulator](https://killer.sh/) 
 ### February 7, 2021 

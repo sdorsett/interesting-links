@@ -13,6 +13,9 @@
 
 
 
+
+### August 15, 2021 
+- [Redis Server— Debuging Performance | by Stav Alfi | octopol-engineering | Aug, 2021 | Medium](https://medium.com/octopol-engineering/redis-server-debuging-performance-b1ab0594733b) 
 ### July 25, 2021 
 - [schemahero/schemahero: A Kubernetes operator for declarative database schema management (gitops for database schemas)](https://github.com/schemahero/schemahero) 
 - [n8n-io/n8n: Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.](https://github.com/n8n-io/n8n) 
